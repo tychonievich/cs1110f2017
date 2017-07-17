@@ -86,7 +86,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Friday " id="2017-09-22"><span class="date">22 Sep</span>decisions -- logical operators (not on exam 1)<br/>rest of §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2<br/>**never** use §[6.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.3)'s `exit()`{.python} function<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-09-25"><span class="date">25 Sep</span>review<br/>§[2](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.2)--5.2, §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2.3, §[8.2.2](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.2)--8.2.6, §[8.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.8.3)<br/></td>
-<td class="day Wednesday exam" id="2017-09-27"><span class="date">27 Sep</span>exam 1<br/>see lab 5</td>
+<td class="day Wednesday exam" id="2017-09-27"><span class="date">27 Sep</span>exam 1</td>
 <td class="day Thursday  lab" id="2017-09-28"><span class="date">28 Sep</span><br/></td>
 <td class="day Friday " id="2017-09-29"><span class="date">29 Sep</span>code readability, elegance<br/>§[3.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.3.4), §[8.2.9](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.9)--8.2.10; skim [PEP 8](https://www.python.org/dev/peps/pep-0008/)<br/></td>
 </tr><tr>
@@ -165,7 +165,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 
 <tr id="2017-09-22" class=""><th>22 Sep <br/></th><td>decisions -- logical operators (not on exam 1)</td><td>rest of §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2</td><td>**never** use §[6.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.3)'s `exit()`{.python} function
 <tr id="2017-09-25" class=""><th>25 Sep <br/></th><td>review</td><td>§[2](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.2)--5.2, §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2.3, §[8.2.2](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.2)--8.2.6, §[8.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.8.3)</td><td>
-<tr id="2017-09-27" class="exam"><th>27 Sep </th><td>exam 1</td><td>see lab 5</td><td>
+<tr id="2017-09-27" class="exam"><th>27 Sep </th><td>exam 1</td><td></td><td>
 <tr id="2017-09-28" class=" lab"><th>28 Sep <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-09-29" class=""><th>29 Sep <br/></th><td>code readability, elegance</td><td>§[3.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.3.4), §[8.2.9](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.9)--8.2.10; skim [PEP 8](https://www.python.org/dev/peps/pep-0008/)</td><td>

@@ -26,10 +26,10 @@
     - Dicts
 
     - Files
-    - Urllib
+    - Urllib/review
 
-    - Exceptions/review
     - Exam 2
+    - Exceptions
 
     - Regular expressions
     - Regular expressions
