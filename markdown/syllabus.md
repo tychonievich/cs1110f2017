@@ -23,13 +23,13 @@ Faculty member office hours do not use the Office Hour queue.
 Running a course as large as Introduction to Programming requires some coordination.
 Please help us by directing your contact in the right direction.
 
-Purpose | Appropriate Contact
---------|--------------------
-Q about course topics | In-class questions, office hours, or Piazza
-Q about code not working | Office hours
-Q about [grading](#grading-concerns-and-appeals) | Piazza (private post visible to all instructors)
+Purpose                                                     | Appropriate Contact
+------------------------------------------------------------|-------------------------------------------------------------
+Q about course topics                                       | In-class questions, office hours, or Piazza
+Q about code not working                                    | Office hours
+Q about [grading](#grading-concerns-and-appeals)            | Piazza (private post visible to all instructors)
 Conversations about mentoring, research, student life, etc. | Office hours or schedule one-on-one visit
-Personal issues impacting coursework | Your dean, and/or private email to your section's instructor
+Personal issues impacting coursework                        | Your dean, and/or private email to your section's instructor
 
 
 Luther Tychonievich
