@@ -108,12 +108,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Monday " id="2017-10-23"><span class="date">23 Oct</span>reading data -- `open`{.python} and `urllib`{.python}<br/>§[16.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.16.2), §[27.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.27.3)<br/></td>
 <td class="day Wednesday " id="2017-10-25"><span class="date">25 Oct</span>understanding data<br/>Wikpedia on [delimiter-separated values](https://en.wikipedia.org/wiki/Delimiter-separated_values)<br/>[vastats.csv](files/vastats.csv)<br/></td>
 <td class="day Thursday  lab" id="2017-10-26"><span class="date">26 Oct</span><br/></td>
-<td class="day Friday " id="2017-10-27"><span class="date">27 Oct</span>more on the data theme<br/>[fake-queue.csv](files/fake-queue.csv)<br/></td>
+<td class="day Friday " id="2017-10-27"><span class="date">27 Oct</span>more on the data theme<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)<br/>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)<br/></td>
-<td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>review<br/>[things to know](know.html)</td>
+<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/>[things to know](know.html)<br/></td>
+<td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>exam 2</td>
 <td class="day Thursday  lab" id="2017-11-02"><span class="date">2 Nov</span><br/></td>
-<td class="day Friday " id="2017-11-03"><span class="date">3 Nov</span>exam 2<br/></td>
+<td class="day Friday " id="2017-11-03"><span class="date">3 Nov</span>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)<br/>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-11-06"><span class="date">6 Nov</span>game design with `gamebox`{.python}<br/>[gamebox documentation](code/gamebox/gamebox.pdf)<br/></td>
 <td class="day Wednesday " id="2017-11-08"><span class="date">8 Nov</span>game design with `gamebox`{.python}<br/></td>
@@ -188,12 +188,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-25" class=""><th>25 Oct <br/></th><td>understanding data</td><td>Wikpedia on [delimiter-separated values](https://en.wikipedia.org/wiki/Delimiter-separated_values)</td><td>[vastats.csv](files/vastats.csv)
 <tr id="2017-10-26" class=" lab"><th>26 Oct <br/></th><td></td><td></td><td></td></tr>
 
-<tr id="2017-10-27" class=""><th>27 Oct <br/></th><td>more on the data theme</td><td></td><td>[fake-queue.csv](files/fake-queue.csv)
-<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)</td><td>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)</td><td>
-<tr id="2017-11-01" class="exam"><th>1 Nov </th><td>review</td><td></td><td>[things to know](know.html)
+<tr id="2017-10-27" class=""><th>27 Oct <br/></th><td>more on the data theme</td><td></td><td>
+<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>review</td><td></td><td>[things to know](know.html)
+<tr id="2017-11-01" class="exam"><th>1 Nov </th><td>exam 2</td><td></td><td>
 <tr id="2017-11-02" class=" lab"><th>2 Nov <br/></th><td></td><td></td><td></td></tr>
 
-<tr id="2017-11-03" class=""><th>3 Nov <br/></th><td>exam 2</td><td></td><td>
+<tr id="2017-11-03" class=""><th>3 Nov <br/></th><td>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)</td><td>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)</td><td>
 <tr id="2017-11-06" class=""><th>6 Nov <br/></th><td>game design with `gamebox`{.python}</td><td>[gamebox documentation](code/gamebox/gamebox.pdf)</td><td>
 <tr id="2017-11-08" class=""><th>8 Nov <br/></th><td>game design with `gamebox`{.python}</td><td></td><td>
 <tr id="2017-11-09" class=" lab"><th>9 Nov <br/></th><td></td><td></td><td></td></tr>
