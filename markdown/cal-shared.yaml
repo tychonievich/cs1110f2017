@@ -1,0 +1,25 @@
+Special Dates:
+  Courses begin: 2017-08-22
+  Courses end: 2017-12-04
+  Add deadline: 2017-09-05
+  Drop deadline: 2017-10-10
+  Withdraw deadline: 2017-10-17
+  Reading Days:
+    start: 2017-09-30
+    end: 2017-10-03
+  Thanksgiving break:
+    start: 2017-11-22
+    end: 2017-11-26
+  Exam 1: 2017-09-26
+  Exam 2: 2017-11-01
+  Exam 3: 2017-12-07
+
+1110-lab:
+    - "[installing Python and PyCharm](lab01-installing.html)"
+    - "[pseudocode counting squares](lab02-counting.html)"
+    - "[turtle art contest](lab03-turtle.html)"
+        
+assignments:
+  -
+    due: 2017-09-06
+    links: [w01-greeting, w01-nonsense]
