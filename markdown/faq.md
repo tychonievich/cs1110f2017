@@ -5,6 +5,78 @@ title: Frequently Asked Questions
 <style>h1 { font-size:1em; border: none; }</style>
 
 
+# Which CS 111x should I take?
+
+All of the CS 111x courses provide a full introduction to programming sufficient to take additional CS courses.
+Students who took all versions perform comparably in CS 2110.
+
+CS 1110
+:   A general section, designed to teach as many students as possible.
+    Most (but not all) who take this course have no prior programming experience.
+
+CS 1111
+:   A general section, tailored for those with some experience but not enough to test out of the course.
+    Has exactly the same assignments, grading, etc, as CS 1110 but meets less often and does not have labs.
+
+CS 1112
+:   Covers the same material as CS 1110/1111, but is organized based on the assumption that *none* of the students have any prior programming experience.
+    It makes use of several techniques that have been found to be particularly effective for such students, such as an integrated lecture and lab, a different assignment set, required attendance and participation, etc.
+    This comes at the cost of being unable to seat everyone who wants in and being less suited for those with some prior experience.
+    
+CS 1113
+:   A generic number for more audience-specific introductions to programming,
+    generally by emphasizing the topics that specific disciplines find useful.
+    Section 1113-001 is designed for engineers, pulling examples and assignments from common engineering domains
+    and teaching some tools and techniques engineers are likely to find useful.
+
+Placement Test
+:   If you have programmed before, you can likely place out of *Introduction to Programming* entirely.
+    Placement tests are offered in the CS department offices (Rice 527); no appointment is necessary.
+    If you pass the placement test, we advise taking CS 2110 to expand your programming ability further.
+
+
+
+# The course is listed as restricted
+
+CS courses are open to students in all majors, but for the initial periods of registration (indicated below) many are restricted to students in majors that require the course.
+
+As listed in [the list of CS course restriction dates](https://docs.google.com/document/d/1yO90x1yMk0goI5-3qz9BRUHqkVrzezF2bFc1tLMlsO8), 1110/1111 have the following dates:
+
+Start of Registration
+:   Open to SEAS students, CLAS rising 2nd year students, and Math or Cog Sci majors
+
+17-Apr-2017
+:   Open to all
+
+May-2017
+:   Restricted to rising SEAS 1st year students
+
+4-Aug-2017
+:   Restricted to rising A&S 1st year students
+
+11-Aug-2017
+:   Open to all
+
+The CS Department has no control over the exact time of day that the restriction changes.
+
+If you are not eligible to sign up for a full course, you cannot get on the waiting list. But, put yourself on the waiting list as soon as you can, because at the start of the term, waiting lists often shrink and many students do eventually get in.
+
+
+# I plan to declare a major that gets early enrollment
+
+Until your major is coded in SIS by the registrar, limitations on enrollment will hold as listed.
+We will not make any exceptions based on intended major declarations.
+
+
+# Will the course fill up before I have a chance to enroll?
+
+I cannot predict level of demand, but a good guess is "similar to last Fall", which can be viewed by visiting Lou's list for the appropriate semester and clicking on the enrollment number link (i.e., <http://rabi.phys.virginia.edu/mySIS/CS2/enrollment.php?Semester=1168&ClassNumber=17556>), then clicking "all".
+
+We are working to increase supply (our lecture rooms can hold more than last year), though there are challenges to make this happen (finding enough available lab spaces, etc).
+
+Note that while waiting lists do fill up, they also tend to empty before the add deadline.  Patience is sometimes rewarded with enrollment.
+
+
 # How do I get off the waitlist?
 
 In order to come off the wait list, there has to be an open seat in BOTH the lecture and lab you are signed up for. If one or the other is not true, then SIS moves on to the next student who has the right combination.
@@ -17,12 +89,11 @@ Some examples of special cases include:
 -   Incoming SEAS transfer 2nd year or higher
 -   Early graduation
 
+If you feel you warrant special consideration and are currently on the waitlist, please fill out the form here: [https://goo.gl/forms/rL5Mx4c6cjYVP1t53](https://goo.gl/forms/rL5Mx4c6cjYVP1t53)
+
 All SEAS Students will be given a seat, once each, provided they fill out the above form.  If you lose it by dropping and re-adding the course, we cannot re-accommodate you.
 
 <!--
-If you feel you warrant special consideration and are currently on the waitlist, please fill out the form here: [https://goo.gl/forms/rL5Mx4c6cjYVP1t53](https://goo.gl/forms/rL5Mx4c6cjYVP1t53)
--->
-
 Earlier there was a link here to a form to submit a waiting list appeal. We have already handled all those appeals and have relinquished control over our extra seats. We no longer have resources to honor additional appeals.
 
 *CLAS (and other schools) Students:*
@@ -30,14 +101,13 @@ Earlier there was a link here to a form to submit a waiting list appeal. We have
 - If you are a first year, we're sorry, but you probably won't get the course this semester. You are welcome to stay on the wait list to see what happens.
 - If you are thinking about the BA major in CS, you need to take 1110 by your third semester. You still have plenty of time. If this is your third semester or later, fill out the form above.
 - If you are in a major that requires CS 1110 (Math, Cog Sci -- note *NOT* Commerce!) and are either a third or fourth year, use the form above.
+-->
 
 *Consider the other CS1 courses:*
 
-We are offering two other CS1 courses this semester: CS 1112 with Prof. Cohoon (for students with no programming experience) and CS 1113 with Prof. Ibrahim (for future engineers). These are both good options to consider and all count the same for prerequisites and major requirements!
+We are offering three other CS1 courses this semester: CS 1112 with Jim Cohoon (for students with no programming experience) and CS 1113 with Qureshi Asma (for future engineers). These are both good options to consider and all count the same for prerequisites and major requirements!  CS 1511 this semester is also an introduction to computer science, though with a broader scope (and thus less programming depth) than our other CS1 offerings.
 
 We wish we could take everyone that wanted CS 1110 or CS 1111, but it’s simply not feasible with the room sizes and resources we have. Please do try again next semester if you can’t get in this time.
-
-We cannot control how many students leave the course, opening up room on the waiting lists, but historically we have had waiting lists shrink by as many as 5--10 students per lab section prior to the add deadline.
 
 Let us know if you have any questions.
 
@@ -45,7 +115,7 @@ Let us know if you have any questions.
 
 First, we have no control over this at all.  It depends entirely on other students dropping the course.
 
-Second, SIS will only tell you your *lecture* position, but your *lab* position is what matters to getting a seat.  Meaning that the waiting list position number stated by SIS is close to meaningless.
+Second, SIS will only tell you your *lecture* position, but your *lab* position is typically what matters to getting a seat.  Meaning that the waiting list position number stated by SIS is close to meaningless.
 
 In the past, we have had fairly steady drops from the first day of class up to the add deadline, generally with between 5 and 15% turnover.
 But the variance is high and we cannot predict which labs people will drop out of.
@@ -58,8 +128,8 @@ There is no way to change which lab you are waiting for without moving to the ba
 
 # What can I do while on the waiting list?
 
-You are welcome to come to 1110 lectures, but not to physically come to labs (the first week's lab being an exception: you may come to that), though attempting the lab activities on your own is encouraged.
-1111 lectures sometimes fill the room, so you might be asked to leave the room to make space for those enrolled if you are on the 1111 waiting list.
+You are welcome to come to 1110 lectures in Wilson hall (the 10am and 2pm sections), but not to physically come to labs (the first week's lab being an exception: you may come to that), though attempting the lab activities on your own is encouraged.
+1111 lectures and the 1110 lecture in Rice hall typically fill the room, so you might be asked to leave the room to make space for those enrolled if you attend those lectures while on a waiting list.
 
 We hope to also give you the ability to submit assignments while on the waiting list so that when/if you get off you are in no way behind on your work.
 No promises, though.
@@ -82,9 +152,8 @@ If none of the above options work for you, the department has a small number of 
 # Can I permanently swap labs?
 
 You can, assuming you find someone to swap with.
-You can [post on Piazza](https://piazza.com/class/iwxt2sk0gjf72b?cid=6) if you are interested in doing this.
-If BOTH people agree to the swap, email Prof. Tychonievich and he'll take care of it.
-DOUBLE CHECK that you both can actually take the other lab before agreeing! Check Piazza for more information.
+But **do not use SIS** to do this; it will likely kick you out of the class!
+We'll have a place on Piazza where you can handle lab swaps closer to the start of the semester.
 
 
 # Can I go to different lab section this week?
@@ -101,7 +170,7 @@ Missing one week in general will not affect your grade. Every student can miss o
 
 1111 students can attend an 1110 section on occasion if they like, though doing so will not excuse any missed attendance or participation activities.
 1110 students should not attend 1111 lectures due to the size of the classroom.
-1110 students can attend the other 1110 section on occasion as well, though again each section may have its own attendance and participation activities.
+1110 students can attend the other 1110 section on occasion as well, though again each section may have its own attendance and participation activities and the Rice hall lecture often fills up.
 
 
 # Can I take my test in a different lecture section?
@@ -115,8 +184,10 @@ When we get closer to the end of the semester, we'll have a form you'll fill out
 
 # I have travel and will miss the final exam. What do I do?
 
-University policy does not require us to provide any accommodations for travel.
-We might make exceptions for special cases, but "I already paid for tickets" is *not* a special case.
+University policy does not provide any accommodations for travel.
+If you believe you are an exception, contact your dean; only deans may approve final exam rescheduling.
+
+Know in advance that "I already paid for tickets" is *not* a special case.
 
 
 # My program handled all the example inputs correctly but still got a 0.  Why?
@@ -150,13 +221,6 @@ def sum(x, y):
 ````
 
 
-# Can I make an announcement in CS 1110 or CS 1111?
-
-We get so many of these requests that we cannot grant them all, and to avoid being unfair we generally do not grant any of them.
-If the announcement is purely academic in nature and there is a compelling reason why Introduction to Programming lecture is the right place to make it, email the professors; but we still make no guarantee we'll accommodate you.
-
-Raising your hand in class to make an announcement (rather than to ask or answer a question) is [unprofessional behavior](syllabus.html#professionalism) and will be treated as such.
-
 # My WiFi isn't working…
 
 UVA makes three different wireless networks available to students.  If one is down, try a different one
@@ -180,3 +244,12 @@ UVA makes three different wireless networks available to students.  If one is do
     7.  Back in the page you were looking at during step 4, enter the passcode in the field labeled "Passcode:" and click "Log In"
 
 It is uncommon for all three wireless networks to be down at the same time.  In my experience, `Welcome_to_UVa_Wireless` in particular is almost always up, in part because it is annoying to have to keep entering passcodes so few people use it.
+
+
+
+# Can I make an announcement in CS 1110 or CS 1111?
+
+We get so many of these requests that we cannot grant them all, and to avoid being unfair we generally do not grant any of them.
+If the announcement is purely academic in nature and there is a compelling reason why Introduction to Programming lecture is the right place to make it, email the professors; but we still make no guarantee we'll accommodate you.
+
+Raising your hand in class to make an announcement (rather than to ask or answer a question) is [unprofessional behavior](syllabus.html#professionalism) and will be treated as such.
