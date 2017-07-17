@@ -150,17 +150,17 @@ F        otherwise     0.0
 - Sitting beside another student and doing your homework together such that your code looks identical is considered an honor violation.
 - In general, follow these guidelines:
 
-Action|Response
-------|--------
-Using ideas or code from class or textbook|OK
-Using ideas from a TA or instructor|OK
-Using the course's development tool's built-in suggestions|OK
-Using ideas from https://docs.python.org/3/|OK
-Using code from a TA, instructor, or the textbook|OK, but cite the source
-Using code from https://docs.python.org/3/|OK, but cite the source
-Using general ideas from another student, tutor, or website|OK, but cite the source
-Using code from another student, tutor, or website|Cheating
-Sharing your code with another student, organization, or website|Cheating
+Action                                                           Response
+---------------------------------------------------------------  ------------------------
+Using ideas or code from class or textbook                       OK
+Using ideas from a TA or instructor                              OK
+Using the course's development tool's built-in suggestions       OK
+Using ideas from https://docs.python.org/3/                      OK
+Using code from a TA, instructor, or the textbook                OK, but cite the source
+Using code from https://docs.python.org/3/                       OK, but cite the source
+Using general ideas from another student, tutor, or website      OK, but cite the source
+Using code from another student, tutor, or website               Cheating
+Sharing your code with another student, organization, or website Cheating
 
 Citing is done in a comment or docstring in your code, like this:
 
