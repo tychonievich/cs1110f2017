@@ -71,7 +71,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Friday " id="2017-09-01"><span class="date">1 Sep</span>PyCharm<br/>§[1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.4), §[1.7](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.7)<br/>[demo.py](files/001/demo.py)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-09-04"><span class="date">4 Sep</span>course overview with `turtle`{.python}, part 1<br/></td>
-<td class="day Wednesday " id="2017-09-06"><span class="date">6 Sep</span>course overview with `turtle`{.python}, part 2<br/>video didn't work right -- [audio](podcasts/2017-02-01-audio.mp3)<br/></td>
+<td class="day Wednesday " id="2017-09-06"><span class="date">6 Sep</span>course overview with `turtle`{.python}, part 2<br/>video didn't work right -- [audio](podcasts/2017-02-01-audio.mp3)<br/><span class="special">Add deadline</span></td>
 <td class="day Thursday  lab" id="2017-09-07"><span class="date">7 Sep</span>[turtle art contest](lab03-turtle.html)<br/></td>
 <td class="day Friday " id="2017-09-08"><span class="date">8 Sep</span>hello, world!<br/>[revised chapter 2](revised2.2.html); §[5.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.5.2.4)--5.2.5; §[4.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.4.1)<br/>[PythonTutor](http://pythontutor.com/)<br/></td>
 </tr><tr>
@@ -96,12 +96,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Friday " id="2017-10-06"><span class="date">6 Oct</span>repeating with `while`{.python}<br/>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>composite datatypes -- strings, ranges, lists, tuples<br/>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)<br/></td>
-<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>methods and mutability -- why `list`{.python} is special<br/>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),<br/></td>
+<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>methods and mutability -- why `list`{.python} is special<br/>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),<br/><span class="special">Drop deadline</span></td>
 <td class="day Thursday  lab" id="2017-10-12"><span class="date">12 Oct</span><br/></td>
 <td class="day Friday " id="2017-10-13"><span class="date">13 Oct</span>iteration -- the `for`{.python} loop<br/>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>applications of lists and strings<br/>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)<br/></td>
-<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>debugging techniques<br/>[buggy code](files/001/spoon.py)<br/></td>
+<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>debugging techniques<br/>[buggy code](files/001/spoon.py)<br/><span class="special">Withdraw deadline</span></td>
 <td class="day Thursday  lab" id="2017-10-19"><span class="date">19 Oct</span><br/></td>
 <td class="day Friday " id="2017-10-20"><span class="date">20 Oct</span>flexible indices -- `dict`{.python}<br/>§[13](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.13)<br/></td>
 </tr><tr>
@@ -150,7 +150,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 
 <tr id="2017-09-01" class=""><th>1 Sep <br/></th><td>PyCharm</td><td>§[1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.4), §[1.7](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.7)</td><td>[demo.py](files/001/demo.py)
 <tr id="2017-09-04" class=""><th>4 Sep <br/></th><td>course overview with `turtle`{.python}, part 1</td><td></td><td>
-<tr id="2017-09-06" class=""><th>6 Sep <br/></th><td>course overview with `turtle`{.python}, part 2</td><td></td><td>video didn't work right -- [audio](podcasts/2017-02-01-audio.mp3)
+<tr id="2017-09-06" class=""><th>6 Sep <br/><span class="special">Add deadline</span></th><td>course overview with `turtle`{.python}, part 2</td><td></td><td>video didn't work right -- [audio](podcasts/2017-02-01-audio.mp3)
 <tr id="2017-09-07" class=" lab"><th>7 Sep <br/></th><td>[turtle art contest](lab03-turtle.html)</td><td></td><td></td></tr>
 
 <tr id="2017-09-08" class=""><th>8 Sep <br/></th><td>hello, world!</td><td>[revised chapter 2](revised2.2.html); §[5.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.5.2.4)--5.2.5; §[4.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.4.1)</td><td>[PythonTutor](http://pythontutor.com/)
@@ -175,12 +175,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 
 <tr id="2017-10-06" class=""><th>6 Oct <br/></th><td>repeating with `while`{.python}</td><td>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)</td><td>
 <tr id="2017-10-09" class=""><th>9 Oct <br/></th><td>composite datatypes -- strings, ranges, lists, tuples</td><td>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)</td><td>
-<tr id="2017-10-11" class=""><th>11 Oct <br/></th><td>methods and mutability -- why `list`{.python} is special</td><td>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),</td><td>
+<tr id="2017-10-11" class=""><th>11 Oct <br/><span class="special">Drop deadline</span></th><td>methods and mutability -- why `list`{.python} is special</td><td>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),</td><td>
 <tr id="2017-10-12" class=" lab"><th>12 Oct <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-10-13" class=""><th>13 Oct <br/></th><td>iteration -- the `for`{.python} loop</td><td>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)</td><td>
 <tr id="2017-10-16" class=""><th>16 Oct <br/></th><td>applications of lists and strings</td><td>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)</td><td>
-<tr id="2017-10-18" class=""><th>18 Oct <br/></th><td>debugging techniques</td><td></td><td>[buggy code](files/001/spoon.py)
+<tr id="2017-10-18" class=""><th>18 Oct <br/><span class="special">Withdraw deadline</span></th><td>debugging techniques</td><td></td><td>[buggy code](files/001/spoon.py)
 <tr id="2017-10-19" class=" lab"><th>19 Oct <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-10-20" class=""><th>20 Oct <br/></th><td>flexible indices -- `dict`{.python}</td><td>§[13](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.13)</td><td>
@@ -224,7 +224,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Wednesday " id="2017-08-30"><span class="date">30 Aug</span>Algorithms & pseudocode<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-09-04"><span class="date">4 Sep</span>Turtle & number conversion<br/></td>
-<td class="day Wednesday " id="2017-09-06"><span class="date">6 Sep</span>Computer system architecture<br/></td>
+<td class="day Wednesday " id="2017-09-06"><span class="date">6 Sep</span>Computer system architecture<br/><span class="special">Add deadline</span></td>
 </tr><tr>
 <td class="day Monday " id="2017-09-11"><span class="date">11 Sep</span>Basic functions<br/></td>
 <td class="day Wednesday " id="2017-09-13"><span class="date">13 Sep</span>Functions<br/></td>
@@ -239,10 +239,10 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Wednesday " id="2017-10-04"><span class="date">4 Oct</span>Testing<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>Repetition<br/></td>
-<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>String operations<br/></td>
+<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>String operations<br/><span class="special">Drop deadline</span></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>String methods/Lists<br/></td>
-<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>Lists<br/></td>
+<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>Lists<br/><span class="special">Withdraw deadline</span></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-23"><span class="date">23 Oct</span>Dicts<br/></td>
 <td class="day Wednesday " id="2017-10-25"><span class="date">25 Oct</span>Files<br/></td>
@@ -271,7 +271,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-08-28" class=""><th>28 Aug <br/></th><td>Algorithms & pseudocode
 <tr id="2017-08-30" class=""><th>30 Aug <br/></th><td>Algorithms & pseudocode
 <tr id="2017-09-04" class=""><th>4 Sep <br/></th><td>Turtle & number conversion
-<tr id="2017-09-06" class=""><th>6 Sep <br/></th><td>Computer system architecture
+<tr id="2017-09-06" class=""><th>6 Sep <br/><span class="special">Add deadline</span></th><td>Computer system architecture
 <tr id="2017-09-11" class=""><th>11 Sep <br/></th><td>Basic functions
 <tr id="2017-09-13" class=""><th>13 Sep <br/></th><td>Functions
 <tr id="2017-09-18" class=""><th>18 Sep <br/></th><td>Variable scope
@@ -281,9 +281,9 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-02" class="noclass"><th>2 Oct </th><td><span class="reason">Reading Days</span>
 <tr id="2017-10-04" class=""><th>4 Oct <br/></th><td>Testing
 <tr id="2017-10-09" class=""><th>9 Oct <br/></th><td>Repetition
-<tr id="2017-10-11" class=""><th>11 Oct <br/></th><td>String operations
+<tr id="2017-10-11" class=""><th>11 Oct <br/><span class="special">Drop deadline</span></th><td>String operations
 <tr id="2017-10-16" class=""><th>16 Oct <br/></th><td>String methods/Lists
-<tr id="2017-10-18" class=""><th>18 Oct <br/></th><td>Lists
+<tr id="2017-10-18" class=""><th>18 Oct <br/><span class="special">Withdraw deadline</span></th><td>Lists
 <tr id="2017-10-23" class=""><th>23 Oct <br/></th><td>Dicts
 <tr id="2017-10-25" class=""><th>25 Oct <br/></th><td>Files
 <tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>Urllib/review
