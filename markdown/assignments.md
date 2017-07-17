@@ -21,7 +21,11 @@ dl dt{
 }
 </style>
 
-Due to significant flux in enrollment, the first programming assignment will be due after the add deadline.
+
+2017-09-06 
+:    [greeting.py](w01-greeting.html) 
+2017-09-06 
+:    [nonsense.py](w01-nonsense.html) 
 
 
 # 1110 Labs
