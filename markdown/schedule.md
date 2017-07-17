@@ -247,10 +247,10 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Monday " id="2017-10-23"><span class="date">23 Oct</span>Dicts<br/></td>
 <td class="day Wednesday " id="2017-10-25"><span class="date">25 Oct</span>Files<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>Urllib<br/></td>
-<td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>Exceptions/review</td>
+<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>Urllib/review<br/></td>
+<td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>Exam 2</td>
 </tr><tr>
-<td class="day Monday " id="2017-11-06"><span class="date">6 Nov</span>Exam 2<br/></td>
+<td class="day Monday " id="2017-11-06"><span class="date">6 Nov</span>Exceptions<br/></td>
 <td class="day Wednesday " id="2017-11-08"><span class="date">8 Nov</span>Regular expressions<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-11-13"><span class="date">13 Nov</span>Regular expressions<br/></td>
@@ -286,9 +286,9 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-18" class=""><th>18 Oct <br/></th><td>Lists
 <tr id="2017-10-23" class=""><th>23 Oct <br/></th><td>Dicts
 <tr id="2017-10-25" class=""><th>25 Oct <br/></th><td>Files
-<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>Urllib
-<tr id="2017-11-01" class="exam"><th>1 Nov </th><td>Exceptions/review
-<tr id="2017-11-06" class=""><th>6 Nov <br/></th><td>Exam 2
+<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>Urllib/review
+<tr id="2017-11-01" class="exam"><th>1 Nov </th><td>Exam 2
+<tr id="2017-11-06" class=""><th>6 Nov <br/></th><td>Exceptions
 <tr id="2017-11-08" class=""><th>8 Nov <br/></th><td>Regular expressions
 <tr id="2017-11-13" class=""><th>13 Nov <br/></th><td>Regular expressions
 <tr id="2017-11-15" class=""><th>15 Nov <br/></th><td>game design with `gamebox`{.python}
