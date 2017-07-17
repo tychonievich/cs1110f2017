@@ -86,7 +86,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Friday " id="2017-09-22"><span class="date">22 Sep</span>decisions -- logical operators (not on exam 1)<br/>rest of §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2<br/>**never** use §[6.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.3)'s `exit()`{.python} function<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-09-25"><span class="date">25 Sep</span>review<br/>§[2](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.2)--5.2, §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2.3, §[8.2.2](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.2)--8.2.6, §[8.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.8.3)<br/></td>
-<td class="day Wednesday " id="2017-09-27"><span class="date">27 Sep</span>exam 1<br/>see [lab 5](lab05-paper.html)<br/></td>
+<td class="day Wednesday exam" id="2017-09-27"><span class="date">27 Sep</span>exam 1<br/>see [lab 5](lab05-paper.html)</td>
 <td class="day Thursday  lab" id="2017-09-28"><span class="date">28 Sep</span><br/></td>
 <td class="day Friday " id="2017-09-29"><span class="date">29 Sep</span>code readability, elegance<br/>§[3.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.3.4), §[8.2.9](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.9)--8.2.10; skim [PEP 8](https://www.python.org/dev/peps/pep-0008/)<br/></td>
 </tr><tr>
@@ -135,6 +135,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday  lab" id="2017-11-30"><span class="date">30 Nov</span><br/></td>
 <td class="day Friday " id="2017-12-01"><span class="date">1 Dec</span>file writing wrapup, and Q&A<br/>submit questions [here](https://docs.google.com/a/virginia.edu/forms/d/e/1FAIpQLSfUZeCfOpr04FMG9d1QdbBivgGtnpjx5Rq2wXHUAsp1huLo3g/viewform?usp=sf_link)<br/>No recording available (my audio recorder's battery died 48 seconds into lecture)<br/><br/></td>
 </tr><tr>
+<td class="day Monday " id="2017-12-04"><span class="date">4 Dec</span>review<br/>[review topics](know.html)<br/>the final exam is cumulative<br/></td>
 </tr></tbody></table>
 <table id="age1110" class="agenda">
 <thead><tr><th>Date</th><th>Topic</th><th>Reading</th><th>Notes</th></tr></thead>
@@ -164,7 +165,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 
 <tr id="2017-09-22" class=""><th>22 Sep <br/></th><td>decisions -- logical operators (not on exam 1)</td><td>rest of §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2</td><td>**never** use §[6.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.3)'s `exit()`{.python} function
 <tr id="2017-09-25" class=""><th>25 Sep <br/></th><td>review</td><td>§[2](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.2)--5.2, §[6.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.6.1)--6.2.3, §[8.2.2](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.2)--8.2.6, §[8.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.8.3)</td><td>
-<tr id="2017-09-27" class=""><th>27 Sep <br/></th><td>exam 1</td><td>see [lab 5](lab05-paper.html)</td><td>
+<tr id="2017-09-27" class="exam"><th>27 Sep </th><td>exam 1</td><td>see [lab 5](lab05-paper.html)</td><td>
 <tr id="2017-09-28" class=" lab"><th>28 Sep <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-09-29" class=""><th>29 Sep <br/></th><td>code readability, elegance</td><td>§[3.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.3.4), §[8.2.9](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.9)--8.2.10; skim [PEP 8](https://www.python.org/dev/peps/pep-0008/)</td><td>
@@ -212,7 +213,8 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>file writing</td><td></td><td>
 <tr id="2017-11-30" class=" lab"><th>30 Nov <br/></th><td></td><td></td><td></td></tr>
 
-<tr id="2017-12-01" class=""><th>1 Dec <br/></th><td>file writing wrapup, and Q&A</td><td></td><td>submit questions [here](https://docs.google.com/a/virginia.edu/forms/d/e/1FAIpQLSfUZeCfOpr04FMG9d1QdbBivgGtnpjx5Rq2wXHUAsp1huLo3g/viewform?usp=sf_link)<br/>No recording available (my audio recorder's battery died 48 seconds into lecture)<br/></tbody></table>
+<tr id="2017-12-01" class=""><th>1 Dec <br/></th><td>file writing wrapup, and Q&A</td><td></td><td>submit questions [here](https://docs.google.com/a/virginia.edu/forms/d/e/1FAIpQLSfUZeCfOpr04FMG9d1QdbBivgGtnpjx5Rq2wXHUAsp1huLo3g/viewform?usp=sf_link)<br/>No recording available (my audio recorder's battery died 48 seconds into lecture)<br/>
+<tr id="2017-12-04" class=""><th>4 Dec <br/></th><td>review</td><td>[review topics](know.html)</td><td>the final exam is cumulative</tbody></table>
 <table id="cal1111" class="calendar">
 <thead><tr><th>Monday</th><th>Wednesday</th></tr></thead>
 <tbody><tr><td/>
@@ -231,7 +233,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Wednesday " id="2017-09-20"><span class="date">20 Sep</span>Decisions if elif<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-09-25"><span class="date">25 Sep</span>Review<br/></td>
-<td class="day Wednesday " id="2017-09-27"><span class="date">27 Sep</span>Exam 1<br/></td>
+<td class="day Wednesday exam" id="2017-09-27"><span class="date">27 Sep</span>Exam 1</td>
 </tr><tr>
 <td class="day Monday noclass" id="2017-10-02"><span class="date">2 Oct</span><span class="reason">Reading Days</span></td>
 <td class="day Wednesday " id="2017-10-04"><span class="date">4 Oct</span>Testing<br/></td>
@@ -260,6 +262,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>image manipulation with `pillow`{.python}<br/></td>
 <td class="day Wednesday " id="2017-11-29"><span class="date">29 Nov</span>image manipulation with `pillow`{.python}<br/></td>
 </tr><tr>
+<td class="day Monday " id="2017-12-04"><span class="date">4 Dec</span>review<br/></td>
 </tr></tbody></table>
 <table id="age1111" class="agenda">
 <thead><tr><th>Date</th><th>Topic</th></tr></thead>
@@ -274,7 +277,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-09-18" class=""><th>18 Sep <br/></th><td>Variable scope
 <tr id="2017-09-20" class=""><th>20 Sep <br/></th><td>Decisions if elif
 <tr id="2017-09-25" class=""><th>25 Sep <br/></th><td>Review
-<tr id="2017-09-27" class=""><th>27 Sep <br/></th><td>Exam 1
+<tr id="2017-09-27" class="exam"><th>27 Sep </th><td>Exam 1
 <tr id="2017-10-02" class="noclass"><th>2 Oct </th><td><span class="reason">Reading Days</span>
 <tr id="2017-10-04" class=""><th>4 Oct <br/></th><td>Testing
 <tr id="2017-10-09" class=""><th>9 Oct <br/></th><td>Repetition
@@ -292,7 +295,8 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-20" class=""><th>20 Nov <br/></th><td>game design with `gamebox`{.python}
 <tr id="2017-11-22" class="noclass"><th>22 Nov </th><td><span class="reason">Thanksgiving break</span>
 <tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>image manipulation with `pillow`{.python}
-<tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>image manipulation with `pillow`{.python}</tbody></table>
+<tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>image manipulation with `pillow`{.python}
+<tr id="2017-12-04" class=""><th>4 Dec <br/></th><td>review</tbody></table>
 <script>rehide()</script>
 
 <hr/>
