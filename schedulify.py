@@ -80,10 +80,10 @@ function rehide(e) {
 }
 </script>
 
-<a id="cal1110" class="button" href="#cal1110" onclick="rehide('cal1110')">1110 Calendar</a>
-<a id="age1110" class="button" href="#age1110" onclick="rehide('age1110')">1110 Agenda</a>
-<a id="cal1111" class="button" href="#cal1111" onclick="rehide('cal1111')">1111 Calendar</a>
-<a id="age1111" class="button" href="#age1111" onclick="rehide('age1111')">1111 Agenda</a>
+<a id="acal1110" class="button" href="#cal1110" onclick="rehide('cal1110')">1110 Calendar</a>
+<a id="aage1110" class="button" href="#age1110" onclick="rehide('age1110')">1110 Agenda</a>
+<a id="acal1111" class="button" href="#cal1111" onclick="rehide('cal1111')">1111 Calendar</a>
+<a id="aage1111" class="button" href="#age1111" onclick="rehide('age1111')">1111 Agenda</a>
 
 <hr/>
 
@@ -197,15 +197,11 @@ while now < end:
 
 cal1110 += '</tr></tbody></table>'
 age1110 += '</tbody></table>'
-cal002 += '</tr></tbody></table>'
-age002 += '</tbody></table>'
 cal1111 += '</tr></tbody></table>'
 age1111 += '</tbody></table>'
 
 print(cal1110)
 print(age1110)
-print(cal002)
-print(age002)
 print(cal1111)
 print(age1111)
 
