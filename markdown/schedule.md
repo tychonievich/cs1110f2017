@@ -259,8 +259,8 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Monday " id="2017-11-20"><span class="date">20 Nov</span>game design with `gamebox`{.python}<br/></td>
 <td class="day Wednesday noclass" id="2017-11-22"><span class="date">22 Nov</span><span class="reason">Thanksgiving break</span></td>
 </tr><tr>
-<td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>image manipulation with `pillow`{.python}<br/></td>
-<td class="day Wednesday " id="2017-11-29"><span class="date">29 Nov</span>image manipulation with `pillow`{.python}<br/></td>
+<td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>file writing<br/></td>
+<td class="day Wednesday " id="2017-11-29"><span class="date">29 Nov</span>file writing<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-12-04"><span class="date">4 Dec</span>review<br/></td>
 </tr></tbody></table>
@@ -294,8 +294,8 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-15" class=""><th>15 Nov <br/></th><td>game design with `gamebox`{.python}
 <tr id="2017-11-20" class=""><th>20 Nov <br/></th><td>game design with `gamebox`{.python}
 <tr id="2017-11-22" class="noclass"><th>22 Nov </th><td><span class="reason">Thanksgiving break</span>
-<tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>image manipulation with `pillow`{.python}
-<tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>image manipulation with `pillow`{.python}
+<tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>file writing
+<tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>file writing
 <tr id="2017-12-04" class=""><th>4 Dec <br/></th><td>review</tbody></table>
 <script>rehide()</script>
 
