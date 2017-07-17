@@ -115,21 +115,21 @@ Professionalism Penalty | 0--100% | Excessive missed classes, rude behavior towa
 
 Your final letter grade will be calculated as follows:
 
-You get|if you score|GPA value
---|------------|---
-A+|near the top|4.0
-A |≥ 93%|4.0
-A−|≥ 90%|3.7
-B+|≥ 86%|3.3
-B |≥ 83%|3.0
-B−|≥ 80%|2.7
-C+|≥ 76%|2.3
-C |≥ 73%|2.0
-C−|≥ 70%|1.7
-D+|≥ 66%|1.3
-D |≥ 63%|1.0
-D−|≥ 60%|0.7
-F |otherwise|0.0
+You get  if you score  GPA value
+-------- ------------- ---------
+A+       near the top  4.0
+A        ≥ 93%         4.0
+A−       ≥ 90%         3.7
+B+       ≥ 86%         3.3
+B        ≥ 83%         3.0
+B−       ≥ 80%         2.7
+C+       ≥ 76%         2.3
+C        ≥ 73%         2.0
+C−       ≥ 70%         1.7
+D+       ≥ 66%         1.3
+D        ≥ 63%         1.0
+D−       ≥ 60%         0.7
+F        otherwise     0.0
 
 **Rounding:** By default, grades will not be rounded in this course.
 
