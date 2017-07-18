@@ -182,9 +182,8 @@ If you are currently enrolled and
         We'll then verify that all students are enrolled in their *from* sections and that the swap does not change total enrollment size in any section and then forward the request on to the registrar.
 
 If you are currently on a waiting list
-:   The only way to change which waiting list is to drop and re-add.
-    This will change both lecture and lab waiting list positions to the back of the queue.
-    Note that typically only one of the two waiting lists matters (more often lab), so if the new section has fewer people waiting than your position in the old section's waiting list, this generally helps your chances of enrolling.
+:   See [Can I switch which lab I'm waiting for](#can-i-switch-which-lab-im-waiting-for) above.
+    The same logic applies to lectures.
 
 
 # Can I go to different lab section this week?
