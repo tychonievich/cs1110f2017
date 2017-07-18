@@ -194,7 +194,7 @@ See [The course is listed as restricted](#the-course-is-listed-as-restricted) ab
 Due to fire code limits, you cannot attend another lab session, even for just one week.
 We're also doing group work, so you need to be there for your team.
 
-If this is a class/test session, your other professor should provide you with an alternate time since you have a university class at the same time.
+If you need to do this because of conflict with another class or test, your other professor should provide you with an alternate time since you have a scheduled university class (this lab) at this time.
 
 Missing one week in general will not affect your grade. Every student can miss one lab with no penalty (and you do not need to make up the work).
 
