@@ -24,10 +24,6 @@ dl dt{
 </style>
 
 
-2017-09-06 
-:    [greeting.py](w01-greeting.html) 
-2017-09-06 
-:    [nonsense.py](w01-nonsense.html) 
 
 
 # 1110 Labs

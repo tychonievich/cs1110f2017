@@ -149,11 +149,42 @@ You can also do some basic assignments in an in-browser Python environment such 
 
 If none of the above options work for you, the department has a small number of laptops it can loan out to students enrolled in CS classes.  To gain access to one, talk to your professor (who has to make the request on your behalf).
 
-# Can I permanently swap labs?
+# Can I permanently swap sections?
 
-You can, assuming you find someone to swap with.
-But **do not use SIS** to do this; it will likely kick you out of the class!
-We'll have a place on Piazza where you can handle lab swaps closer to the start of the semester.
+Not easily… specifics follow based on your current status
+
+If you are currently enrolled and
+:   New lab *and* lecture have open seats
+    :   Then can drop and re-add in SIS.  But note that you have to drop first, so you can't simply keep your space in a full lab section and swap lecture sections.
+    
+    Keeping a full (lab/lecture) section, swapping to an open (lecture/lab) section
+    :   Don't use SIS; this has to be handled by the registrar directly.
+        Once the semester begins, email professor Tychonievich an email of the form
+        
+        >   Please swap Jane Doe (mst3k) from CS 1110 lab section 103 (SIS id 16952) to lab section 105 (SIS id 17564)
+        
+        Fill in the appropriate name, computing ID, lab/lecture sections and IDs.
+        You can find SIS ids of courses on [Lou's List](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1178&Type=Group&Group=CompSci).
+        We'll then verify there is space and if so, forward the request on to the registrar.
+        
+        These swaps cannot be made prior to the start of the semester.  Sorry.
+    
+    Swap with someone else in a full section
+    :   Have one (1) of the swapping parties email professor Tychonievich an email of the form
+        
+        >   Please swap Jane Doe (mst3k) from CS 1110 lab section 103 (SIS id 16952) to lab section 105 (SIS id 17564)
+        >   Please swap John Doe (aa1a) from CS 1110 lab section 105 (SIS id 17564) to lab section 103 (SIS id 16952)
+        
+        The email sender should CC the other parties in the swap.
+        
+        Fill in the appropriate names, computing IDs, lab/lecture sections and IDs.
+        You can find SIS ids of courses on [Lou's List](http://rabi.phys.virginia.edu/mySIS/CS2/page.php?Semester=1178&Type=Group&Group=CompSci).
+        We'll then verify that all students are enrolled in their *from* sections and that the swap does not change total enrollment size in any section and then forward the request on to the registrar.
+
+If you are currently on a waiting list
+:   The only way to change which waiting list is to drop and re-add.
+    This will change both lecture and lab waiting list positions to the back of the queue.
+    Note that typically only one of the two waiting lists matters (more often lab), so if the new section has fewer people waiting than your position in the old section's waiting list, this generally helps your chances of enrolling.
 
 
 # Can I go to different lab section this week?
