@@ -32,6 +32,10 @@ Placement Test
     Placement tests are offered in the CS department offices (Rice 527); no appointment is necessary.
     If you pass the placement test, we advise taking CS 2110 to expand your programming ability further.
 
+You might also consider taking CS 1511.
+CS 1511 is based off the successful CS Principles project and presents broader overview of CS topics.
+CS 111*x* will teach you programming skills and related topics;
+CS 1511 will teach you computational thinking and digital citizenship.
 
 
 # The course is listed as restricted
