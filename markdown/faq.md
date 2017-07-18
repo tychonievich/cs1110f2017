@@ -173,6 +173,7 @@ These swaps cannot be made prior to the start of the semester.  Sorry.
 Have one (1) of the swapping parties email professor Tychonievich an email of the form
 
 >   Please swap Jane Doe (mst3k) from CS 1110 lab section 103 (SIS id 16952) to lab section 105 (SIS id 17564)
+>
 >   Please swap John Doe (aa1a) from CS 1110 lab section 105 (SIS id 17564) to lab section 103 (SIS id 16952)
 
 The email sender should CC the other parties in the swap.
