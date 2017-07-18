@@ -2,8 +2,6 @@
 title: Frequently Asked Questions
 ...
 
-<style>h1, h2, h3, h4, h5, h6 { font-size:1em; border: none; }</style>
-
 
 # Which CS 111x should I take?
 
