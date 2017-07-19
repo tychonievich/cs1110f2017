@@ -157,7 +157,7 @@ With the exception of code written by your official partner in group assignments
 you should type every character in every file you submit.
 Don't copy-paste from others' code, the Internet, code from class, or the textbook.
 Don't let others type code for you (if they do, erase it and re-type it yourself).
-You may copy-paste from other code you wrote, but if you do [cite that you did so](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
+You may copy-paste from other code you wrote, but if you do cite that you did so to avoid [self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
 ### Acknowledge your sources
 
