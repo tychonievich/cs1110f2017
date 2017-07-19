@@ -144,25 +144,36 @@ F        otherwise     0.0
 - If you email, please put 1110/1111 somewhere in the subject. It makes it easier on the staff. And please don’t just reply to an email sent over a month ago. That makes it harder to keep up with your email.
 - Please don’t hesitate to contact us if you have any problems, concerns, questions, or issues regarding the course, material, or anything else in the class.
 
-## Academic Honor
+## Academic Honor in Coding
 
-- Many students taking this course have never programmed before and might not know what plagiarism of code looks like.
-- Sitting beside another student and doing your homework together such that your code looks identical is considered an honor violation.
-- In general, follow these guidelines:
+The line between collaborative learning (which is beneficial and encouraged)
+and cheating (which is counterproductive and discouraged)
+is often difficult to draw clearly in CS courses.
+Previous semesters' policies have failed to set this line at a useful point, so this semester we are experimenting with a new policy.
 
-Action                                                           Response
----------------------------------------------------------------  ------------------------
-Using ideas or code from class or textbook                       OK
-Using ideas from a TA or instructor                              OK
-Using the course's development tool's built-in suggestions       OK
-Using ideas from https://docs.python.org/3/                      OK
-Using code from a TA, instructor, or the textbook                OK, but cite the source
-Using code from https://docs.python.org/3/                       OK, but cite the source
-Using general ideas from another student, tutor, or website      OK, but cite the source
-Using code from another student, tutor, or website               Cheating
-Sharing your code with another student, organization, or website Cheating
+### Type your own code
 
-Citing is done in a comment or docstring in your code, like this:
+With the exception of code written by your official partner in group assignments,
+you should type every character in every file you submit.
+Don't copy-paste from others' code, the Internet, code from class, or the textbook.
+Don't let others type code for you (if they do, erase it and re-type it yourself).
+You may copy-paste from other code you wrote, but if you do [cite that you did so](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
+
+### Acknowledge your sources
+
+You must cite any source of code in your code itself.
+Ideas and suggestions needn't be cited, but if you hear or see something that directly causes you to type something,
+cite it.
+
+Citing can be done either as a comment near the code in question, as e.g.
+
+````python
+    year = int(input('What year is it? '))
+    if (year % 4) == 0: # I got this line from my friend M.S. Theater (mst3k)
+        if (year % 100) == 0:  # ... and used it to figure out this line on my own!
+````
+
+or as a docstring at the beginning of the file, as e.g.
 
 ````python
 """Source of help:
@@ -171,9 +182,9 @@ Citing is done in a comment or docstring in your code, like this:
 """
 ````
 
-We often re-use assignments from one semester to the next.
-Do not share your solutions even after the semester is over.
-We reserve the right to modify your grade after the fact if we discover you have facilitated others' cheating.
+We *will* look for and punish plagiarism (using others' work without citation):
+don't forget to cite your sources!
+
 
 ## Homework Assignments
 
