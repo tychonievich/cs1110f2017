@@ -182,8 +182,7 @@ or as a docstring at the beginning of the file, as e.g.
 """
 ````
 
-We *will* look for and punish plagiarism (using others' work without citation):
-don't forget to cite your sources!
+We will look for plagiarism (using others' work without citation) and punish it if found: don't forget to cite your sources!
 
 
 ## Homework Assignments
