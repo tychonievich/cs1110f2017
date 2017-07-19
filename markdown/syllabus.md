@@ -162,7 +162,8 @@ You may copy-paste from other code you wrote, but if you do cite that you did so
 ### Acknowledge your sources
 
 You must cite any source of code in your code itself.
-Ideas and suggestions needn't be cited, but if you hear or see something that directly causes you to type something,
+Ideas and conceptual help needn't be cited,
+but if you hear or see something that directly causes you to type something,
 cite it.
 
 Citing can be done either as a comment near the code in question, as e.g.
