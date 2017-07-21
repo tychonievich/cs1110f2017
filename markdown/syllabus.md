@@ -149,7 +149,8 @@ F        otherwise     0.0
 The line between collaborative learning (which is beneficial and encouraged)
 and cheating (which is counterproductive and discouraged)
 is often difficult to draw clearly in CS courses.
-Previous semesters' policies have failed to set this line at a useful point, so this semester we are experimenting with a new policy.
+Previous semesters' policies have failed to set this line at a useful point,
+so this semester we are experimenting with a new policy.
 
 ### Type your own code
 
@@ -162,7 +163,7 @@ You may copy-paste from other code you wrote, but if you do cite that you did so
 ### Acknowledge your sources
 
 You must cite any source of code in your code itself.
-Ideas and conceptual help needn't be cited,
+Ideas and conceptual help needn't be cited (though it doesn't hurt to cite them),
 but if you hear or see something that directly causes you to type something,
 cite it.
 
@@ -170,7 +171,7 @@ Citing can be done either as a comment near the code in question, as e.g.
 
 ````python
     year = int(input('What year is it? '))
-    if (year % 4) == 0: # I got this line from my friend M.S. Theater (mst3k)
+    if (year % 4) == 0:        # I got this line from M.S. Theater (mst3k)
         if (year % 100) == 0:  # ... and used it to figure out this line on my own!
 ````
 
@@ -179,18 +180,27 @@ or as a docstring at the beginning of the file, as e.g.
 ````python
 """Source of help:
   I found the distance formula on http://this.web.site/here 
-  I talked over ideas with my friend Thomas Jefferson (tj1a)
+  My friend Thomas Jefferson (tj1a) showed me how to use ** instead of math.sqrt
 """
 ````
 
 We will look for plagiarism (using others' work without citation) and punish it if found: don't forget to cite your sources!
 
+### Understand what you submit
+
+Working together can help you learn. But make sure you learned!
+We may ask you to explain aspects of a solution you turn in,
+and may dock points if it appears you simply copied someone else's ideas without understanding them.
+
+### No help on exams
+
+It would probably go without saying if we didn't say it, but no assistance may be given or received on any supervised evaluation (including exams, quizzes, etc.) unless specifically announced otherwise by the proctor of the evaluation.
+
 
 ## Homework Assignments
 
 - Homework assignments will not be handed out in class. Everything will be available online.
-- Every file should begin with your name and ID in a comment.
-- You should cite any ideas you discuss with other students or outside resources. Using any code written by another student, tutor, or website is considered a violation of the honor code.
+- You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
 - See the HW page and the automated grading system page for more information.
 - Late policy: Programming assignments can be submitted up to 2 days late, with a 10% penalty for each day late. Assignments are not accepted after 2 days past the deadline.
 
@@ -205,12 +215,11 @@ There will be a partner project in this course. Details of the groups are:
 
 - Normal group size is two. Group sizes of three might arise. Expectations will be adjusted to reflect available person power.
 - You will remain in the same group for the entire assignment unless you are asked to change.
-- You must partner with someone in your own lab section (or within 1111 if that is the case).
 - In general, all group members will receive the same grade for graded assignments. However, group members will evaluate their peers and any student who appears to not be contributing may be penalized.
 
 You are expected to work as a member of your group in this course and cooperate with your colleagues.
 Cooperation means attending group meetings, completing your assignments properly and on time, letting your group know if you will be out of town, responding to e-mail from your group, and so on.
-If there is a lack of cooperation by any group member, it must be brought to the attention of the instructor as soon as it happens.
+If there is a lack of cooperation by any group member, it should be brought to the attention of the instructor as soon as it happens.
 If the lack of cooperation is serious, the offending group member’s semester grade will be lowered. 
 
 ## Attendance
@@ -231,7 +240,7 @@ If the lack of cooperation is serious, the offending group member’s semester g
 
 **Exam** regrades are submitted via TPEGS (which will also be where you will find out how you did on the exams).
 
-**POTD** and **Lab** regrades are submitted on a private post on Piazza, tagged both **regrade_request** and the lab section in which you are enrolled (e.g. **lab107-930**).
+**Homework** and **Lab** regrades are submitted on a private post on Piazza, tagged both **regrade_request** and the lab section in which you are enrolled (e.g. **lab107-930**).
 
 Both forms of regrade requests are subject to the following policies:
 
@@ -274,7 +283,7 @@ Your class work might be used for research purposes. For example, we may use ano
 
 The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the Engineering School and in the future.
 
-Students are expected to be familiar with the university honor code, including the section on academic fraud ([http://www.virginia.edu/honor/what-is-academic-fraud-2/](http://www.virginia.edu/honor/what-is-academic-fraud-2/)). Each assignment will describe allowed collaborations, and deviations from these will be considered Honor violations. If you have questions on what is allowable, ask! Unless otherwise noted, exams and individual assignments will be considered pledged that you have neither given nor received help. (Among other things, this means that you are not allowed to describe problems on an exam to a student who has not taken it yet. You are not allowed to show exam papers to another student or view another student’s exam papers while working on an exam.) Send, receiving or otherwise copying electronic files that are part of course assignments are not allowed collaborations (except for those explicitly allowed in assignment instructions).
+Students are expected to be familiar with the university honor code, including the section on academic fraud ([http://www.virginia.edu/honor/what-is-academic-fraud-2/](http://www.virginia.edu/honor/what-is-academic-fraud-2/)). Each assignment will describe allowed collaborations, and deviations from these will be considered Honor violations. If you have questions on what is allowable, ask! Unless otherwise noted, exams and individual assignments will be considered pledged that you have neither given nor received help. (Among other things, this means that you are not allowed to describe problems on an exam to a student who has not taken it yet. You are not allowed to show exam papers to another student or view another student’s exam papers while working on an exam.) Sending, receiving or otherwise copying electronic files that are part of course assignments are not allowed collaborations (except for those explicitly allowed in assignment instructions).
 
 Assignments or exams where honor infractions or prohibited collaborations occur will receive a zero grade for that entire assignment or exam. Such infractions will also be submitted to the Honor Committee if that is appropriate. Students who have had prohibited collaborations may not be allowed to work with partners on remaining homeworks.
 
