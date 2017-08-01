@@ -14,7 +14,8 @@ into the public domain.
 As a courtesy, Luther would appreciate it if you acknowledged him in any work
 that benefited from this code.
 
-You may download the `gamebox.py` from <files/gamebox.py>
+You may download the `gamebox.py` [here](files/gamebox.py).
+You may also download a summary of how to write gamebox programs [here](code/gamebox/gamebox.pdf).
 
 # Classes
 
