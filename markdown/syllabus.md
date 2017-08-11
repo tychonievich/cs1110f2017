@@ -47,9 +47,9 @@ Luther Tychonievich
     Comments: I read email once a day, 5 days a week, if it contains 1110 in the subject line.  I get so much email that **email without 1110 in the subject line often goes unread**.
 
 Craig Dill
-:   Email: cd9au@virginia.edu 
+:   Office hours: Monday and Wednesday, 12--2pm in Rice 514.
     
-    Office hours: TBA
+    Email: cd9au@virginia.edu 
 
 Teaching Assistants
 :   TA office hours are held in the Stacks in Thorton A wing, 3:00--9:00 Sunday through Thursday.
