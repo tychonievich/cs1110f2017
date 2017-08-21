@@ -104,7 +104,6 @@ key:
     
     - 
       topic: review
-      notes: "[things to know](know.html)"
     - exam 2
     - 
       topic: polite code -- using `try`{.python} and `except`{.python} (not on exam 2)

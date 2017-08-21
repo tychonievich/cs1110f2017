@@ -61,7 +61,7 @@ Teaching Assistants
     Pestering our TAs when they are off the clock can be penalized under the "professionalism" clause of our grading policy.
 
 Message boards
-:   Piazza (link TBA) <!--@ [https://piazza.com/class/iwxt2sk0gjf72b](https://piazza.com/class/iwxt2sk0gjf72b)-->
+:   Piazza @ [https://piazza.com/class/j6m7hyps7tx66x](https://piazza.com/class/j6m7hyps7tx66xb)
     
     Log in to Piazza and use the threads for quick questions, assignments, and for discussion with other students and staff.
     
@@ -240,7 +240,7 @@ If the lack of cooperation is serious, the offending group member’s semester g
 
 **Exam** regrades are submitted via TPEGS (which will also be where you will find out how you did on the exams).
 
-**Homework** and **Lab** regrades are submitted on a private post on Piazza, tagged both **regrade_request** and the lab section in which you are enrolled (e.g. **lab107-930**).
+**Homework** and **Lab** regrades are submitted on a private post on Piazza, tagged **regrades**.
 
 Both forms of regrade requests are subject to the following policies:
 
