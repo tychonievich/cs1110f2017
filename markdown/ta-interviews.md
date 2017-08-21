@@ -87,4 +87,37 @@ When run, the program should prompt the user for which function to run and for t
 
 An example data file (obtained from the [national climatic data center](https://www.ncdc.noaa.gov/)) can be found at <http://cs1110.cs.virginia.edu/files/cho-temp.csv>.
 
+## Stage 2
+
+Write a program that asks the user for an integer greater than 1, then prints out the list of prime factors of that integer.
+Your solution should break the problem into sub-problems and add functions with one sub-problem per function.
+Your output should include the original number and the factors, smallest factor first.
+
+Recall that 
+
+-   *x* is a factor of *y* if the remainder of *y* ÷ *x* is zero.
+-   *x* is prime if its only positive integer factors are 1 and itself.
+-   *x* is a prime factor of *y* if both (a) *x* is a factor of *y* and (b) *x* is prime.
+-   every integer ≥ 2 has a unique prime factorization; for example, 28 = 2 × 2 × 7 and 28 cannot be factorized into any other set of primes.
+
+
+### Stage 2 Example runs
+
+````python
+What number? 7
+Prime factors of 7: [7]
+````
+
+````python
+What number? 32
+Prime factors of 32: [2, 2, 2, 2, 2]
+````
+
+````python
+What number? 1110
+Prime factors of 1110: [2, 3, 5, 37]
+````
+
+
 <!-- https://www.when2meet.com/?6166027-pzOyb -->
+
