@@ -110,7 +110,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday  lab" id="2017-10-26"><span class="date">26 Oct</span><br/></td>
 <td class="day Friday " id="2017-10-27"><span class="date">27 Oct</span>more on the data theme<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/>[things to know](know.html)<br/></td>
+<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/></td>
 <td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>exam 2</td>
 <td class="day Thursday  lab" id="2017-11-02"><span class="date">2 Nov</span><br/></td>
 <td class="day Friday " id="2017-11-03"><span class="date">3 Nov</span>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)<br/>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)<br/></td>
@@ -189,7 +189,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-26" class=" lab"><th>26 Oct <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-10-27" class=""><th>27 Oct <br/></th><td>more on the data theme</td><td></td><td>
-<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>review</td><td></td><td>[things to know](know.html)
+<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>review</td><td></td><td>
 <tr id="2017-11-01" class="exam"><th>1 Nov </th><td>exam 2</td><td></td><td>
 <tr id="2017-11-02" class=" lab"><th>2 Nov <br/></th><td></td><td></td><td></td></tr>
 

@@ -100,22 +100,23 @@ Recall that
 -   *x* is a prime factor of *y* if both (a) *x* is a factor of *y* and (b) *x* is prime.
 -   every integer ≥ 2 has a unique prime factorization; for example, 28 = 2 × 2 × 7 and 28 cannot be factorized into any other set of primes.
 
+> As a TA, you generally have access to a reference solution, written to aid in autograding, though that solution is not always the best model for students.  We have [a reference implementation of this program](files/factor.py) if you want to peruse it.
 
 ### Stage 2 Example runs
 
-````python
+````
 What number? 7
-Prime factors of 7: [7]
+The prime factors of 7 are [7]
 ````
 
-````python
+````
 What number? 32
-Prime factors of 32: [2, 2, 2, 2, 2]
+The prime factors of 32 are [2, 2, 2, 2, 2]
 ````
 
-````python
+````
 What number? 1110
-Prime factors of 1110: [2, 3, 5, 37]
+The prime factors of 1110 are [2, 3, 5, 37]
 ````
 
 
