@@ -21,7 +21,7 @@ with open('cal-1111.yaml') as stream:
     tmp = load(stream, Loader=Loader)
     craig = tmp['1111']
     ckey = tmp.get('key', ['topic'])
-with open('001-media.list') as stream:
+with open('media.list') as stream:
     lmedia = stream.read().split()
 
 day = datetime.timedelta(days=1)
@@ -159,8 +159,9 @@ def mwf(date, index, ilab, section, key, friday=True, media=[], fpath=None):
                 text['notes'] = text.get('notes', '') + ' [{}]({})'.format(img.split('/')[-1][8:].split('-',1)[-1], img)
         for m in media:
             # debug(m, '{}'.format(date), '{}'.format(date) in m)
-            if '{}'.format(date) in m:
-                text['notes'] = text.get('notes', '') + ' [video]({})'.format(m)
+            ds = '{}'.format(date)
+            if ds in m:
+                text['notes'] = text.get('notes', '') + ' [video {1}]({0})'.format(m, m[m.find(ds)+len(ds)+1:])
         cal = caldate + '<br/>'.join(text[k] for k in key if k in text) + special + '</td>\n'
         age = agedate + '</td><td>'.join(text.get(k,'') for k in key)
     elif date.weekday() == 3 and friday:
