@@ -192,6 +192,10 @@ The same logic applies to lectures.
 You'll have to wait for the restrictions to lift so that you could enroll before you can change section.
 See [The course is listed as restricted](#the-course-is-listed-as-restricted) above.
 
+## I'm currently enrolled but I have a conflict with the time
+
+Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfSUIBU_34AVIDUUEKdtAUU79BpZlP-LQSiInBtEI-VkmOCsw/viewform?usp=sf_link), which will log your computing ID (log in with your @virginia.edu google account).
+We only have a few reserved seats, so no guarantees, but we'll try to accommodate those with genuine need.
 
 # Can I go to different lab section this week?
 
