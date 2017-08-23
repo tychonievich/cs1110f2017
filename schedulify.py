@@ -161,7 +161,7 @@ def mwf(date, index, ilab, section, key, friday=True, media=[], fpath=None):
             # debug(m, '{}'.format(date), '{}'.format(date) in m)
             ds = '{}'.format(date)
             if ds in m:
-                text['notes'] = text.get('notes', '') + ' [video {1}]({0})'.format(m, m[m.find(ds)+len(ds)+1:])
+                text['notes'] = text.get('notes', '') + ' [{1}]({0})'.format(m, m[m.find(ds)+len(ds)+1:])
         cal = caldate + '<br/>'.join(text[k] for k in key if k in text) + special + '</td>\n'
         age = agedate + '</td><td>'.join(text.get(k,'') for k in key)
     elif date.weekday() == 3 and friday:
