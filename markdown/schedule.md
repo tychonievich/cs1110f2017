@@ -61,7 +61,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <table id="cal1110" class="calendar">
 <thead><tr><th>Monday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th></tr></thead>
 <tbody><tr><td/>
-<td class="day Wednesday " id="2017-08-23"><span class="date">23 Aug</span>welcome<br/>§[1.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.6), §[1.9](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.9)<br/> [1000-qa.txt](files/1110/2017-08-23-1000-qa.txt) [1400-qa.txt](files/1110/2017-08-23-1400-qa.txt) [video 1000.webm](screencasts/2017-08-23-1000.webm) [video 1400.webm](screencasts/2017-08-23-1400.webm)<br/></td>
+<td class="day Wednesday " id="2017-08-23"><span class="date">23 Aug</span>welcome<br/>§[1.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.6), §[1.9](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.9)<br/> [1000-qa.txt](files/1110/2017-08-23-1000-qa.txt) [1400-qa.txt](files/1110/2017-08-23-1400-qa.txt) [1000.webm](screencasts/2017-08-23-1000.webm) [1400.mp3](screencasts/2017-08-23-1400.mp3)<br/></td>
 <td class="day Thursday  lab" id="2017-08-24"><span class="date">24 Aug</span>[installing Python and PyCharm](lab01-installing.html)<br/></td>
 <td class="day Friday " id="2017-08-25"><span class="date">25 Aug</span>from requirements to software<br/>§[1.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.5)<br/></td>
 </tr><tr>
@@ -140,7 +140,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <table id="age1110" class="agenda">
 <thead><tr><th>Date</th><th>Topic</th><th>Reading</th><th>Notes</th></tr></thead>
 <tbody>
-<tr id="2017-08-23" class=""><th>23 Aug <br/></th><td>welcome</td><td>§[1.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.6), §[1.9](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.9)</td><td> [1000-qa.txt](files/1110/2017-08-23-1000-qa.txt) [1400-qa.txt](files/1110/2017-08-23-1400-qa.txt) [video 1000.webm](screencasts/2017-08-23-1000.webm) [video 1400.webm](screencasts/2017-08-23-1400.webm)
+<tr id="2017-08-23" class=""><th>23 Aug <br/></th><td>welcome</td><td>§[1.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.6), §[1.9](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.9)</td><td> [1000-qa.txt](files/1110/2017-08-23-1000-qa.txt) [1400-qa.txt](files/1110/2017-08-23-1400-qa.txt) [1000.webm](screencasts/2017-08-23-1000.webm) [1400.mp3](screencasts/2017-08-23-1400.mp3)
 <tr id="2017-08-24" class=" lab"><th>24 Aug <br/></th><td>[installing Python and PyCharm](lab01-installing.html)</td><td></td><td></td></tr>
 
 <tr id="2017-08-25" class=""><th>25 Aug <br/></th><td>from requirements to software</td><td>§[1.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.5)</td><td>
