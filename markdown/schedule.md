@@ -63,7 +63,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tbody><tr><td/>
 <td class="day Wednesday " id="2017-08-23"><span class="date">23 Aug</span>welcome<br/>§[1.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.6), §[1.9](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.9)<br/> [1000-qa.txt](files/1110/2017-08-23-1000-qa.txt) [1400-qa.txt](files/1110/2017-08-23-1400-qa.txt) [1000.webm](screencasts/2017-08-23-1000.webm) [1400.mp3](screencasts/2017-08-23-1400.mp3)<br/></td>
 <td class="day Thursday  lab" id="2017-08-24"><span class="date">24 Aug</span>[installing Python and PyCharm](lab01-installing.html)<br/></td>
-<td class="day Friday " id="2017-08-25"><span class="date">25 Aug</span>from requirements to software<br/>§[1.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.5)<br/></td>
+<td class="day Friday " id="2017-08-25"><span class="date">25 Aug</span>from requirements to software<br/>§[1.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.5)<br/> [1000-slides.pdf](files/1110/2017-08-25-1000-slides.pdf) [1000.webm](screencasts/2017-08-25-1000.webm)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-08-28"><span class="date">28 Aug</span>ambiguity<br/>Exercises 1.1 and 1.2 from textbook<br/></td>
 <td class="day Wednesday " id="2017-08-30"><span class="date">30 Aug</span>pseudocode<br/>[wikihow](http://www.wikihow.com/Write-Pseudocode)<br/></td>
@@ -143,7 +143,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-08-23" class=""><th>23 Aug <br/></th><td>welcome</td><td>§[1.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.6), §[1.9](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.9)</td><td> [1000-qa.txt](files/1110/2017-08-23-1000-qa.txt) [1400-qa.txt](files/1110/2017-08-23-1400-qa.txt) [1000.webm](screencasts/2017-08-23-1000.webm) [1400.mp3](screencasts/2017-08-23-1400.mp3)
 <tr id="2017-08-24" class=" lab"><th>24 Aug <br/></th><td>[installing Python and PyCharm](lab01-installing.html)</td><td></td><td></td></tr>
 
-<tr id="2017-08-25" class=""><th>25 Aug <br/></th><td>from requirements to software</td><td>§[1.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.5)</td><td>
+<tr id="2017-08-25" class=""><th>25 Aug <br/></th><td>from requirements to software</td><td>§[1.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.1.5)</td><td> [1000-slides.pdf](files/1110/2017-08-25-1000-slides.pdf) [1000.webm](screencasts/2017-08-25-1000.webm)
 <tr id="2017-08-28" class=""><th>28 Aug <br/></th><td>ambiguity</td><td>Exercises 1.1 and 1.2 from textbook</td><td>
 <tr id="2017-08-30" class=""><th>30 Aug <br/></th><td>pseudocode</td><td>[wikihow](http://www.wikihow.com/Write-Pseudocode)</td><td>
 <tr id="2017-08-31" class=" lab"><th>31 Aug <br/></th><td>[pseudocode counting squares](lab02-counting.html)</td><td></td><td></td></tr>
