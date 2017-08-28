@@ -156,7 +156,7 @@ def mwf(date, index, ilab, section, key, friday=True, media=[], fpath=None):
         if type(text) is not dict: text = {key[0]:text}
         if fpath is not None:
             for img in sorted(glob('files/{}/{}*'.format(fpath, date.strftime('%Y%m%d')))+glob('files/{}/{}*'.format(fpath, date.strftime('%Y-%m-%d')))):
-                print(img, file=stderr)
+                # print(img, file=stderr)
                 text['notes'] = text.get('notes', '') + ' [{}]({})'.format(img.split('/')[-1][8:].split('-',1)[-1], img)
         for m in media:
             # debug(m, '{}'.format(date), '{}'.format(date) in m)
