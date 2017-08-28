@@ -211,7 +211,7 @@ Missing one week in general will not affect your grade. Every student can miss o
 
 1111 students can attend an 1110 section on occasion if they like, though doing so will not excuse any missed attendance or participation activities.
 1110 students should not attend 1111 lectures due to the size of the classroom.
-1110 students can attend the other 1110 section on occasion as well, though again each section may have its own attendance and participation activities and the Rice hall lecture often fills up.
+1110 students can attend a different 1110 section on occasion as well, though if your instructor tracks attendance or participation those need to be done in your lecture, and if the Rice hall lecture fills up we'll ask those not enrolled in that section to leave.
 
 
 # Can I take my test in a different lecture section?
