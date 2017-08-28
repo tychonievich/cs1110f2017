@@ -37,6 +37,7 @@ CS 1511 is based off the successful CS Principles project and presents broader o
 CS 111*x* will teach you programming skills and related topics;
 CS 1511 will teach you computational thinking and digital citizenship.
 
+<!-- 
 
 # The course is listed as restricted
 
@@ -78,6 +79,7 @@ We are working to increase supply (our lecture rooms can hold more than last yea
 
 Note that while waiting lists do fill up, they also tend to empty before the add deadline.  Patience is sometimes rewarded with enrollment.
 
+-->
 
 # How do I get off the waitlist?
 
