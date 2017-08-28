@@ -54,14 +54,16 @@ Craig Dill
 Teaching Assistants
 :   TA office hours are held in the Stacks in Thorton A wing, 3:00--9:00 Sunday through Thursday.
     See [the office hours tab](oh.html) for more on how to get their help.
+    
+    Our TAs this semester are Abey Koolipurackal, Ajay Patel, Ali Burke, Alyssa Porto, Ani Sridhar, Anthony Quach, Callie Phillips, Caroline McNichols, Claire Veasey, Conor Flannery, Daniel Kovach, Danielle Myers, Elizabeth Tobeason, Emily Zhou, Eric Pawela, Gavin Restifo, Hank Weber, Hasan Khan, Henry Weber, Irena Huang, Jack Nugent, Jessica Emmons, John Perales, Justin Barry, Kathleen Ross, Kavya Ravikani, Kevin Warshaw, Laura Maimon, Layne Berry, Marco Gomez-Wong, Maria Schweitzer, Mark Panetti, Matthew Aldridge, Megan Do, Michael Morris, Monique Mezher, Naomi-Grace Panlaqui, Patrick Myers, Sadiyah Faruk, Sahana Arkalgud, Sean Gatewood, Stephen Read, Summer Thompson, Trad Groover, and William Gorick.
 
-    Our teaching assistants are students too.
+    Our TAs are students too.
     Please show them respect and only contact them via piazza, or in person during their scheduled office hours.
         
-    Pestering our TAs when they are off the clock can be penalized under the "professionalism" clause of our grading policy.
+    Pestering our TAs when they are off the clock (including via email) can be penalized under the "professionalism" clause of our grading policy.
 
 Message boards
-:   Piazza @ [https://piazza.com/class/j6m7hyps7tx66x](https://piazza.com/class/j6m7hyps7tx66xb)
+:   Piazza @ [https://piazza.com/class/j6m7hyps7tx66x](https://piazza.com/class/j6m7hyps7tx66x)
     
     Log in to Piazza and use the threads for quick questions, assignments, and for discussion with other students and staff.
     
