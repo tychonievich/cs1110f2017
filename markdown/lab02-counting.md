@@ -2,6 +2,14 @@
 title: "Lab 2: Counting Squares"
 ...
 
+# Logic Groups
+
+This and most subsequent labs will begin with a Logic Group activity.
+The TAs will put you in groups and explain what you'll do.
+You **don't** need your computer, etc, for the logic groups (you can leave it where it is)
+but you **do** need a pen or pencil and some paper.
+
+
 # Test your logins
 
 If you are in a lab in Olsson 001, you should have been emailed an Olsson 001 account.
@@ -12,7 +20,10 @@ If you have trouble, talk to your lab TA.
 
 # Pairing
 
-For this and all subsequent labs, you will work in pairs.
+For this and all subsequent labs, after the logic group activity you will work in pairs.
+You will need your computer, etc, for the paired part of lab.
+For now, you may pick your own pair partner.
+Later on we may assign you a partner for some labs and/or assignments.
 
 We will use a model called "pair programming" in this class. There are a
 few things to know about successful pairing under this model:
