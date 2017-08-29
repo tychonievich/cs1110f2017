@@ -19,18 +19,17 @@ Section |Time             |Place          |Instructor
 
 Section |Time            |Place       |TAs
 --------|----------------|------------|-----
-1110-102|Th 9:30–10:45AM |Olsson 001  |TBA
-1110-103|Th 11:00–12:15PM|Olsson 001  |TBA
-1110-101|Th 12:30–1:45PM |Olsson 001  |TBA
-1110-104|Th 2:00–3:15PM  |Olsson 001  |TBA
-1110-105|Th 3:30–4:45PM  |Olsson 001  |TBA
-1110-109|Th 3:30–4:45PM  |Rice 120    |TBA
-1110-110|Th 3:30–4:45PM  |Mech 213    |TBA
-1110-106|Th 5:00–6:15PM  |Olsson 001  |TBA
-1110-112|Th 5:00–6:30PM  |Olsson 009  |TBA
-1110-107|Th 6:30–7:45PM  |Thorton A120|TBA
-1110-111|Th 6:30–7:45PM  |Thorton A120|TBA
-1110-108|Th 8:00–9:15PM  |Olsson 001  |TBA
+1110-102|Th 9:30–10:45AM |Olsson 001  |Nugent, Porto, Phillips, Tobeason
+1110-103|Th 11:00–12:15PM|Olsson 001  |Phillips, Mezher, Zhou, Khan
+1110-101|Th 12:30–1:45PM |Olsson 001  |Thompson, Weber, Gorick, Tobeason
+1110-104|Th 2:00–3:15PM  |Olsson 001  |Read, Arkalgud, Ravikani, Restifo
+1110-105|Th 3:30–4:45PM  |Olsson 001  |Ross, Perales, Myers, Flannery
+1110-109|Th 3:30–4:45PM  |Rice 120    |Panlaqui, Quach, Gatewood, Faruk
+1110-110|Th 3:30–4:45PM  |Mech 213    |Read, McNichols, Panetti, Kovach
+1110-106|Th 5:00–6:15PM  |Olsson 001  |Gomez-Wong, Maimon, Hu, Myers
+1110-112|Th 5:00–6:30PM  |Olsson 009  |Barry, Thompson, Patel, Sridhar, Warshaw, Emmons, Kovach
+1110-107</br>1110-111|Th 6:30–7:45PM  |Thorton A120|Gomez-Wong, Aldridge, Berry, Warshaw, Veasey, Morris, Hu
+1110-108|Th 8:00–9:15PM  |Olsson 001  |Groover, Schweitzer, Mezher
 1111    |(none)          |(none)      |TBA
 
 Note: Due to oddities in how scheduling worked out, 1110-107 and 1110-111 meet in the same place at the same time and are effectively a single lab section in all but section number.
