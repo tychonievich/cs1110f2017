@@ -18,7 +18,7 @@ Section |Time             |Place          |Instructor
 ## Lab Sections
 
 Section |Time            |Place       |TAs
-----------|----------------|------------|--------------------------------------------
+----------|-----------------|-------------|--------------------------------------------
 1110-102|Th 9:30–10:45AM |Olsson 001  |Nugent, Phillips, Porto, Tobeason
 1110-103|Th 11:00–12:15PM|Olsson 001  |Khan, Mezher, Phillips, Zhou
 1110-101|Th 12:30–1:45PM |Olsson 001  |Gorick, Thompson, Tobeason, Weber
