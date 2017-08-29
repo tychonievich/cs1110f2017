@@ -58,6 +58,8 @@ var dts = document.getElementsByTagName('dt');
 for(var i=0; i<dts.length; i+=1) {
     if (new Date(dts[i].innerHTML+' 2017 10:00') < new Date()) {
         dts[i].style.color = '#999999';
+    } else {
+        console.log(new Date(dts[i].innerHTML+' 2017 10:00') + ' is in the future')
     }
 }
 </script>

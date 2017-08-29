@@ -29,3 +29,7 @@ prandial prandial prandial prandial prandial prandial prandial prandial prandial
 "prandial" doesn't even sound like a word anymore.
 ````
 
+# Thought Question
+
+There are at least two solutions to this problem; one has many commas in it and one has few if any.
+If you found one, see if you can find the other.
