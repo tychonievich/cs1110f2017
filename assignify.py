@@ -45,7 +45,7 @@ dl dt{
 
 for asgn in data['assignments']:
     due = asgn['due']
-    due = due.strftime('\n%a %d &b 10am)'# \n'+str(due)
+    due = due.strftime('\n%a %d &b 10am')# \n'+str(due)
     links = asgn['links']
     if len(links) == 0:
         print(due,'\n:    TBA')
