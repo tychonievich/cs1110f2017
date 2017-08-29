@@ -45,9 +45,10 @@ dl dt{
 
 for asgn in data['assignments']:
     due = asgn['due']
+    due = '\n'+str(due)
     links = asgn['links']
     if len(links) == 0:
-        print('\n'+due,'\n:    TBA')
+        print(due,'\n:    TBA')
         break
     else:
         #print(due,'\n:    ')
@@ -60,10 +61,10 @@ for asgn in data['assignments']:
                 with open(link+'.md') as f:
                     for line in f:
                         if line.startswith('title: '): break
-                print('\n'+due,'\n:    ['+line[7:].strip()+']('+link.strip()+'.html)', extra)
+                print(due,'\n:    ['+line[7:].strip()+']('+link.strip()+'.html)', extra)
                 #print('    1.  ['+line[7:].strip()+']('+link.strip()+'.html)')
             except:
-                print('\n'+due,'\n:    assignment not yet released')
+                print(due,'\n:    assignment not yet released')
                 #print('    1.  assignment not yet released')
 print('''
 
