@@ -68,7 +68,19 @@ for asgn in data['assignments']:
                 #print('    1.  assignment not yet released')
 print('''
 
+<script>
+var dts = document.getElementsByTagName('dt');
+for(var i=0; i<dts.length; i+=1) {
+    if (Date(dts[i].innerHTML+' 10:00') < Date()) {
+        dts[i].style.backgroundColor = '#e3e3e3';
+        dts[i].nextElementSibling.style.backgroundColor = '#e3e3e3';
+    }
+}
+</script>
+
 # 1110 Labs
+
+Labs are listed in order. See the [schedule](schedule.html) for the specific date of each lab.
 
 ''')
 

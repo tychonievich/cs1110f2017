@@ -26,3 +26,32 @@ dl dt{
 </style>
 
 
+
+2017-09-06 
+:    [greeting.py](w01-greeting.html) 
+
+2017-09-06 
+:    [nonsense.py](w01-nonsense.html) 
+
+2017-09-08 
+:    [c2f.py](w01-c2f.html) 
+
+2017-09-08 
+:    [dating.py](w01-dating.html) 
+
+2017-09-10 
+:    [maydate.py](w02-maydate.html) 
+
+2017-09-13 
+:    [conversion.py](w02-conversion.html) 
+
+2017-09-15 
+:    [quadratic.py](w02-quadratic.html) 
+
+
+# 1110 Labs
+
+
+-   [installing Python and PyCharm](lab01-installing.html)
+-   [pseudocode counting squares](lab02-counting.html)
+-   [turtle art contest](lab03-turtle.html)
