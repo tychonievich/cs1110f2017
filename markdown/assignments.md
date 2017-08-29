@@ -6,7 +6,7 @@ title: Assignments
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[Submit assignments here](https://archimedes.cs.virginia.edu/cs1110/)</div>
 -->
 
-The assignment submission system is not yet ready; it will be linked to from here soon.
+The submission page for programming assignments is not quite ready yet, but will appear here soon.
 
 # Programming Assignments
 
@@ -25,6 +25,7 @@ dl dt{
 }
 </style>
 
+
 2017-09-06 
 :    [greeting.py](w01-greeting.html) 
 2017-09-06 
@@ -39,7 +40,6 @@ dl dt{
 :    [conversion.py](w02-conversion.html) 
 2017-09-15 
 :    [quadratic.py](w02-quadratic.html) 
-
 
 
 # 1110 Labs
