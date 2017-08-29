@@ -21,7 +21,8 @@ dl dd:after{
 }
 dl dt{
   display: inline-block;
-  min-width: 6em;
+  min-width: 9em;
+  font-weight:normal;
 }
 </style>
 
