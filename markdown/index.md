@@ -26,19 +26,17 @@ Section |Time            |Place       |TAs
 1110-105|Th 3:30–4:45PM  |Olsson 001  |TBA
 1110-109|Th 3:30–4:45PM  |Rice 120    |TBA
 1110-110|Th 3:30–4:45PM  |Mech 213    |TBA
-1110-112|Th 5:00–6:30PM  |Olsson 009  |TBA
 1110-106|Th 5:00–6:15PM  |Olsson 001  |TBA
-1110-111|Th 6:30–7:45PM  |Thorton A120|TBA
+1110-112|Th 5:00–6:30PM  |Olsson 009  |TBA
 1110-107|Th 6:30–7:45PM  |Thorton A120|TBA
+1110-111|Th 6:30–7:45PM  |Thorton A120|TBA
 1110-108|Th 8:00–9:15PM  |Olsson 001  |TBA
 1111    |(none)          |(none)      |TBA
 
 ## Swapping Labs and Waiting Lists
 
-For CS 1110, SIS will show you as on the waiting list for the lecture if you are on the waiting list for the lab.
-It handled waiting lists by lab section, since lab space is a constraining factor in how many students we can enroll.
-
-If you attempt to swap lab sections in SIS, expect to end up on the back of the waiting list for that section.
+If you attempt to swap one section but not the other in SIS, expect to end up on the back of the waiting list for both sections
+See the [FAQ](faq.html) for suggestions on ways around this.
 
 # Other *Introduction to Programming* Offerings
 
