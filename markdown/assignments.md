@@ -11,7 +11,7 @@ The submission page for programming assignments is not quite ready yet, but will
 # Programming Assignments
 
 Assignments are generally due at 10am.
-If the submission site states a different due time, it is authoritative.
+If the submission site states a different due time, it supersedes this general rule.
 
 <style type="text/css">
 dl dd {
