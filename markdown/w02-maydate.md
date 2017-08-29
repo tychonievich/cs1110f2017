@@ -36,7 +36,7 @@ True
 False
 ````
 
-# Question
+# Thought Question
 
 We won't test it, but what does your code do if you pass in the older age first?
 

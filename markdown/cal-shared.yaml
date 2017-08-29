@@ -21,17 +21,17 @@ Special Dates:
         
 assignments:
   -
-    due: 2017-09-06
+    due: 2017-09-11
     links: [w01-greeting, w01-nonsense]
   -
-    due: 2017-09-08
+    due: 2017-09-13
     links: [w01-c2f, w01-dating]
   -
-    due: 2017-09-10
+    due: 2017-09-15
     links: [w02-maydate]
   -
-    due: 2017-09-13
+    due: 2017-09-18
     links: [w02-conversion]
   -
-    due: 2017-09-15
+    due: 2017-09-20
     links: [w02-quadratic]
