@@ -33,6 +33,8 @@ Section |Time            |Place       |TAs
 1110-108|Th 8:00–9:15PM  |Olsson 001  |TBA
 1111    |(none)          |(none)      |TBA
 
+Note: Due to oddities in how scheduling worked out, 1110-107 and 1110-111 meet in the same place at the same time and are effectively a single lab section in all but section number.
+
 ## Swapping Labs and Waiting Lists
 
 If you attempt to swap one section but not the other in SIS, expect to end up on the back of the waiting list for both sections
