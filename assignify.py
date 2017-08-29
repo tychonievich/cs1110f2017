@@ -71,7 +71,7 @@ print('''
 <script>
 var dts = document.getElementsByTagName('dt');
 for(var i=0; i<dts.length; i+=1) {
-    if (Date(dts[i].innerHTML+' 10:00') < Date()) {
+    if (Date(dts[i].innerHTML+' 10:00') < Date('2017-09-10 09:56')) {
         dts[i].style.backgroundColor = '#e3e3e3';
         dts[i].nextElementSibling.style.backgroundColor = '#e3e3e3';
     }
