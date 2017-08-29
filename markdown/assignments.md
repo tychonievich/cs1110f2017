@@ -28,25 +28,25 @@ dl dt{
 
 
 
-10am Wed 06 Sep 
+10am Mon 11 Sep 
 :    [greeting.py](w01-greeting.html) 
 
-10am Wed 06 Sep 
+10am Mon 11 Sep 
 :    [nonsense.py](w01-nonsense.html) 
 
-10am Fri 08 Sep 
+10am Wed 13 Sep 
 :    [c2f.py](w01-c2f.html) 
 
-10am Fri 08 Sep 
+10am Wed 13 Sep 
 :    [dating.py](w01-dating.html) 
 
-10am Sun 10 Sep 
+10am Fri 15 Sep 
 :    [maydate.py](w02-maydate.html) 
 
-10am Wed 13 Sep 
+10am Mon 18 Sep 
 :    [conversion.py](w02-conversion.html) 
 
-10am Fri 15 Sep 
+10am Wed 20 Sep 
 :    [quadratic.py](w02-quadratic.html) 
 
 

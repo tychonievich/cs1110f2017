@@ -26,6 +26,9 @@ The submission page for programming assignments is not quite ready yet, but will
 
 # Programming Assignments
 
+Assignments are generally due at 10am.
+If the submission site suggests a different due time, it is authoritative.
+
 <style type="text/css">
 dl dd {
   display: inline;
@@ -37,7 +40,7 @@ dl dd:after{
 }
 dl dt{
   display: inline-block;
-  min-width: 9em;
+  min-width: 6em;
   font-weight:normal;
 }
 </style>
@@ -46,7 +49,7 @@ dl dt{
 
 for asgn in data['assignments']:
     due = asgn['due']
-    due = due.strftime('\n10am %a %d %b')# \n'+str(due)
+    due = due.strftime('\n%a %d %b')# \n'+str(due)
     links = asgn['links']
     if len(links) == 0:
         print(due,'\n:    TBA')
