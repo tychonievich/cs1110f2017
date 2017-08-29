@@ -45,7 +45,7 @@ dl dt{
 
 for asgn in data['assignments']:
     due = asgn['due']
-    due = '\n'+str(due)
+    due = due.strftime('\n%a %d &b 10am)'# \n'+str(due)
     links = asgn['links']
     if len(links) == 0:
         print(due,'\n:    TBA')
@@ -71,7 +71,7 @@ print('''
 <script>
 var dts = document.getElementsByTagName('dt');
 for(var i=0; i<dts.length; i+=1) {
-    if (new Date(dts[i].innerHTML+' 10:00') < new Date('2017-09-10 09:56')) {
+    if (new Date(dts[i].innerHTML+' 10:00') < new Date()) {
         dts[i].style.color = '#999999';
     }
 }
