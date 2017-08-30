@@ -6,10 +6,12 @@ title: maydate.py
 
 Write a file with one function: `creepy`.
 `creepy` should have two arguments, the ages of two people.
-It should return `False` if the two may date each other without being creepy, `True` otherwise.
+It should return `False`{.python} if the two may date each other without being creepy, `True`{.python}.
 See [dating.py](w01-dating.html) for a definition of creepy.
 
-Note: it is possible to solve this problem using `if`, but that is not encouraged.
+Return the `bool`{.python} values `True`{.python} and `False`{.python}, not the strings `"True"`{.python} and `"False"`{.python}.
+
+Note: it is possible to solve this problem using `if`{.python}, but that is not encouraged.
 Your function should neither `print`{.python} nor ask for any `input`{.python}.
 You should not have any code outside of the function.
 

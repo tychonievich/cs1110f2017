@@ -29,7 +29,13 @@ prandial prandial prandial prandial prandial prandial prandial prandial prandial
 "prandial" doesn't even sound like a word anymore.
 ````
 
+# Troubleshooting
+
+In this and every other assignment all semester long, every `input('some prompt: ')`{.python} must end in either a colon or a question mark, and then a space (like the `': '`{.python} in the example above).
+Failure to follow this rule will result in loss of points.
+
 # Thought Question
 
-There are at least two solutions to this problem; one has many commas in it and one has few if any.
-If you found one, see if you can find the other.
+There are at least two solutions to this problem; one has many commas in the code and one has few if any.
+If you wrote one, see if you can also find and write the other.
+Just submit one of the two.
