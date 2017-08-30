@@ -56,7 +56,7 @@ tr.lab { background-color: #fff7f0; }
 thead { background-color: #fda; }
 #age1111 tbody tr:nth-child(2n+1) { background-color: #fff7f0; }
 #age1111 tbody tr.noclass { background-color: #eee; }
-.day a { border: thin solid #e3e3e3; }
+.day a { border: thin solid #e3e3e3; background:#f5f5f5; }
 </style>
 <script>
 function rehide(e) {
