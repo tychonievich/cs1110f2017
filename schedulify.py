@@ -129,6 +129,17 @@ for d in data['Special Dates']:
             date2 += day
     else:
         record(date, d)
+    
+def pretty(s):
+    if s.startswith('1000-'):
+        s = '10am ' + s[5:]
+    if s.startswith('1400-'):
+        s = '2pm ' + s[5:]
+    if s.endswith('.webm')
+        s = s[:-5] + ' video'
+    if s.endswith('.mp3')
+        s = s[:-4] + ' audio'
+    return s
 
 def mwf(date, index, ilab, section, key, friday=True, media=[], fpath=None):
     special = '<br/>'+'<br/>'.join(content.get(date, [])) if date not in classes else ''
@@ -157,7 +168,7 @@ def mwf(date, index, ilab, section, key, friday=True, media=[], fpath=None):
         if fpath is not None:
             for img in sorted(glob('files/{}/{}*'.format(fpath, date.strftime('%Y%m%d')))+glob('files/{}/{}*'.format(fpath, date.strftime('%Y-%m-%d')))):
                 # print(img, file=stderr)
-                text['notes'] = text.get('notes', '') + ' [{}]({})'.format(img.split('/')[-1][8:].split('-',1)[-1], img)
+                text['notes'] = text.get('notes', '') + ' [{}]({})'.format(pretty(img.split('/')[-1][8:].split('-',1)[-1]), img)
         for m in media:
             # debug(m, '{}'.format(date), '{}'.format(date) in m)
             ds = '{}'.format(date)
