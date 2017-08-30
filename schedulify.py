@@ -136,9 +136,9 @@ def pretty(s):
         s = '10am ' + s[5:]
     if s.startswith('1400-'):
         s = '2pm ' + s[5:]
-    if s.endswith('.webm')
+    if s.endswith('.webm'):
         s = s[:-5] + ' video'
-    if s.endswith('.mp3')
+    if s.endswith('.mp3'):
         s = s[:-4] + ' audio'
     return s
 
