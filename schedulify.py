@@ -237,7 +237,9 @@ with open('../assignments.csv', 'w') as f:
                 task, extra = task.split(' (',1)
                 extra = ' ('+extra
             if task.startswith('pa'):
-                task = task[0:4].capitalize()
+                slug = task[0:4].upper()
+            else:
+                slug = task
             if task == 'project':
                 w.writerow([
                     'game partner selection',
@@ -277,11 +279,12 @@ with open('../assignments.csv', 'w') as f:
                 testnames = sorted('test_'+x for x in fnames if '*' not in x)
                 if task.startswith('lab'): testnames = '' 
                 w.writerow([
-                    task if task.startswith('lab') else task.split('-',1)[1],
+                    slug,
                     '|'.join(sorted(fnames)),
                     str(date) + (' 23:00' if task.startswith('lab') else ' 10:00'),
                     '1 2','','2','timeout.py|timeout2.py|gradetools.py|cacheurls.py',
                     '|'.join(testnames)
                 ])
-            except:
+            except BaseException as ex:
+                print('exception', task, ex, file=stderr)
                 pass
