@@ -32,25 +32,25 @@ dl dt{
 
 
 Mon 11 Sep 
-:    [greeting.py](w01-greeting.html) 
+:    [PA 01: greeting.py](pa01-greeting.html) 
 
 Mon 11 Sep 
-:    [nonsense.py](w01-nonsense.html) 
+:    [PA 02: nonsense.py](pa02-nonsense.html) 
 
 Wed 13 Sep 
-:    [c2f.py](w01-c2f.html) 
+:    [PA 03: dating.py](pa03-dating.html) 
 
 Wed 13 Sep 
-:    [dating.py](w01-dating.html) 
+:    [PA 04: c2f.py](pa04-c2f.html) 
 
 Fri 15 Sep 
-:    [maydate.py](w02-maydate.html) 
+:    [PA 05: maydate.py](pa05-maydate.html) 
 
 Mon 18 Sep 
-:    [conversion.py](w02-conversion.html) 
+:    [PA 06: conversion.py](pa06-conversion.html) 
 
 Wed 20 Sep 
-:    [quadratic.py](w02-quadratic.html) 
+:    [PA 07: quadratic.py](pa07-quadratic.html) 
 
 
 <script>
