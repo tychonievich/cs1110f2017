@@ -22,16 +22,16 @@ Special Dates:
 assignments:
   -
     due: 2017-09-11
-    links: [w01-greeting, w01-nonsense]
+    links: [pa01-greeting, pa02-nonsense]
   -
     due: 2017-09-13
-    links: [w01-c2f, w01-dating]
+    links: [pa03-dating, pa04-c2f]
   -
     due: 2017-09-15
-    links: [w02-maydate]
+    links: [pa05-maydate]
   -
     due: 2017-09-18
-    links: [w02-conversion]
+    links: [pa06-conversion]
   -
     due: 2017-09-20
-    links: [w02-quadratic]
+    links: [pa07-quadratic]

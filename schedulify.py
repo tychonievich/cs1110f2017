@@ -236,6 +236,8 @@ with open('../assignments.csv', 'w') as f:
             if ' (' in task:
                 task, extra = task.split(' (',1)
                 extra = ' ('+extra
+            if task.startswith('pa'):
+                task = task[0:4].capitalize()
             if task == 'project':
                 w.writerow([
                     'game partner selection',
