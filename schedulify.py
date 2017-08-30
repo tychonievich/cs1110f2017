@@ -134,11 +134,11 @@ for d in data['Special Dates']:
 def pretty(s):
     if s.startswith('1000-'):
         s = '10am ' + s[5:]
-    if s.startswith('1000.'):
+    if s.startswith('1000'):
         s = '10am' + s[4:]
     if s.startswith('1400-'):
         s = '2pm ' + s[5:]
-    if s.startswith('1400.'):
+    if s.startswith('1400'):
         s = '2pm' + s[4:]
     if s.endswith('.webm'):
         s = s[:-5] + ' video'
