@@ -12,7 +12,7 @@ but you **do** need a pen or pencil and some paper.
 
 # Test your logins
 
-In theory, sometime today people in the Olsson 001 labs will be emailed an Olsson 001 account.  You'll never need to use it, but you may if you want a bigger keyboard and screen. If you haven't been emailed that yet, just use your laptop.
+In theory, sometime today people in the Olsson 001 labs will be emailed an Olsson 001 lab computer account.  You'll never need to use it, but you may if you want a bigger keyboard and screen. If you haven't been emailed that yet, just use your laptop.
 
 If you are in a lab in MEC 213, you can log in to the desktop computers using your ESERVICES username and password (the same ones you use for netbadge).
 
