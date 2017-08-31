@@ -12,11 +12,11 @@ but you **do** need a pen or pencil and some paper.
 
 # Test your logins
 
-If you are in a lab in Olsson 001, you should have been emailed an Olsson 001 account.
-If you are in a lab in MEC 213, you can log in to the desktop computers using your ESERVICES username and password (the same ones you use for netbadge).
-You are also welcome to use your own personal laptops instead.
+In theory, sometime today people in the Olsson 001 labs will be emailed an Olsson 001 account.  You'll never need to use it, but you may if you want a bigger keyboard and screen. If you haven't been emailed that yet, just use your laptop.
 
-If you have trouble, talk to your lab TA.
+If you are in a lab in MEC 213, you can log in to the desktop computers using your ESERVICES username and password (the same ones you use for netbadge).
+
+You are always welcome to use your own personal laptops instead.
 
 # Pairing
 
