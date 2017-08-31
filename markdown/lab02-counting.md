@@ -17,6 +17,8 @@ In theory, sometime today people in the Olsson 001 labs will be emailed an Olsso
 If you are in a lab in MEC 213, you can log in to the desktop computers using your ESERVICES username and password (the same ones you use for netbadge).
 
 You are always welcome to use your own personal laptops instead.
+In Thorton A120 and Rice 120 there are no lab computers so you'll need to use your laptops every week.
+
 
 # Pairing
 
