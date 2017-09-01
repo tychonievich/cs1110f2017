@@ -1,5 +1,5 @@
 ---
-title: averages.py
+title: "PA09: averages.py"
 ...
 
 # Task
