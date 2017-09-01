@@ -56,7 +56,7 @@ Fri 22 Sep
 :    [PA 08: bmr.py](pa08-bmr.html) 
 
 Mon 25 Sep 
-:    [PA09: averages.py](pa09-averages.html) 
+:    [PA 09: averages.py](pa09-averages.html) 
 
 
 <script>
