@@ -53,10 +53,10 @@ Wed 20 Sep
 :    [PA 07: quadratic.py](pa07-quadratic.html) 
 
 Fri 22 Sep 
-:    assignment not yet released
+:    [PA 08: bmr.py](pa08-bmr.html) 
 
 Mon 25 Sep 
-:    assignment not yet released
+:    [PA09: averages.py](pa09-averages.html) 
 
 
 <script>
