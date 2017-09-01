@@ -52,6 +52,12 @@ Mon 18 Sep
 Wed 20 Sep 
 :    [PA 07: quadratic.py](pa07-quadratic.html) 
 
+Fri 22 Sep 
+:    assignment not yet released
+
+Mon 25 Sep 
+:    assignment not yet released
+
 
 <script>
 var dts = document.getElementsByTagName('dt');
