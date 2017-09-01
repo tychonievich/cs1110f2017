@@ -35,3 +35,9 @@ assignments:
   -
     due: 2017-09-20
     links: [pa07-quadratic]
+  -
+    due: 2017-09-22
+    links: [pa08-bmr]
+  -
+    due: 2017-09-25
+    links: [pa09-averages]
