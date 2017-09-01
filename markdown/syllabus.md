@@ -35,12 +35,8 @@ Personal issues impacting coursework                          Your dean, and/or 
 Luther Tychonievich
 :   Office: Rice 208
     
-    Because one of my courses is not scheduled until the third week of courses, my office hours will not be set until that time.
-    
-    <!--
-    Office hours: Monday 11-12; Tuesday 2--4; Wednesday 3:00--4:00.
+    Office hours: Monday 11-12; Wednesday 3--4; Friday 12:30--1:30.
     Unless otherwise arranged, I will not have office hours on days of exams.
-    -->
 
     Email: tychonievich@virginia.edu
     
