@@ -15,7 +15,19 @@ title: "Lab 3: Counting - TA guide"
     -   ... not to self: decide how we handle these IDs...
 1.  Wander the room, but respond to all questions with "I'm not a part of your group. What does your group think?" No matter what they say, nod and move on.
 1.  After 5--10 minutes, 
-    -   ask "how many of you got 19 seconds?" (wait for hands) "Congradulations! You think like most rational people."
+    -   ask "how many of you got 19 seconds?" (wait for hands) "Congratulations! You think like most rational people."
+        -   You may ask one to review how it works, or skip if all got it.
+        -   I suggest illustrating their narrative
+            
+            side    bridge  side    time
+            ------- ------- -----   ---------
+            ABCDF                   0
+            CD              AB  F   +2 = 2
+            ACDF            B       +1 = 3
+            D               ABC F   +5 = 8
+            ADF             BC      +1 = 9
+                            ABCDF   +10 = 19
+
     -   ask "did anyone have an answer smaller than 19 seconds?" and have them share
         -   If they have the fastest person carry the other people, ask "How fast do you think I can run a mile?" "How fast do you think I can run a mile with you on my back?"
         -   If they have the flashlight thrown, ask "how long is the bridge? Do we know they can throw that far?"
