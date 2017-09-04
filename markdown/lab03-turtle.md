@@ -81,8 +81,7 @@ Save a picture of your image by doing *one* of the following:
     Note: Poststript was a precursor to PDF, and some machines can't display it properly.
     If you can't look at your image; don't worry.
 
-Submit either a `.png` file or a `.ps` file to the Turtle Art Gallery on Dropbox:
-[https://www.dropbox.com/request/LmzdkiDLx8bbnwiDy0VT](https://www.dropbox.com/request/LmzdkiDLx8bbnwiDy0VT).
+Submit either a `.png` file or a `.ps` file to the `lab03-turtle art contest` on [CS 1110 submission page](https://archimedes.cs.virginia.edu/cs1110/).
 Make sure to title your file like this:
 
 `930-OLS-lat7h-cd9au.png`
@@ -91,7 +90,7 @@ Use 930, 1100, 1230, 200, 330, 500, 630, or 800
 along with either OLS, MEC, RICE, or THN for your lab location
 so we can keep all the labs together and we know who you are!
 
-Then put in BOTH of your computing IDs, separated by dashes.
+Then put in BOTH partners' computing IDs, separated by dashes.
 
 Images will be displayed (anonymously).
 The staff will pick our favorite images, with prizes awarded next lab!
