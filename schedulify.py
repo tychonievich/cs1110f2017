@@ -301,6 +301,15 @@ with open('../assignments.csv', 'w') as f:
                     '1 2','','2','timeout.py|timeout2.py|gradetools.py|cacheurls.py',
                     '|'.join(testnames)
                 ])
+                if slug.endswith('turtle'):
+                    w.writerow([
+                        slug+'-contest',
+                        '*.png|*.ps',
+                        str(date) + (' 23:00' if task.startswith('lab') else ' 10:00'),
+                        '1 2','','','',
+                        ''
+                    ])
+                        
             except BaseException as ex:
                 print('exception', task, ex, file=stderr)
                 pass
