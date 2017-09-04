@@ -77,7 +77,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Friday " id="2017-09-08"><span class="date">8 Sep</span>hello, world!<br/>[revised chapter 2](revised2.2.html); §[5.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.5.2.4)--5.2.5; §[4.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.4.1)<br/>[PythonTutor](http://pythontutor.com/)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-09-11"><span class="date">11 Sep</span>variables, values, and operators<br/>§[3](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.3) and §[4](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.4)<br/></td>
-<td class="day Wednesday " id="2017-09-13"><span class="date">13 Sep</span>functions -- basics, `def`{.python}<br/>§[5](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.5)--5.2 and §[8](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.8)--8.2.1<br/>guest instructor; recordings will not be made or posted, [functions](http://www.cs.virginia.edu/~up3f/cs1110/slides/1110-functions.pptx), [examples](http://www.cs.virginia.edu/~up3f/cs1110/examples/functions/)<br/></td>
+<td class="day Wednesday " id="2017-09-13"><span class="date">13 Sep</span>functions -- basics, `def`{.python}<br/>§[5](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.5)--5.2 and §[8](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.8)--8.2.1<br/></td>
 <td class="day Thursday  lab" id="2017-09-14"><span class="date">14 Sep</span><br/></td>
 <td class="day Friday " id="2017-09-15"><span class="date">15 Sep</span>functions -- flow of control<br/>§[8.2.2](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.2)--8.2.6<br/>guest instructor; recordings will not be made or posted<br/></td>
 </tr><tr>
@@ -156,7 +156,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 
 <tr id="2017-09-08" class=""><th>8 Sep <br/></th><td>hello, world!</td><td>[revised chapter 2](revised2.2.html); §[5.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.5.2.4)--5.2.5; §[4.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.4.1)</td><td>[PythonTutor](http://pythontutor.com/)
 <tr id="2017-09-11" class=""><th>11 Sep <br/></th><td>variables, values, and operators</td><td>§[3](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.3) and §[4](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.4)</td><td>
-<tr id="2017-09-13" class=""><th>13 Sep <br/></th><td>functions -- basics, `def`{.python}</td><td>§[5](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.5)--5.2 and §[8](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.8)--8.2.1</td><td>guest instructor; recordings will not be made or posted, [functions](http://www.cs.virginia.edu/~up3f/cs1110/slides/1110-functions.pptx), [examples](http://www.cs.virginia.edu/~up3f/cs1110/examples/functions/)
+<tr id="2017-09-13" class=""><th>13 Sep <br/></th><td>functions -- basics, `def`{.python}</td><td>§[5](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.5)--5.2 and §[8](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.8)--8.2.1</td><td>
 <tr id="2017-09-14" class=" lab"><th>14 Sep <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-09-15" class=""><th>15 Sep <br/></th><td>functions -- flow of control</td><td>§[8.2.2](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.2)--8.2.6</td><td>guest instructor; recordings will not be made or posted

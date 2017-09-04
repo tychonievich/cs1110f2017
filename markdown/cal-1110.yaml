@@ -43,7 +43,6 @@ key:
     - 
       topic: functions -- flow of control
       reading: §[8.2.2](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.2)--8.2.6
-      notes: guest instructor; recordings will not be made or posted
     - 
       topic: functions -- scope, `global`{.python}
       reading: §[8.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.8.3)
