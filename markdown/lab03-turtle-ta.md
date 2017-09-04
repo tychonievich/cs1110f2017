@@ -19,7 +19,7 @@ title: "Lab 3: Counting - TA guide"
         -   You may ask one to review how it works, or skip if all got it.
         -   I suggest illustrating their narrative
             
-            side `  bridge  side 2  time
+            side 1  bridge  side 2  time
             ------- ------- ------  ---------
             ABCDf                   0
             CD              AB  f   +2 = 2
