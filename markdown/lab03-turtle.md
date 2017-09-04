@@ -85,10 +85,10 @@ Submit either a `.png` file or a `.ps` file to the Turtle Art Gallery on Dropbox
 [https://www.dropbox.com/request/LmzdkiDLx8bbnwiDy0VT](https://www.dropbox.com/request/LmzdkiDLx8bbnwiDy0VT).
 Make sure to title your file like this:
 
-`930-OLS-lat7h-up3f.png`
+`930-OLS-lat7h-cd9au.png`
 
-Use 930, 1100, 1230, 200, 330, 500, or 630
-along with either OLS or MEC for your lab location
+Use 930, 1100, 1230, 200, 330, 500, 630, or 800
+along with either OLS, MEC, RICE, or THN for your lab location
 so we can keep all the labs together and we know who you are!
 
 Then put in BOTH of your computing IDs, separated by dashes.
