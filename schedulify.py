@@ -303,7 +303,7 @@ with open('../assignments.csv', 'w') as f:
                 ])
                 if slug.endswith('turtle'):
                     w.writerow([
-                        slug+'-contest',
+                        slug+' art contest',
                         '*.png|*.ps',
                         str(date) + (' 23:00' if task.startswith('lab') else ' 10:00'),
                         '1 2','','','',
