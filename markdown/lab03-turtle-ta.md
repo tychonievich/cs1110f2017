@@ -19,14 +19,14 @@ title: "Lab 3: Counting - TA guide"
         -   You may ask one to review how it works, or skip if all got it.
         -   I suggest illustrating their narrative
             
-            side    bridge  side    time
-            ------- ------- -----   ---------
-            ABCDF                   0
-            CD              AB  F   +2 = 2
-            ACDF            B       +1 = 3
-            D               ABC F   +5 = 8
-            ADF             BC      +1 = 9
-                            ABCDF   +10 = 19
+            side `  bridge  side 2  time
+            ------- ------- ------  ---------
+            ABCDf                   0
+            CD              AB  f   +2 = 2
+            ACDf            B       +1 = 3
+            D               ABC f   +5 = 8
+            ADf             BC      +1 = 9
+                            ABCDf   +10 = 19
 
     -   ask "did anyone have an answer smaller than 19 seconds?" and have them share
         -   If they have the fastest person carry the other people, ask "How fast do you think I can run a mile?" "How fast do you think I can run a mile with you on my back?"
