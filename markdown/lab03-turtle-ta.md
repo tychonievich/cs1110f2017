@@ -20,13 +20,13 @@ title: "Lab 3: Counting - TA guide"
         -   I suggest illustrating their narrative
             
             side 1  side 2  time
-            ------- ------  ---------
-            ABCDf           0
+            ------- ------- ---------
+            ABCD f          0
             CD      AB  f   +2 = 2
-            ACDf    B       +1 = 3
+            ACD f   B       +1 = 3
             D       ABC f   +5 = 8
-            ADf     BC      +1 = 9
-                    ABCDf   +10 = 19
+            AD f    BC      +1 = 9
+                    ABCD f  +10 = 19
 
     -   ask "did anyone have an answer smaller than 19 seconds?" and have them share
         -   If they have the fastest person carry the other people, ask "How fast do you think I can run a mile?" "How fast do you think I can run a mile with you on my back?"
