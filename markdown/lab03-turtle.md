@@ -2,12 +2,20 @@
 title: "Lab 3: Art Contest"
 ...
 
+# Logic Groups
+
+This and most subsequent labs will begin with a Logic Group activity.
+You should be in the same groups you were last lab; if you are new, or a group member is missing, talk to the TAs about helping you get into a group of 3.
+You **don't** need your computer, etc, for the logic groups (you can leave it where it is)
+but you **do** need a pen or pencil and some paper.
+
+
 # Attendance
 
 We will be taking roll in lab each week! Please come to your assigned lab to be counted present!
 
-Each lab TAs are empowered to select their own method of taking roll.
-Please follow your lab TA's instructions.  
+Each lab's TAs are empowered to select their own method of taking roll.
+Please follow your lab TAs' instructions.  
 They may dock points if you  are excessively late or leave unusually early.
 
 
