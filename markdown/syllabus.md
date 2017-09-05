@@ -37,6 +37,7 @@ Luther Tychonievich
     
     Office hours: Monday 11-12; Wednesday 3--5; Friday 12:30--1:30.
     Unless otherwise arranged, I will not have office hours on days of exams.
+    If my door is open, you are welcome to come in even when it is not my scheduled office hours.
 
     Email: tychonievich@virginia.edu
     
