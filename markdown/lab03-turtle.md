@@ -71,6 +71,18 @@ Save a picture of your image by doing *one* of the following:
 
 -   Taking a screenshot and then cropping down to just your image.
     Please save as a PNG (`.png`) file.
+    
+    Windows
+    :   1.  Hit the windows key on your keyboard (looks like Microsoft logo)
+        2.  Type "snipping tool" into the search bar
+        3.  Open the snipping tool application & click "New" 
+        4.  Drag the cursor around the area you want to take a snapshot of
+        5.  Save the snip as a PNG
+    
+    OS X
+    :   1.  Press the Shift + Command + 4 key combination (command looks like ⌘)
+        2.  Drag the cursor around the area you want to take a snapshot of
+        3.  The screenshot appears on the Desktop: rename it
 
 -   Use the following code immediately before the `turtle.mainloop()` line to save a Postrcript file (`.ps`):
     
