@@ -2,6 +2,14 @@
 title: "Lab 7: Nim"
 ...
 
+<!--
+Should be changed.  Something that separates 
+    for c in str:
+and 
+    for i in range(len(str)):
+is prefered
+-->
+
 # Attendance
 
 We will be taking roll in lab each week! Please come to your assigned lab to be counted present!

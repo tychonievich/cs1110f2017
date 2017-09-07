@@ -2,6 +2,11 @@
 title: "Lab 6: Magic 8-Ball"
 ...
 
+<!-- 
+Should be changed.
+String method puzzles is the new goal, but exam review and coding bat are also possiblities.
+-->
+
 # Attendance
 
 We will be taking roll in lab each week! Please come to your assigned lab to be counted present!
