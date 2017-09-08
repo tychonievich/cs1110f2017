@@ -34,6 +34,10 @@ prandial prandial prandial prandial prandial prandial prandial prandial prandial
 In this and every other assignment all semester long, every `input('some prompt: ')`{.python} must end in either a colon or a question mark, and then a space (like the `': '`{.python} in the example above).
 Failure to follow this rule will result in loss of points.
 
+To put quotes around something, use the other kind of quotes: `'"'`{.python}.
+
+To print two things next to each other with no spaces, use string concatentation with `+`{.python} instead of `,`s in your `print`{.python}.
+
 # Thought Question
 
 There are at least two solutions to this problem; one has many commas in the code and one has few if any.
