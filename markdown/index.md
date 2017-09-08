@@ -21,10 +21,10 @@ Section |Time            |Place       |TAs
 ----------|-----------------|-------------|--------------------------------------------
 1110-102|Th 9:30–10:45AM |Olsson 001  |Nugent, Phillips, Porto, Tobeason
 1110-103|Th 11:00–12:15PM|Olsson 001  |Khan, Mezher, Phillips, Zhou
-1110-101|Th 12:30–1:45PM |Olsson 001  |Gorick, Thompson, Tobeason, Weber
+1110-101|Th 12:30–1:45PM |Olsson 001  |Faruk, Gorick, Thompson, Tobeason
 1110-104|Th 2:00–3:15PM  |Olsson 001  |Arkalgud, Ravikani, Read, Restifo
 1110-105|Th 3:30–4:45PM  |Olsson 001  |Flannery, Myers, Perales, Ross
-1110-109|Th 3:30–4:45PM  |Rice 120    |Faruk, Gatewood, Panlaqui, Quach
+1110-109|Th 3:30–4:45PM  |Rice 120    |Gatewood, Panlaqui, Quach, Weber
 1110-110|Th 3:30–4:45PM  |Mech 213    |Kovach, McNichols, Panetti, Read
 1110-106|Th 5:00–6:15PM  |Olsson 001  |Gomez-Wong, Hu, Maimon, Myers
 1110-112|Th 5:00–6:30PM  |Olsson 009  |Arkalgud, Barry, Emmons, Kovach, Patel, Sridhar, Warshaw
