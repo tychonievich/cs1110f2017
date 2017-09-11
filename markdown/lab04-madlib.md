@@ -6,8 +6,8 @@ title: "Lab 4: Madlibs"
 
 We will be taking roll in lab each week! Please come to your assigned lab to be counted present!
 
-Each lab TAs are empowered to select their own method of taking roll.
-Please follow your lab TA's instructions.  
+Each TA is empowered to select a method of taking roll.
+Please follow your TA's instructions.
 They may dock points if you  are excessively late or leave unusually early.
 
 # Turtle art gallery
