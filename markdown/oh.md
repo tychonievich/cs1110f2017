@@ -15,7 +15,6 @@ Office hours sometimes get busy; to request a TA, use [the office hour help requ
 Once we start having significant demand for TA help (typically around week 4),
 we'll add a TA schedule and a digital help request system to this page.
 Until then, if you could benefit from a talk with a TA, contact them via [Piazza](https://piazza.com/class/j6m7hyps7tx66x).
--->
 
 <div style="display:table; font-size:200%; margin: 1em auto; padding:1ex; box-shadow: 0 1px 10px rgba(0,0,0,.1); border: thin solid #eee; border-radius:1ex; background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);">[The Queue](https://stardock.cs.virginia.edu/cs1110/oh/)</div>
 
