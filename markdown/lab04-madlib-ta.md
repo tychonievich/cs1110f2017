@@ -10,34 +10,15 @@ title: "Lab 4: Madlibs - TA guide"
     -   "But bring a pen or pencil and paper"
 1.  Bring up on the screen this: [https://docs.google.com/a/virginia.edu/presentation/d/1yVfHnOsGcXM1z2rr5-o7eubKbPA3A1kVmEdx4Rb4zQQ/edit?usp=sharing)
 1.  Announce "Work with your group to solve this problem"
-1.  As they work, have each TA pick 4 groups (or 3 or 5 if not exactly right number) to be their grading groups; ask and record the IDs of these students
-    -   ... not to self: decide how we handle these IDs...
 1.  Wander the room, but respond to all questions with "I'm not a part of your group. What does your group think?" No matter what they say, nod and move on.
-1.  After 5--10 minutes, 
-    -   ask "how many of you got 19 seconds?" (wait for hands) "Congratulations! You think like most rational people."
-        -   You may ask one to review how it works, or skip if all got it.
-        -   I suggest illustrating their narrative
-            
-            side 1  side 2  time
-            ------- ------- ---------
-            ABCD f          0
-            CD      AB  f   +2 = 2
-            ACD f   B       +1 = 3
-            D       ABC f   +5 = 8
-            AD f    BC      +1 = 9
-                    ABCD f  +10 = 19
-
-    -   ask "did anyone have an answer smaller than 19 seconds?" and have them share
-        -   If they have the fastest person carry the other people, ask "How fast do you think I can run a mile?" "How fast do you think I can run a mile with you on my back?"
-        -   If they have the flashlight thrown, ask "how long is the bridge? Do we know they can throw that far?"
-        -   If they have one person stand in the middle and everyone else run past, ask "how long is the bridge? Ho far does the light shine?"
-        -   If they have a 17-minute solution, have them explain it to the class
-            -   "What do we think if this solution?"
-            -   "Based on the thunderous applause" (wait for applause if needed) "we like this solution!"
+1.  After a few people appear to have a solution,
+    -   stop them
+    -   ask someone to share their solution
+    -   "Judging by the thunderous applause" (pause of applause if necessary), "we like this answer!"
 1.  Announce "Return to your seats and let's begin the main lab activity"
 
-> **Important!** Do NOT offer hints, solutions, or clarifying explanations.
-> During sharing, don't say "that's a bad solution"---instead ask a question that helps them see it is bad, like those listed above.
+Reminder: do not offer hints, solutions, or clarifying explanations.
+During sharing, don't say "that's a bad solution"---instead ask a question that helps them see it is bad
 
 
 # Background
@@ -63,7 +44,7 @@ y = line(1, 0, 2)
 print(y)
 ````
 
-and ask what it prints; then remind them of the difference between `print` and `return` and fix that; then remind them how a second `=` overwrites the first.
+and ask what it prints; run it and show them they are wrong; remind them of the difference between `print` and `return` and fix that; run it again; remind them how a second `=` overwrites the first.
 
 Also review pairing and discuss the need for switching who drives.
 
