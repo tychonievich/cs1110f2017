@@ -8,7 +8,7 @@ title: "Lab 4: Madlibs - TA guide"
 1.  Announce "Get in the logic groups you had last lab"
     -   "You may leave your stuff where it is"
     -   "But bring a pen or pencil and paper"
-1.  Bring up on the screen this: [https://docs.google.com/a/virginia.edu/presentation/d/1yVfHnOsGcXM1z2rr5-o7eubKbPA3A1kVmEdx4Rb4zQQ/edit?usp=sharing)
+1.  Bring up on the screen this: [money boat problem](https://docs.google.com/a/virginia.edu/presentation/d/1yVfHnOsGcXM1z2rr5-o7eubKbPA3A1kVmEdx4Rb4zQQ/edit?usp=sharing)
 1.  Announce "Work with your group to solve this problem"
 1.  Wander the room, but respond to all questions with "I'm not a part of your group. What does your group think?" No matter what they say, nod and move on.
 1.  After a few people appear to have a solution,
