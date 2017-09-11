@@ -78,3 +78,4 @@ Labs are listed in order. See the [schedule](schedule.html) for the specific dat
 -   [installing Python and PyCharm](lab01-installing.html)
 -   [pseudocode counting squares](lab02-counting.html)
 -   [turtle art contest](lab03-turtle.html)
+-   [madlibs](lab04-madlib.html)
