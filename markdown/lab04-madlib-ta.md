@@ -11,15 +11,21 @@ title: "Lab 4: Madlibs - TA guide"
 1.  Bring up on the screen this: [money boat problem](https://docs.google.com/a/virginia.edu/presentation/d/1yVfHnOsGcXM1z2rr5-o7eubKbPA3A1kVmEdx4Rb4zQQ/edit?usp=sharing)
 1.  Announce "Work with your group to solve this problem"
 1.  Wander the room, but respond to all questions with "I'm not a part of your group. What does your group think?" No matter what they say, nod and move on.
-1.  After a few people appear to have a solution,
-    -   stop them
-    -   ask someone to share their solution
-    -   "Judging by the thunderous applause" (pause of applause if necessary), "we like this answer!"
+1.  After 15--20 minutes
+    -   If someone has an answer, have them presented it
+        -   "Judging by the thunderous applause" (pause of applause if necessary), "we like this answer!"
+    -   Otherwise
+        -   "Let's work through it together"
+        -   Do so (having students be A, B, and C, with paper with 3, 5, and 8 on them, and a chair to be the boat can help)
+        -   You'll likely have many opportunities to say "there's only one thing we can do here that isn't undoing what we've already done:"
 1.  Announce "Return to your seats and let's begin the main lab activity"
 
 Reminder: do not offer hints, solutions, or clarifying explanations.
 During sharing, don't say "that's a bad solution"---instead ask a question that helps them see it is bad
 
+# Turtles!
+
+Direct students to the turtle art gallery
 
 # Background
 
