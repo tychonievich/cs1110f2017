@@ -298,7 +298,7 @@ with open('../assignments.csv', 'w') as f:
                     slug,
                     '|'.join(sorted(fnames)),
                     str(date) + (' 23:00' if task.startswith('lab') else ' 10:00'),
-                    '1 2','','2','timeout.py|timeout2.py|gradetools.py|cacheurls.py',
+                    '1 2' if slug not in 'PA01 PA02' else '0 0','','2','timeout.py|timeout2.py|gradetools.py|cacheurls.py',
                     '|'.join(testnames)
                 ])
                 if slug.endswith('turtle'):
