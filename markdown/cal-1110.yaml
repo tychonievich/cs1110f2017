@@ -39,6 +39,7 @@ key:
     - 
       topic: functions -- basics, `def`{.python}
       reading: §[5](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.5)--5.2 and §[8](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.8)--8.2.1
+      notes: "Typo in 10am slides: `'hi' < 'bye'`{.python} is `False`{.python}, not `True`{.python}"
     
     - 
       topic: functions -- flow of control
