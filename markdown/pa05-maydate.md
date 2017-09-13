@@ -29,6 +29,7 @@ import maydate
 
 print(maydate.creepy(18, 80))
 print(maydate.creepy(50, 80))
+print(type(maydate.creepy(50, 80)))
 ````
 
 you should get the following output:
@@ -36,6 +37,7 @@ you should get the following output:
 ````
 True
 False
+<class 'bool'>
 ````
 
 # Thought Question
@@ -69,7 +71,7 @@ Confused on how to not use `if`{.python}?
 Consider the following example:
 
 ````python
-def between(x, y):
+def example(x, y):
     '''returns True if x is bigger than y, False if it is not'''
     return x > y
 ````
