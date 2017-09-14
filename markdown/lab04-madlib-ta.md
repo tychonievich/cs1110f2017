@@ -25,7 +25,7 @@ During sharing, don't say "that's a bad solution"---instead ask a question that 
 
 # Turtles!
 
-Direct students to the turtle art gallery
+Direct students to the [turtle art gallery](http://cs1110.cs.virginia.edu/turtleart/)
 
 # Background
 

@@ -12,8 +12,7 @@ They may dock points if you  are excessively late or leave unusually early.
 
 # Turtle art gallery
 
-<!-- We've posted <a href="turtleart/" target="_blank">the turtle art submissions</a>! -->
-Your turtle art submissions will show up here soon.
+We've posted <a href="turtleart/" target="_blank">the turtle art submissions</a>!
 
 # Pairing
 
