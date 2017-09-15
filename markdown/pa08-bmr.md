@@ -38,7 +38,7 @@ you should get the following output:
 # Thought Question
 
 Consider adding the other formulas listed in Wikipedia: 
-`harris_benedict`, `revised_harris_benedict`, and `katch_mcardle` (`katch_mcardle` will require a [body fat percentage estimate](https://en.wikipedia.org/wiki/Body_fat_percentage).
+`harris_benedict`, `revised_harris_benedict`, and `katch_mcardle` (`katch_mcardle` will require a [body fat percentage estimate](https://en.wikipedia.org/wiki/Body_fat_percentage)).
 How much do they differ?
 
 
