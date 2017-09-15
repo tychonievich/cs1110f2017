@@ -15,6 +15,7 @@ Additionally, you should implement your solution such that
 
 - `rms` invokes `mean` once.
 - `middle_average` invokes `mean` and `rms` once each and `median` twice.
+- use only features of Python we've learned in class (e.g., do not use `list`s, `sort`, `sorted`, etc.)
 
 
 # Example Invocations
