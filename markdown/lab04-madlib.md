@@ -64,7 +64,7 @@ So feel free to be creative with the phrase! (Within reason, of course...)
 We will, however, look at how you wrote the code.
 Specifically, how you solved the problem.
 
--   You must have at least one function you wrote
+-   You must write at least one function as part of your solution
 -   Ideally you'd have several, such as
     1.  A "main" function like
         ````python
