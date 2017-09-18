@@ -109,6 +109,11 @@ In addition to coding-on-paper, we typically include
 We try to design the exam so that the median student completes it before the 50 minutes are up.
 Hitting this goal is not easy, but we try...
 
+# Past Exams
+
+[Spring 2017 Exam 1](files/s2017e1.pdf) is available, as is [its key and gradign rubric](files/s2017e1key.txt).
+Some minor edits were made to the rubric during grading, which are not reflected here.
+
 # Things we expect you to know
 
 Built-in functions in Python
