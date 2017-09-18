@@ -66,12 +66,14 @@ Specifically, how you solved the problem.
 
 -   You must have at least one function you wrote
 -   Ideally you'd have several, such as
-    1.  ````python
+    1.  A "main" function like
+        ````python
         def madlib():
             """asks for user input and returns the modified string of the full phrase"""
         ````
         which would make repeated use of
-    1.  ````python
+    1.  a "helper" function like
+        ````python
         def replace_with(prompt, text_so_far, placeholder):
             """returns new text replacing all placeholders with user response to prompt"""
         ````
