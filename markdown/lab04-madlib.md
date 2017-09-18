@@ -63,10 +63,21 @@ So feel free to be creative with the phrase! (Within reason, of course...)
 
 We will, however, look at how you wrote the code.
 Specifically, how you solved the problem.
-How did you read in what the user typed?
-How did you set up your phrase?
-How easy would it be to change the phrase?
-Did you use functions, good variable names, and comments to help make your code easy to read?
+
+-   You must have at least one function you wrote
+-   Ideally you'd have several, such as
+    -   ````python
+        def madlib():
+            """asks for user input and returns the modified string of the full phrase"""
+        ````
+        which would make repeated use of
+    -   ````python
+        def replace_with(prompt, text_so_far, placeholder):
+            """returns new text replacing all placeholders with user response to prompt"""
+        ````
+-   Other designs are fine, but use functions
+
+Remember to good variable names and comments to help make your code easy to read!
 
 ## Submission
 
