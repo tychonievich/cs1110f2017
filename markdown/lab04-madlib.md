@@ -77,7 +77,7 @@ Specifically, how you solved the problem.
         def replace_with(prompt, text_so_far, placeholder):
             """returns new text replacing all placeholders with user response to prompt"""
         ````
--   Other designs are fine, but use functions
+-   Other designs are fine, so long as they make reasonable use of functions.
 
 Remember to good variable names and comments to help make your code easy to read!
 
