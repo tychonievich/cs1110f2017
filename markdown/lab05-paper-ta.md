@@ -8,7 +8,7 @@ See [the slide](https://docs.google.com/a/virginia.edu/presentation/d/15Qt9DEn2N
 
 You know the drill by now.
 
-It might help if you start them off; for example
+If they don't make progress, pause and start them off: for example
 
 -   From Rule 1, what is the relationship between B and C?
     
@@ -18,9 +18,8 @@ It might help if you start them off; for example
 -   Rule 2 doesn't help yet
 
 -   From Rule 3, what is the relationship between A and E?
-    If A != G, then A != E; if A == G, then A != E...
-    
-    -   A != E
+
+-   Continue in this way...
 
 <!--
 
