@@ -2,6 +2,14 @@
 title: "Lab 5: Coding on Paper"
 ...
 
+# Logic Group
+
+See [the slide](https://docs.google.com/a/virginia.edu/presentation/d/15Qt9DEn2N5l5Mhz6danlamh7eZtjdK4G79uY5s7MFXo/edit?usp=sharing)
+
+You know the drill by now.
+
+
+
 # Background
 
 The students have had six lectures since the add deadline:
