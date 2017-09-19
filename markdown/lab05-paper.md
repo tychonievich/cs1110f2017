@@ -45,6 +45,8 @@ This lab will run as follows:
 1.  The TAs will show the reference solution and the grading rubric; you'll grade your own papers
 1.  Conversation about lessons learned and tips for successful testing maybe shared, time allowing
 
+The problems we prepared for the TAs to review are [here](https://docs.google.com/a/virginia.edu/presentation/d/18OoIHlMfxxqTXnXp9GbdBoHNaCju5kladXWrP5j0WiM/edit?usp=sharing)
+
 ## Grading rubrics
 
 Every piece of code looks a little different and we don't expect perfection on paper, but here are some thing we do look for:
