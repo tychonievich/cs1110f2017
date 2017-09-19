@@ -11,10 +11,6 @@ You know the drill by now.
 If they don't make progress, pause and start them off: for example
 
 -   From Rule 1, what is the relationship between B and C?
-    
-    -   B == C
-    
-    -   B != D
 
 -   Rule 2 doesn't help yet
 
