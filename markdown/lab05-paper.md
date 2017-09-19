@@ -133,6 +133,8 @@ Python operators
     -   `-`, `+`, `*`, `/`, `%`, `//`, `**`
     -   How operators and types interact (e.g., that `type(4/2)`{.python} is `<class 'float'>` not `<class 'int'>`; that `+` works on strings but `-` does not; that `*` can work with a string and an integer but not with two strings; etc).
     -   The update-assignment versions of each operator (e.g., `+=`)
+    -   The logical operators `and` and `or`
+    -   The comparison operators `<`, `<=`, `==`, `!=`, `>=`, and `>`
 
 Variables and assignment
 :   
@@ -145,6 +147,7 @@ Literals
 :   
     -   Integer literals like `1111`{.python}
     -   Floating-point literals like `11.11`{.python}
+    -   Boolean literals `True` and `False`
     -   String literals in all their forms: `'single'`{.python}, `"double"`{.python}, `'''triple-single'''`{.python}, `"""triple-double"""`{.python}, and `'with \'escape sequences\' for internal quotes'`{.python}
 
 Functions
@@ -159,4 +162,3 @@ Conditionals
 :   
     -   Definition with `if`{.python}, `elif`{.python}, and `else`{.python}
     -   Putting conditionals inside functions or other conditionals
-    -   The relational operators `<`, `<=`, `==`, `!=`, `>=`, `>`
