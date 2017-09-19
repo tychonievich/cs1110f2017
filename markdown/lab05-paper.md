@@ -131,7 +131,7 @@ Built-in functions in Python
 Python operators
 :   
     -   `-`, `+`, `*`, `/`, `%`, `//`, `**`
-    -   How operators and types interact (e.g., that `type(4/2)`{.python} is `<class 'float'>` not `<class 'int'>`; that `+` works on strings but `-` does not; that `*` can work with a string and an integer, but not with two strings; etc).
+    -   How operators and types interact (e.g., that `type(4/2)`{.python} is `<class 'float'>` not `<class 'int'>`; that `+` works on strings but `-` does not; that `*` can work with a string and an integer but not with two strings; etc).
     -   The update-assignment versions of each operator (e.g., `+=`)
 
 Variables and assignment
