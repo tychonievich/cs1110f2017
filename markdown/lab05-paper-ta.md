@@ -8,7 +8,48 @@ See [the slide](https://docs.google.com/a/virginia.edu/presentation/d/15Qt9DEn2N
 
 You know the drill by now.
 
+It might help if you start them off; for example
 
+-   From Rule 1, what is the relationship between B and C?
+    
+    -   B == C
+    -   B != D
+
+-   Rule 2 doesn't help yet
+
+-   From Rule 3, what is the relationship between A and E?
+    If A != G, then A != E; if A == G, then A != E...
+    
+    -   A != E
+
+<!--
+
+-   From Rule 4, we know something about B and D already...
+    thus we can derive
+    
+    -   G == D
+
+-   Rule 5 is no help yet...
+
+-   From Rule 6, given we know A != E,
+    
+    -   A != B 
+    -   which means A == D == G
+    -   and E == B == C
+
+-   From Rule 7, since A == G
+    
+    -   F != A which means F == E == B == C
+
+-   Now Rule 5 tells us D is down, meaning A and G are down, F, E, B, and C are up
+
+-   And rule 2 tells us H != E, meaning H is down.
+
+    ------- ------- ------- -------
+    A: d    B: u    C: u    D: d
+    E: u    F: u    G: d    H: d
+
+-->
 
 # Background
 
