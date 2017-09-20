@@ -12,7 +12,7 @@ Use the [quadratic formula](https://en.wikipedia.org/wiki/Quadratic_formula) to 
 
 Also write a second function, `small_root`, which gives the other root of the equation.
 
-You may assume we only give coefficients for which the answer is a real number.
+You may assume we only give coefficients for which the answer is a real number, and that the first coefficient will be positive.
 
 Neither function should `print`{.python} anything nor ask for any `input`{.python}.
 You should not have any code outside of these two functions.
@@ -59,7 +59,7 @@ Don't remember the operators you need?  See &sect;3.3.1.  Also, remember that in
 
 Did you get the order of operations right?  You could look them up, but adding parentheses never hurts.
 
-There are two roots (because of the &plusmn; in the quadratic formula), but one of them is always the biggest&hellip; no need for an `if`{.python}
+There are two roots (because of the &plusmn; in the quadratic formula), but because $q$ is always positive, one of them is always the biggest&hellip; no need for an `if`{.python} (though you may use one if you want to).
 
 Have you tried other coefficients besides `(1, -1, -1)`{.python}?
 
