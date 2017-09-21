@@ -4,7 +4,7 @@ title: rumple.py
 
 # Task
 
-Various folk tales (namely those of Aarne-Thompson type 500) hinge on the difficulty of guessing strange names
+Various folk tales (namely those of [Aarne-Thompson type](http://frankelassociates.com/calithwain/Aarne-Thompson.htm) 500) hinge on the difficulty of guessing strange names
 (e.g. Rumpelstiltskin, Tom Tit Tot, Whuppity Stoorie, Gilitrutt, جعيدان, Хламушка, Rumplcimprcampr, Martinko Klingáč, Ruidoquedito, Pancimanci, Cvilidreta, Tremotino, עוּץ-לי גוּץ-ל, 大工と鬼六, Myrmidon, etc.).
 This assignment has you implement such a system.
 
