@@ -20,6 +20,7 @@ In particular,
     -   If *any* remainder was 0, the number is *not* prime
     -   If *all* remainders were non-0, add the number to the list of primes
 
+You **must not** have any `print`{.python} statements inside `primes` when you submit it; we'll test with *very* large numbers and printing out the list will take so long your program will time out before you get results.
 
 # Example Runs
 
@@ -30,7 +31,7 @@ If in another file (which you do not submit) you write the following:
 
 ````python
 import seive
-print(seive.primes(50))
+print(seive.primes(20))
 many = seive.primes(12345)
 print(many[-1])
 ````
@@ -38,7 +39,7 @@ print(many[-1])
 you should get the following output quickly (in not more than a second or two):
 
 ````
-[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]
+[2, 3, 5, 7, 11, 13, 17, 19]
 12343
 ````
 
