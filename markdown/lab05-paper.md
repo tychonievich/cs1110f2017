@@ -47,6 +47,8 @@ This lab will run as follows:
 
 The problems we prepared for the TAs to review are [here](https://docs.google.com/a/virginia.edu/presentation/d/18OoIHlMfxxqTXnXp9GbdBoHNaCju5kladXWrP5j0WiM/edit?usp=sharing)
 
+The versions the TAs had, with solutions and rubrics, are [here](https://docs.google.com/a/virginia.edu/presentation/d/15Qt9DEn2N5l5Mhz6danlamh7eZtjdK4G79uY5s7MFXo/edit?usp=sharing)
+
 ## Grading rubrics
 
 Every piece of code looks a little different and we don't expect perfection on paper, but here are some thing we do look for:
