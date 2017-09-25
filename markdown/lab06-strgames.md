@@ -17,6 +17,178 @@ In everything that follows, there is a rule Python *never* breaks:
 
 > Nothing but `=` changes a string; everything else either inspects it unchanged or creates a new string.
 
+# Tasks
+
+Create a file named `str_funcs.py` in which you implement as many of the following tasks as possible.  You are welcome to also have testing code in that file, or to test in a different file.
+
+See also the [Tools to Use] section below, which lists both things you already know and things you haven't seen before.
+Part of our goal here is to encourage you to develop the skills needed to learn on your own, so make an effort to understand how to use the components we list before you ask for help.
+
+Don't be afraid to experiment; trial-and-error is a safe and productive way to learn programming.
+
+We haven't offered this lab in past semesters, so we are a bit uncertain about scope.
+Do as many as you can get to in the time alloted and submit what you have at the end, primarily so we can see how much you got to.
+
+
+## Ellipsis
+Write a function `ellipsis(s)` that replaces all but the first two and last two characters of a string with an ellipsis (`...`).
+
+Example: `ellipsis("computer science")`{.python} should return `"co..ce"`{.python}
+
+Tools: There is a solution that uses only the slice and concatenation operators.
+
+## Eighteen
+When internationalization of computer applications became a topic of interest, people got tired of typing internationalization so they shortened it to i18n, meaning "an "i", 18 more letters, and then an "n"". Write a function `eighteen(s)` that uses the same idea to shorten any string.
+	
+Examples: 
+
+-	`eighteen("computer science")`{.python} should return `"c14e"`{.python}
+-	`eighteen("is")`{.python} should return `"i0s"`{.python}
+-	`eighteen("fun")`{.python} should return `"f1n"`{.python}
+
+Tools: There is a solution that uses only the index operator and built-in functions
+
+## Alliterative
+Two words are alliterative if they start with the same consonant sound.
+Since sounds are a bit complicated in English, write a simpler version:
+a function `allit(s, t)` that is `True` if `s` and `t` start with the same non-vowel character.
+Your code should treat upper- and lower-case letters as the same.
+
+Examples:
+
+-	`allit("hi", "hello")`{.python} should return `True`{.python}
+-	`allit("Hi", "hello")`{.python} should return `True`{.python}
+-	`allit("fun", "great fun")`{.python} should return `False`{.python}
+-	`allit("exciting", "excitement")`{.python} should return `False`{.python}
+
+Tools: There is a solution that uses one method to fix case, several operators, and an extra string literal.
+
+## Between
+Write a function `between` that returns the portion of its first parameter that falls between the first and second occurrence of its second parameter; or return the empty string if the second parameter does not occur twice.
+
+Examples:
+
+-	`between("peripatetics", "p")`{.python} gives `"eri"`{.python}
+-	`between("loan me a lovely loon to look at", "lo")`{.python} gives `"an me a "`{.python}
+-	`between("loan me a lovely loon to look at", " lo")`{.python} gives `"vely"`{.python}
+-	`between("quick", "u")`{.python} gives `""`{.python}
+-	`between("quick", "z")`{.python} gives `""`{.python}
+
+Tools: There is a solution that uses the `find` method, the slice operator, an `if` statement or two, and a little arithmetic.
+
+
+## Reversed-Between
+Write a function `rbetween` that does the same as `between`, but looks between the last two, not first two, occurrences.
+
+Examples:
+
+-	`rbetween("peripatetics", "p")`{.python} gives `"eri"`{.python}
+-	`rbetween("loan me a lovely loon to look at", "lo")`{.python} gives `"on to "`{.python}
+-	`rbetween("loan me a lovely loon to look at", " lo")`{.python} gives `"on to"`{.python}
+-	`rbetween("quick", "u")`{.python} gives `""`{.python}
+-	`rbetween("quick", "z")`{.python} gives `""`{.python}
+
+Tools: There is a solution that uses the `rfind` method, the slice operator, an `if` statement or two, and a little arithmetic.
+
+## Random Between
+Write a function `rand_between` that randomly does either `between` or `rbetween`.
+
+Examples:
+
+-	`rand_between("peripatetics", "p")`{.python} gives `"eri"`{.python}
+-	`rand_between("loan me a lovely loon to look at", "lo")`{.python} gives `"on to "`{.python} sometimes and `"an me a "`{.python} other times
+-	`rand_between("loan me a lovely loon to look at", " lo")`{.python} gives `"vely"`{.python} sometimes and `"on to"`{.python} other times.
+-	`rand_between("quick", "u")`{.python} gives `""`{.python}
+
+Tools: There is a solution that `random.randint`, an `if` statement, and both `between` and `rbetween`.
+
+## Temperature
+Web pages are coded in a language called HTML, and understanding it can help us write programs that use the Internet.  For example, part of <weather.gov>'s page for a given zip code is current temperature which shows up between `class="myforecast-current-lrg">` and `&deg;F`; for example, at the time I am writing this description [Charlottesville's page](view-source:http://forecast.weather.gov/MapClick.php?lat=38.0356284&lon=-78.4948031) contains `<p class="myforecast-current-lrg">83&deg;F</p>`.
+
+Write a function `temperature` that returns the the content between the first `class="myforecast-current-lrg">` and `&deg;F` in its argument string.
+
+Examples:
+
+-	`temperature("<p class="myforecast-current-lrg">83&deg;F</p>")`{.python} should return `"83"`{.python}
+-	`temperature("<p class="myforecast-current">Fair</p>\n<p class="myforecast-current-lrg">103&deg;F</p><p class="myforecast-current-sm">28&deg;C</p>")`{.python} should return `"103"`{.python}
+
+Tools: There is a solution that uses the `find` method, the slice operator, and a little arithmetic.
+
+
+## Unhide
+Sometimes people obscure email addresses by writing the `@` and `.` as `at` and `dot`.
+Write a function `unhide` that converts these back to `@` and `.`.
+Even do this if they use capitals or parentheses.
+
+Examples:
+
+-	`unhide("mst3k@virginia.edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
+-	`unhide("mst3k at virginia.edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
+-	`unhide("mst3k (at) virginia (dot) edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
+-	`unhide("mst3k AT virginia DOT edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
+-	`unhide("mst3k@virginia dot edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
+
+Tools: All you need is `replace`; but remember that `replace` (like all string methods) does not modify the string in-place, rather returns a copy.  Thus
+
+````python
+a = "a string"
+a.replace("tr", "w")
+print(a)
+````
+
+prints `a string` not `a swing`; however
+
+````python
+a = "a string"
+a = a.replace("tr", "w")
+print(a)
+````
+
+prints `a swing`.
+	
+## Vowel confusion
+Write a function `vowel_confusion` that swaps all `e`s and `i`s.
+
+Examples:
+
+-	`vowel_confusion("Electric slide")`{.python} gives `"Ilictrec sledi"`{.python}
+-	`vowel_confusion("I sang, and thought I sang very well; but he just looked up into my face with a very quizzical expression, and said, 'How long have you been singing, Mademoiselle?'")`{.python} gives `"E sang, and thought E sang viry will; but hi just lookid up ento my faci weth a viry quezzecal ixprisseon, and saed, 'How long havi you biin sengeng, Madimoesilli?'"`{.python}
+
+Tools: All you need is `replace`; but you'll need to use three, not two, replacements, using some kind of rarely-typed placeholder character like `ß`.
+
+## Few quoted characters
+Write a program in a file `changing_str.py` whose first line is `a = "reasonable simplicity"`{.python}, whose last line prints `radical complexity`{.python}, with as few characters appearing between quotes within the program as possible.
+
+The following program:
+
+````python
+a = "reasonable simplicity"
+print("radical complexity")
+````
+
+has 39 characters in quotes (21 for the first line, 18 for the second).
+
+But this one:
+
+````python
+a = "reasonable simplicity"
+print(a[0] + "adical complex" + a[-3:])
+````
+
+has only 35.
+We're pretty confident that it is possible to get to only 23...
+
+
+# Submission
+
+**Each partner** should submit one .py file named `str_funcs.py` to Archimedes (the submission system):
+[https://archimedes.cs.virginia.edu/cs1110/](https://archimedes.cs.virginia.edu/cs1110/).
+If you got to the last task, also submit `changing_str.py`.
+Please put **both partners' ids** in comments at the top of the file.
+
+
+
+
 # Tools to Use
 
 In the following, `s` and `t` are assumed to be strings;
@@ -157,155 +329,4 @@ They generally return a value based on the string they follow.
 	Thus `"cocoa is coo-coo".replace("o", "uh", 3) == "cuhcuha is cuho-coo"`{.python}.
 
 -	There are also two other useful methods, `join` and `split`, that we will discuss more in the weeks to come.
-
-# Tasks
-
-## Ellipsis
-Write a function `ellipsis(s)` that replaces all but the first two and last two characters of a string with an ellipsis (`...`).
-
-Example: `ellipsis("computer science")`{.python} should return `"co..ce"`{.python}
-
-Tools: There is a solution that uses only the slice and concatenation operators.
-
-## Eighteen
-When internationalization of computer applications became a topic of interest, people got tired of typing internationalization so they shortened it to i18n, meaning "an "i", 18 more letters, and then an "n"". Write a function `eighteen(s)` that uses the same idea to shorten any string.
-	
-Examples: 
-
--	`eighteen("computer science")`{.python} should return `"c14e"`{.python}
--	`eighteen("is")`{.python} should return `"i0s"`{.python}
--	`eighteen("fun")`{.python} should return `"f1n"`{.python}
-
-Tools: There is a solution that uses only the index operator and built-in functions
-
-## Alliterative
-Two words are alliterative if they start with the same consonant sound.
-Since sounds are a bit complicated in English, write a simpler version:
-a function `allit(s, t)` that is `True` if `s` and `t` start with the same non-vowel character.
-Your code should treat upper- and lower-case letters as the same.
-
-Examples:
-
--	`allit("hi", "hello")`{.python} should return `True`{.python}
--	`allit("Hi", "hello")`{.python} should return `True`{.python}
--	`allit("fun", "great fun")`{.python} should return `False`{.python}
--	`allit("exciting", "excitement")`{.python} should return `False`{.python}
-
-Tools: There is a solution that uses one method to fix case, several operators, and an extra string literal.
-
-## Between
-Write a function `between` that returns the portion of its first parameter that falls between the first and second occurrence of its second parameter; or return the empty string if the second parameter does not occur twice.
-
-Examples:
-
--	`between("peripatetics", "p")`{.python} gives `"eri"`{.python}
--	`between("loan me a lovely loon to look at", "lo")`{.python} gives `"an me a "`{.python}
--	`between("loan me a lovely loon to look at", " lo")`{.python} gives `"vely"`{.python}
--	`between("quick", "u")`{.python} gives `""`{.python}
--	`between("quick", "z")`{.python} gives `""`{.python}
-
-Tools: There is a solution that uses the `find` method, the slice operator, an `if` statement or two, and a little arithmetic.
-
-
-## Reversed-Between
-Write a function `rbetween` that does the same as `between`, but looks between the last two, not first two, occurrences.
-
-Examples:
-
--	`rbetween("peripatetics", "p")`{.python} gives `"eri"`{.python}
--	`rbetween("loan me a lovely loon to look at", "lo")`{.python} gives `"on to "`{.python}
--	`rbetween("loan me a lovely loon to look at", " lo")`{.python} gives `"on to"`{.python}
--	`rbetween("quick", "u")`{.python} gives `""`{.python}
--	`rbetween("quick", "z")`{.python} gives `""`{.python}
-
-Tools: There is a solution that uses the `rfind` method, the slice operator, an `if` statement or two, and a little arithmetic.
-
-## Random Between
-Write a function `rand_between` that randomly does either `between` or `rbetween`.
-
-Examples:
-
--	`rand_between("peripatetics", "p")`{.python} gives `"eri"`{.python}
--	`rand_between("loan me a lovely loon to look at", "lo")`{.python} gives `"on to "`{.python} sometimes and `"an me a "`{.python} other times
--	`rand_between("loan me a lovely loon to look at", " lo")`{.python} gives `"vely"`{.python} sometimes and `"on to"`{.python} other times.
--	`rand_between("quick", "u")`{.python} gives `""`{.python}
-
-Tools: There is a solution that `random.randint`, an `if` statement, and both `between` and `rbetween`.
-
-## Temperature
-Web pages are coded in a language called HTML, and understanding it can help us write programs that use the Internet.  For example, part of <weather.gov>'s page for a given zip code is current temperature which shows up between `class="myforecast-current-lrg">` and `&deg;F`; for example, at the time I am writing this description [Charlottesville's page](view-source:http://forecast.weather.gov/MapClick.php?lat=38.0356284&lon=-78.4948031) contains `<p class="myforecast-current-lrg">83&deg;F</p>`.
-
-Write a function `temperature` that returns the the content between the first `class="myforecast-current-lrg">` and `&deg;F` in its argument string.
-
-Examples:
-
--	`temperature("<p class="myforecast-current-lrg">83&deg;F</p>")`{.python} should return `"83"`{.python}
--	`temperature("<p class="myforecast-current">Fair</p>\n<p class="myforecast-current-lrg">103&deg;F</p><p class="myforecast-current-sm">28&deg;C</p>")`{.python} should return `"103"`{.python}
-
-Tools: There is a solution that uses the `find` method, the slice operator, and a little arithmetic.
-
-
-## Unhide
-Sometimes people obscure email addresses by writing the `@` and `.` as `at` and `dot`.
-Write a function `unhide` that converts these back to `@` and `.`.
-Even do this if they use capitals or parentheses.
-
-Examples:
-
--	`unhide("mst3k@virginia.edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
--	`unhide("mst3k at virginia.edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
--	`unhide("mst3k (at) virginia (dot) edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
--	`unhide("mst3k AT virginia DOT edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
--	`unhide("mst3k@virginia dot edu")`{.python} gives `"mst3k@virginia.edu"`{.python}
-
-Tools: All you need is `replace`; but remember that `replace` (like all string methods) does not modify the string in-place, rather returns a copy.  Thus
-
-````python
-a = "a string"
-a.replace("tr", "w")
-print(a)
-````
-
-prints `a string` not `a swing`; however
-
-````python
-a = "a string"
-a = a.replace("tr", "w")
-print(a)
-````
-
-prints `a swing`.
-	
-## Vowel confusion
-Write a function `vowel_confusion` that swaps all `e`s and `i`s.
-
-Examples:
-
--	`vowel_confusion("Electric slide")`{.python} gives `"Ilictrec sledi"`{.python}
--	`vowel_confusion("I sang, and thought I sang very well; but he just looked up into my face with a very quizzical expression, and said, 'How long have you been singing, Mademoiselle?'")`{.python} gives `"E sang, and thought E sang viry will; but hi just lookid up ento my faci weth a viry quezzecal ixprisseon, and saed, 'How long havi you biin sengeng, Madimoesilli?'"`{.python}
-
-Tools: All you need is `replace`; but you'll need to use three, not two, replacements, using some kind of rarely-typed placeholder character like `ß`.
-
-## Few quoted characters
-Write a program whose first line is `a = "reasonable simplicity"`{.python}, whose last line prints `radical complexity`{.python}, with as few characters appearing between quotes within the program as possible.
-
-The following program:
-
-````python
-a = "reasonable simplicity"
-print("radical complexity")
-````
-
-has 39 characters in quotes (21 for the first line, 18 for the second).
-
-But this one:
-
-````python
-a = "reasonable simplicity"
-print(a[0] + "adical complex" + a[-3:])
-````
-
-has only 35.
-We're pretty confident that it is possible to get to only 23...
-
 
