@@ -1,3 +1,8 @@
+---
+title: "Lab 6: String Puzzles"
+...
+
+
 # String Puzzles
 
 Strings can be manipulated using operators, functions, and methods.

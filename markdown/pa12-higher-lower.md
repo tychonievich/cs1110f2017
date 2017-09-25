@@ -1,5 +1,5 @@
 ---
-title: higher_lower.py
+title: "PA 12: higher_lower.py"
 ...
 
 # Task
