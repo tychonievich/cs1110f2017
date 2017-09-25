@@ -80,3 +80,4 @@ Labs are listed in order. See the [schedule](schedule.html) for the specific dat
 -   [turtle art contest](lab03-turtle.html)
 -   [madlibs](lab04-madlib.html)
 -   [exam prep](lab05-paper.html)
+-   [strings](lab06-strgames.html)
