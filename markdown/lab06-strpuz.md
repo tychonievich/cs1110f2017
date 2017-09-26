@@ -3,6 +3,15 @@ title: "Lab 6: String Puzzles"
 ...
 
 
+# Mechanics of this Lab
+
+1.	Logic groups -- research suggests changing groups after a few weeks can help you learn more rapidly, so we'll re-group you today.
+
+2.	Read -- this lab is intended to help you learn on your own.  Read before you code!
+
+2.	Code explanations -- TAs will be randomly pulling aside students to have them explain how their recent homework submissions work.  Not every student will be called on every week, but each student will be asked to explain their code multiple times this semester.
+
+
 # String Puzzles
 
 Strings can be manipulated using operators, functions, and methods.
