@@ -5,7 +5,7 @@ title: "Lab 6: String Puzzles"
 
 # Mechanics of this Lab
 
-1.	Logic groups -- research suggests changing groups after a few weeks can help you learn more rapidly, so we'll re-group you today.
+1.	Logic groups -- research suggests staying with one logic group for a few weeks, then changing groups, can help you learn more rapidly.  Thus, we'll re-group you today.
 
 2.	Read -- this lab is intended to help you learn on your own.  Read what we've written before you code!
 
