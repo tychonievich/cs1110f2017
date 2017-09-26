@@ -37,13 +37,11 @@ print(averages.middle_average(1, 5, 1))
 you should get the following output:
 
 ````
-2.3333333333333335
-1
-3.0
-2.3333333333333335
+1110
+22
+18.207964601769913
+842
 ````
-
-Don't worry if you are off in the last few decimal places.
 
 
 # Thought Question
