@@ -30,6 +30,38 @@ This is a new kind of lab, since last semester's post-exam-1 lab was not well li
 	-	We will help, but we'll ask what you've already tried first...
 1.	Read the writeup, then do the tasks
 
+# Spot Check
+
+Each TA should go to
+
+> [The Code Explainer](https://archimedes.cs.virginia.edu/cs1110/explain.php)
+
+and have four of their students explain the produced code sometime during lab.
+Have them do this away from other students (i.e., ask them to come to you).
+Example questions to ask include
+
+-	Explain to me how your code works.
+-	How would your code work differently if we did $Z$ to line $n$?
+-	How would you describe the value inside variable $X$ after line $n$? Is that the same as its meaning on line $m$?
+-	If I ran it with input/argument $X$, what would it do/return/print?  What value would variable $Y$ have on line $n$?
+
+Answer guidelines:
+
+Clear
+:	They seem to both understand their code and understand how to articulate it.
+
+Adequate
+:	They seem to basically understand their code, but struggle to explain it.
+	Help them out by modeling how you would answer your own questions.
+
+Confused
+:	They did not seem to understand their own code.
+
+	Note: if the code doesn't work and they don't know why, that's adequate, not confused;
+	confused is when they don't know why/if it will work.
+
+> TAs with 2 labs: sorry, right now Archimedes doesn't know the difference between your two lab groups, so you'll have to skip a lot of students to get to the right ones...
+
 # Helping
 
 One goal is that the students learn some on their own.
@@ -43,7 +75,7 @@ Most questions should be answered with questions:
 	-	Which ones have you tried already?
 		-	I'd suggest trying a few...
 -	Have you tried working out what it would do yourself using a pencil and paper?
--	Have you tried running it in <pythontutor.com>?
+-	Have you tried running it in <http://pythontutor.com>?
 
 Followed by
 
