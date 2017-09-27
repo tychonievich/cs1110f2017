@@ -44,3 +44,21 @@ assignments:
   -
     due: 2017-09-25
     links: [pa09-averages]
+  -
+    due: 2017-10-06
+    links: [pa10-calculator]
+  -
+    due: 2017-10-09
+    links: [pa11-rumple]
+  -
+    due: 2017-10-13
+    links: [pa12-higher-lower]
+  -
+    due: 2017-09-16
+    links: [pa13-higher-lower2]
+  -
+    due: 2017-09-18
+    links: [pa14-roman]
+  -
+    due: 2017-09-23
+    links: [pa15-credit]
