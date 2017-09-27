@@ -58,6 +58,24 @@ Fri 22 Sep
 Mon 25 Sep 
 :    [PA 09: averages.py](pa09-averages.html) 
 
+Fri 06 Oct 
+:    [PA 10: calculator.py](pa10-calculator.html) 
+
+Mon 09 Oct 
+:    [PA 11: rumple.py](pa11-rumple.html) 
+
+Fri 13 Oct 
+:    [PA 12: higher_lower.py](pa12-higher-lower.html) 
+
+Sat 16 Sep 
+:    [PA 13: higher_lower_player.py](pa13-higher-lower2.html) 
+
+Mon 18 Sep 
+:    [PA 14: roman.py](pa14-roman.html) 
+
+Sat 23 Sep 
+:    [PA 15: credit_card.py](pa15-credit.html) 
+
 
 <script>
 var dts = document.getElementsByTagName('dt');
