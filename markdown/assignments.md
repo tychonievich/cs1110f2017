@@ -67,13 +67,13 @@ Mon 09 Oct
 Fri 13 Oct 
 :    [PA 12: higher_lower.py](pa12-higher-lower.html) 
 
-Sat 16 Sep 
+Mon 16 Oct 
 :    [PA 13: higher_lower_player.py](pa13-higher-lower2.html) 
 
-Mon 18 Sep 
+Wed 18 Oct 
 :    [PA 14: roman.py](pa14-roman.html) 
 
-Sat 23 Sep 
+Mon 23 Oct 
 :    [PA 15: credit_card.py](pa15-credit.html) 
 
 
