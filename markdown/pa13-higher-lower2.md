@@ -8,12 +8,12 @@ Write a file named `higher_lower_player.py` that plays a simple guessing game wi
 The game is the same as [the previous assignment](w06-higher-lower.html),
 but the roles are reversed: you think of the number, the computer guesses.
 
-Before the game begins, ask how many guesses the computer gets.
+Before the game begins, the computer should ask how many guesses it gets.
 
-If the computer loses, ask what the correct answer was.
-Check to make sure that the answer is legal, and complain if it wasn't.
+If the computer loses, it should ask what the correct answer was.
+It should also check to make sure that the answer is legal, and complain if it wasn't.
 
-If the user gives inconsistent answers, complain and stop playing.
+If the user gives inconsistent answers, the computer should complain and stop playing.
 
 # Algorithm
 
@@ -77,7 +77,7 @@ I won!
 
 # Thought Question
 
-We'll only run your program entering exactly one of `higher`, `lower`, or `same`, but a general human might also type things like `  higher` or `Lower` or `low`.
+We'll only run your program entering exactly one of `higher`, `lower`, or `same`, but a general human might also type things like `  higher` or `Lower` or `low`.
 How robust can you make your program to not-quite-right user inputs?
 
 The version we ask you to submit should use just integers, but you might also consider making a second version that uses floating-point numbers.
@@ -88,7 +88,7 @@ Even if you get it working, submit the integer-only version.
 
 Every prompt of every `input`{.python} should end with a space character, for this and every other assignment that uses `input`{.python}. 
 
-You want integers, not floats.  Round down if rounding is required.
+You want integers, not floats.  Round down if rounding is required.  The `//` operator might help with this.
 
 If the initial range is \[1, 100\] and the user says `higher` to 50, what is the new range?
 Not that it should *not* include 50.
@@ -99,7 +99,7 @@ The loop should stop if any of the following become true:
 -   the range of possible `int`{.python} becomes empty
 -   there have been too many guesses
 
-The order of cases in an `if`{.python}/`elif`{.python}/`else`{.python} matters because if the first one is True, the others don't get checked.
+The order of cases in an `if`{.python}/`elif`{.python}/`else`{.python} matters because if the first one is `True`{.python}, the others don't get checked.
 Consider combinations of stopping conditions;
 for example, if the answer is `same` *and* all guesses are used up, which message should appear?
 
