@@ -65,9 +65,9 @@ Could you suggest inserting a missing digit?
 
 You probably want a `for`{.python} loop -- in fact, you probably want more than one.
 
-You can iterate every-other number in several ways:
-iterating every number and skipping some with an `if`,
-iterating every number and doubling each with `*2`, or 
+You can iterate every-other index in several ways:
+iterating every index and skipping some with an `if`,
+iterating the first half of indices and doubling each with `*2`, or 
 using [the three-argument version of `range`{.python}](https://docs.python.org/3/library/stdtypes.html#range).
 
 If you have not done the check by hand on paper, you are going to find this *very* hard.
