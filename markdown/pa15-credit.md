@@ -13,7 +13,7 @@ This is a simple way of detecting common mis-typings of card numbers.
 The algorithm is as follows:
 
 1.  Form a sum of every other digit, including the right-most digit;
-    so 5490123456789128 (5**4**9**0**1**2**3**4**5**6**7**8**9**1**2**8**) sums to 8 + 1 + 8 + 6 + 4 + 2 + 0 + 4 = 33.
+    so 5490123456789128 (5**4**9**0**1**2**3**4**5**6**7**8**9**1**2**8**) sums to 4 + 0 + 2 + 4 + 6 + 8 + 1 + 8 = 33.
 2.  Double each remaining digit, then sum all the digits that creates it;
     the remaining digits (5 9 1 3 5 7 9 2) in our example (**5**4**9**0**1**2**3**4**5**6**7**8**9**1**2**8) double to 10 18 2 6 10 14 18 4,
     which sums to 1+0 + 1+8 + 2 + 6 + 1+0 + 1+4 + 1+8 + 4 = 37
