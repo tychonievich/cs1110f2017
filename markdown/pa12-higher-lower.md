@@ -72,7 +72,7 @@ else:
     print('This line never prints because it is not how randrange works')
 ````
 
-Note that the math is $l \le n < h$ not $l \le n \le h$.
+Note that the math is $low \le num < high$ not $low \le num \le high$..
 
 ---
 
