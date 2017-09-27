@@ -52,7 +52,7 @@ You lose; the number was 7.
 
 # Thought Question
 
-Try adding a loop to ensure that the number of guesses is a positive number, asking again if it isn't.
+Try adding a loop to ensure that the number of guesses is a positive number (or -1), asking again if it isn't.
 
 
 # Troubleshooting
