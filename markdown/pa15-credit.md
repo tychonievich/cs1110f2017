@@ -61,6 +61,8 @@ How many digits would need to change?
 Could you put the change in any digit?
 Could you suggest inserting a missing digit?
 
+It is also possible to do this without ever dealing with any multi-digit numbers... but doing it that way makes the code fairly ugly.
+
 # Troubleshooting
 
 You probably want a `for`{.python} loop -- in fact, you probably want more than one.
