@@ -5,6 +5,8 @@ title: "Lab 6: String Puzzles"
 
 # Mechanics of this Lab
 
+1.	5-minute survey -- In an effort to improve this class, we have a group of researchers studying how the course is working.  They'd be greatly appreciative if you fill in [this short survey](survey.html) (well, that link is some boilerplate text about the survey, but it has a link to the survey inside it).
+
 1.	Logic groups -- research suggests staying with one logic group for a few weeks, then changing groups, can help you learn more rapidly.  Thus, we'll re-group you today.
 
 2.	Read -- this lab is intended to help you learn on your own.  Read what we've written before you code!

@@ -3,6 +3,10 @@ title: "Lab 6: String Puzzles"
 ...
 
 
+# Research Study
+
+Encourage the students to first take the 5-minute survey linked from their lab writeup.  Delay starting logic groups 5 minutes to allow them to do this.  If you get any kind of "do I have to take it" or "do I have to answer question *x*", the answer is always "no, but the researchers would appreciate it if you do."
+
 # Logic Groups
 
 Exam 1 has past; time to form new groups!
