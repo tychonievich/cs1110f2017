@@ -37,28 +37,32 @@ print(averages.middle_average(1, 5, 1))
 you should get the following output:
 
 ````
-1110
-22
-18.207964601769913
-842
+2.3333333333333335
+1
+3.0
+2.3333333333333335
 ````
 
+Don't worry if you are off in the last few decimal places.
 
-# Thought Questions
 
-How hard would it be to
+# Thought Question
 
--   Return the number if all there is is one number?
--   Deal with negative numbers too, like `"-123 - -456"`
--   Deal with a string with two operators, like `"1 + 23 * 456"`?
+How often is each of the three averages the middle average?  Are any of them always larger or always smaller than the others?
+
+Can you use default values to allow your functions to work if only two arguments are supplied?  To get you started, consider writing `def mean(a, b, c=None):`{.python}.  If you get those working, what about allowing four or five values?
+
+(Note: there [is a way](https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists) to have arbitrarily-long argument lists, but we won't discuss the `tuple`{.python} construct it uses for a few weeks yet.)
+
+There are [many other averages](https://en.wikipedia.org/wiki/Average); if you want additional practice, see how many of them you can get working.
 
 
 # Troubleshooting
 
-There are four operators that could be `in` the string, so you probably want four cases in a big `if`-`elif`-type statement.
+Your `mean` function can be a single line, as it only does math.
 
-Those string methods you learned about in lab will come in handy (1111 students or others that missed the lab: see [lab 06](lab06-strpuz.html), especially the "Tools to Use" section).
+Your `median` function will probably need several `if`{.python} statements.
 
-Since you can't rely on the number of spaces, it probably makes sense to find the operator and slice off the part before and after that to turn into `int`s.
+Did you test out your `median` when all three argument values are the same?
 
-`int` can deal with spaces just fine (`int(" 12  ")`{.python} works) but not non-number-space bits very well (`int("12+")`{.python} raises a `ValueError`).
+For `rms`, recall that <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ceaad50b7a0ae8ad64014319f138887ec5147f6c" title="square root means one-half power"/> an
