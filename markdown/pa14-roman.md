@@ -50,5 +50,5 @@ what is the set of numbers that results in the most compact representation?
 Most solutions involve building up the solution a letter or two at a time, using the `+` operator,
 and keeping track of how far along you are by subtracting from the input as each new letter is added to the answer.
 
-Most solutions we've seen use `while`{.python}, though some use `if`{.python} or `list`{.python}s instead or in addition to `while`{.python}.
+Most solutions we've seen use `while`{.python}, though some use `if`{.python} or `list`{.python}s instead of (or in addition to) `while`{.python}.
 
