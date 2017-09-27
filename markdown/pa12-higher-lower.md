@@ -13,7 +13,7 @@ If after the given number of guesses they still don't know the number, print "Yo
 
 Before the game begins,
 
-1.  Ask what number to pick. If they say "−1", pick randomly; otherwise, use their number even if it is outside the 1–100 range. See [lab 6](lab06-magic.html) for a review of how to get a random integer by using the `random.randrange()` method.
+1.  Ask what number to pick. If they say "−1", pick randomly; otherwise, use their number even if it is outside the 1–100 range.
 2.  Ask how many guesses they should have.  You may assume they respond with a positive integer.
 
 # Example Invocations
@@ -56,6 +56,25 @@ Try adding a loop to ensure that the number of guesses is a positive number, ask
 
 
 # Troubleshooting
+
+To get a random integer, you need to do
+
+````python
+import random
+
+# set low and high here
+
+num = random.randrange(low, high)
+
+if low <= num < high:
+    print('This is always true because this is how randrange works')
+else:
+    print('This line never prints because it is not how randrange works')
+````
+
+Note that the math is $l \le n < h$ not $l \le n \le h$.
+
+---
 
 Every prompt of every `input`{.python} should end with a space character, for this and every other assignment that uses `input`{.python}. 
 
