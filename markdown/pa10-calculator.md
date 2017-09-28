@@ -8,7 +8,7 @@ Write a file named `calculator.py` that has a function `binop` which can evaluat
 
 `binop` accepts a single string parameter consisting of two positive integers and a singe operator between them, where the operator is one of `+`, `-`, `*`, or `/`.
 There may also be arbitrarily many spaces before or after either number and/or the operator.
-The function returns the `int` value created by evaluating the expression.
+The function returns the `int` or `float` value created by evaluating the expression.
 
 Python has several built-in ways to do this (`eval`, `exec`, `compile`); **do not** use them.  `calculator.py` also should not `import` anything.
 
