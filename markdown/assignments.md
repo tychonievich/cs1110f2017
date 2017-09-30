@@ -99,3 +99,4 @@ Labs are listed in order. See the [schedule](schedule.html) for the specific dat
 -   [madlibs](lab04-madlib.html)
 -   [exam prep](lab05-paper.html)
 -   [strings](lab06-strpuz.html)
+-   [hangman](lab07-hangman.html)

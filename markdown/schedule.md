@@ -93,7 +93,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 </tr><tr>
 <td class="day Monday noclass" id="2017-10-02"><span class="date">2 Oct</span><span class="reason">Reading Days</span></td>
 <td class="day Wednesday " id="2017-10-04"><span class="date">4 Oct</span>testing<br/>our own [testing writeup](testing.html)<br/></td>
-<td class="day Thursday  lab" id="2017-10-05"><span class="date">5 Oct</span><br/></td>
+<td class="day Thursday  lab" id="2017-10-05"><span class="date">5 Oct</span>[hangman](lab07-hangman.html)<br/></td>
 <td class="day Friday " id="2017-10-06"><span class="date">6 Oct</span>repeating with `while`{.python}<br/>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>composite datatypes -- strings, ranges, lists, tuples<br/>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)<br/></td>
@@ -172,7 +172,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-09-29" class=""><th>29 Sep <br/></th><td>code readability, elegance</td><td>§[3.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.3.4), §[8.2.9](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.8.2.9)--8.2.10; skim [PEP 8](https://www.python.org/dev/peps/pep-0008/)</td><td> [10am input_print_return.py](files/1110/2017-09-29-1000-input_print_return.py) [10am on_naming.py](files/1110/2017-09-29-1000-on_naming.py) [10am play_with_scope.py](files/1110/2017-09-29-1000-play_with_scope.py) [10am slides.pdf](files/1110/2017-09-29-1000-slides.pdf) [10am stylish_functions.py](files/1110/2017-09-29-1000-stylish_functions.py) [2pm func_style.py](files/1110/2017-09-29-1400-func_style.py) [2pm koan.py](files/1110/2017-09-29-1400-koan.py) [2pm readability.py](files/1110/2017-09-29-1400-readability.py) [2pm scope_quiz.py](files/1110/2017-09-29-1400-scope_quiz.py) [2pm slides.pdf](files/1110/2017-09-29-1400-slides.pdf) [10am video](screencasts/2017-09-29-1000.webm) [2pm video](screencasts/2017-09-29-1400.webm) [2pm video](screencasts/2017-09-29-1400.webm)
 <tr id="2017-10-02" class="noclass"><th>2 Oct </th><td><span class="reason">Reading Days</span></td><td></td><td>
 <tr id="2017-10-04" class=""><th>4 Oct <br/></th><td>testing</td><td>our own [testing writeup](testing.html)</td><td>
-<tr id="2017-10-05" class=" lab"><th>5 Oct <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-10-05" class=" lab"><th>5 Oct <br/></th><td>[hangman](lab07-hangman.html)</td><td></td><td></td></tr>
 
 <tr id="2017-10-06" class=""><th>6 Oct <br/></th><td>repeating with `while`{.python}</td><td>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)</td><td>
 <tr id="2017-10-09" class=""><th>9 Oct <br/></th><td>composite datatypes -- strings, ranges, lists, tuples</td><td>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)</td><td>
