@@ -276,7 +276,7 @@ If a student submits code that was not authored by that student (i.e. copied fro
 
 # Research
 
-Your class work might be used for research purposes. For example, we may use anonymized student assignments to design algorithms or build tools to help programmers; use data collected from course support tools to improve student engagement; etc. Any student who wishes to opt out can contact the instructor or TA to do so after final grades have been issued. This has no impact on your grade in any manner.
+Your class work might be used for research purposes. For example, we may use anonymized student assignments to design algorithms or build tools to help programmers; use data collected from course support tools to better understand and seek to improve student engagement and learning; etc. Any student who wishes to opt out can contact the instructor or TA to do so after final grades have been issued. This has no impact on your grade in any manner.
 
 # Academic Integrity
 
