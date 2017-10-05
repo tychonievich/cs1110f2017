@@ -2,10 +2,15 @@
 title: "Lab 6: Magic 8-ball - TA guide"
 ...
 
+# Logic Groups
+
+Today's task is a [self-referential questionaire](https://docs.google.com/presentation/d/1ODu2fJHhPRvXswms1bvVk5_NaYet_XbU-XfOFMu7pFw/edit?usp=sharing).
+The slide deck contains four of them; feel free to use any one.
+
 # Background
 
 This will be students' first required use of `while`{.python}.
-Significant structure if given on the [student lab writeup](lab07-nim.html).
+Significant structure is given on the [student lab writeup](lab07-nim.html).
 
 # Introduce/Review `while`{.python}
 
@@ -57,7 +62,7 @@ When asked a question by one partner, your first response should always be to tu
 
 They can't think of how to get "play by the rules" working?
 Ask them to read the text there aloud to you.
-Likely the answer is there, and is they don't understand it the process of having them read will give you a chance to see what they don't understand.
+Likely the answer is there, and if they don't understand it the process of having them read will give you a chance to see what they don't understand.
 
 ## Remind them to test
 
