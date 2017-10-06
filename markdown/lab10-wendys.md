@@ -47,7 +47,7 @@ To test this, you'll need
 ## Finding a location
 
 You'll need to write code that, given a target latitude and longitude, loops the points of interest in the CSV file and finds the one that is closest to the target location.
-To do this, you'll need to write CSV reading code (like we have done in class recently)
+To do this, you'll need to create CSV reading code (like we have done in class recently)
 and also have a way of computing the distance between two GPS coordinates.
 That distance math is complicated because the earth is a spheroid; the following code should work:
 
