@@ -121,7 +121,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday  lab" id="2017-11-09"><span class="date">9 Nov</span><br/></td>
 <td class="day Friday " id="2017-11-10"><span class="date">10 Nov</span>game design with `gamebox`{.python}<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-11-13"><span class="date">13 Nov</span>regular expressions<br/>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [regexr.com](http://regexr.com/)<br/></td>
+<td class="day Monday " id="2017-11-13"><span class="date">13 Nov</span>regular expressions<br/>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//https://pythex.org/)<br/></td>
 <td class="day Wednesday " id="2017-11-15"><span class="date">15 Nov</span>re repetition and groups<br/>§[25.2.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.3), §[25.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.4)<br/></td>
 <td class="day Thursday  lab" id="2017-11-16"><span class="date">16 Nov</span><br/></td>
 <td class="day Friday " id="2017-11-17"><span class="date">17 Nov</span>re building<br/>our [building guide and example](re-tips.html)<br/></td>
@@ -200,7 +200,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-09" class=" lab"><th>9 Nov <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-11-10" class=""><th>10 Nov <br/></th><td>game design with `gamebox`{.python}</td><td></td><td>
-<tr id="2017-11-13" class=""><th>13 Nov <br/></th><td>regular expressions</td><td>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [regexr.com](http://regexr.com/)</td><td>
+<tr id="2017-11-13" class=""><th>13 Nov <br/></th><td>regular expressions</td><td>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//https://pythex.org/)</td><td>
 <tr id="2017-11-15" class=""><th>15 Nov <br/></th><td>re repetition and groups</td><td>§[25.2.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.3), §[25.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.4)</td><td>
 <tr id="2017-11-16" class=" lab"><th>16 Nov <br/></th><td></td><td></td><td></td></tr>
 
