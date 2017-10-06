@@ -97,9 +97,9 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Friday " id="2017-10-06"><span class="date">6 Oct</span>repeating with `while`{.python}<br/>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>composite datatypes -- strings, ranges, lists, tuples<br/>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)<br/></td>
-<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>methods and mutability -- why `list`{.python} is special<br/>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),<br/><span class="special">Drop deadline</span></td>
+<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>iteration -- the `for`{.python} loop<br/>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)<br/><span class="special">Drop deadline</span></td>
 <td class="day Thursday  lab" id="2017-10-12"><span class="date">12 Oct</span><br/></td>
-<td class="day Friday " id="2017-10-13"><span class="date">13 Oct</span>iteration -- the `for`{.python} loop<br/>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)<br/></td>
+<td class="day Friday " id="2017-10-13"><span class="date">13 Oct</span>methods and mutability -- why `list`{.python} is special<br/>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>applications of lists and strings<br/>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)<br/></td>
 <td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>debugging techniques<br/>[buggy code](files/001/spoon.py)<br/><span class="special">Withdraw deadline</span></td>
@@ -176,10 +176,10 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 
 <tr id="2017-10-06" class=""><th>6 Oct <br/></th><td>repeating with `while`{.python}</td><td>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)</td><td>
 <tr id="2017-10-09" class=""><th>9 Oct <br/></th><td>composite datatypes -- strings, ranges, lists, tuples</td><td>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)</td><td>
-<tr id="2017-10-11" class=""><th>11 Oct <br/><span class="special">Drop deadline</span></th><td>methods and mutability -- why `list`{.python} is special</td><td>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),</td><td>
+<tr id="2017-10-11" class=""><th>11 Oct <br/><span class="special">Drop deadline</span></th><td>iteration -- the `for`{.python} loop</td><td>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)</td><td>
 <tr id="2017-10-12" class=" lab"><th>12 Oct <br/></th><td></td><td></td><td></td></tr>
 
-<tr id="2017-10-13" class=""><th>13 Oct <br/></th><td>iteration -- the `for`{.python} loop</td><td>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)</td><td>
+<tr id="2017-10-13" class=""><th>13 Oct <br/></th><td>methods and mutability -- why `list`{.python} is special</td><td>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),</td><td>
 <tr id="2017-10-16" class=""><th>16 Oct <br/></th><td>applications of lists and strings</td><td>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)</td><td>
 <tr id="2017-10-18" class=""><th>18 Oct <br/><span class="special">Withdraw deadline</span></th><td>debugging techniques</td><td></td><td>[buggy code](files/001/spoon.py)
 <tr id="2017-10-19" class=" lab"><th>19 Oct <br/></th><td></td><td></td><td></td></tr>
