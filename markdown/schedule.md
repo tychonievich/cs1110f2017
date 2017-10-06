@@ -131,10 +131,10 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday noclass lab" id="2017-11-23"><span class="date">23 Nov</span><span class="reason">Thanksgiving break</span></td>
 <td class="day Friday noclass" id="2017-11-24"><span class="date">24 Nov</span><span class="reason">Thanksgiving break</span></td>
 </tr><tr>
-<td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>file writing<br/>§[16](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.16)–[16.5.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.16.5.1), especially §[16.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.16.3); also [our writeup](16-addendum.html)<br/></td>
-<td class="day Wednesday " id="2017-11-29"><span class="date">29 Nov</span>file writing<br/></td>
+<td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>varies by section<br/></td>
+<td class="day Wednesday " id="2017-11-29"><span class="date">29 Nov</span>varies by section<br/></td>
 <td class="day Thursday  lab" id="2017-11-30"><span class="date">30 Nov</span><br/></td>
-<td class="day Friday " id="2017-12-01"><span class="date">1 Dec</span>file writing wrapup, and Q&A<br/>submit questions [here](https://docs.google.com/a/virginia.edu/forms/d/e/1FAIpQLSfUZeCfOpr04FMG9d1QdbBivgGtnpjx5Rq2wXHUAsp1huLo3g/viewform?usp=sf_link)<br/>No recording available (my audio recorder's battery died 48 seconds into lecture)<br/><br/></td>
+<td class="day Friday " id="2017-12-01"><span class="date">1 Dec</span>varies by section<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-12-04"><span class="date">4 Dec</span>review<br/>[review topics](know.html)<br/>the final exam is cumulative<br/></td>
 </tr></tbody></table>
@@ -210,11 +210,11 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-23" class="noclass lab"><th>23 Nov </th><td><span class="reason">Thanksgiving break</span></td><td></td><td></td></tr>
 
 <tr id="2017-11-24" class="noclass"><th>24 Nov </th><td><span class="reason">Thanksgiving break</span></td><td></td><td>
-<tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>file writing</td><td>§[16](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.16)–[16.5.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.16.5.1), especially §[16.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.16.3); also [our writeup](16-addendum.html)</td><td>
-<tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>file writing</td><td></td><td>
+<tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>varies by section</td><td></td><td>
+<tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>varies by section</td><td></td><td>
 <tr id="2017-11-30" class=" lab"><th>30 Nov <br/></th><td></td><td></td><td></td></tr>
 
-<tr id="2017-12-01" class=""><th>1 Dec <br/></th><td>file writing wrapup, and Q&A</td><td></td><td>submit questions [here](https://docs.google.com/a/virginia.edu/forms/d/e/1FAIpQLSfUZeCfOpr04FMG9d1QdbBivgGtnpjx5Rq2wXHUAsp1huLo3g/viewform?usp=sf_link)<br/>No recording available (my audio recorder's battery died 48 seconds into lecture)<br/>
+<tr id="2017-12-01" class=""><th>1 Dec <br/></th><td>varies by section</td><td></td><td>
 <tr id="2017-12-04" class=""><th>4 Dec <br/></th><td>review</td><td>[review topics](know.html)</td><td>the final exam is cumulative</tbody></table>
 <table id="cal1111" class="calendar">
 <thead><tr><th>Monday</th><th>Wednesday</th></tr></thead>
