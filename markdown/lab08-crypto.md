@@ -162,9 +162,9 @@ Current encryption relies on several things we haven't discussed here:
 -   Implementations that ensure every encryption of a block takes exactly the same time, so that you can't infer things about the message from the timing.
 -   The use of techniques beyond encryption, such as hashing (a topic you'll learn in our third programming course, CS 2150), to establish other kinds of trust.
 
-However, one lesson learned from the Union's breaking of the Confederacy's use of Vignère ciphers still holds today:
-the union didn't know how to break the cipher quickly in general, but once it discovered that the Confederacy used three keys for almost all of its communications ("Manchester Bluff", "Complete Victory", and "Come Retribution") they were able to break the codes with ease.
-This remains true today: if you re-use passwords, or use passwords other people also use, no encryption will ever be secure.
+However, one lesson learned from the Union's breaking of the Confederacy's use of Vignère ciphers in the US Civil War still holds today:
+the Union didn't know how to break the cipher quickly in general, but once it discovered that the Confederacy used three keys for almost all of its communications ("ManchesterBluff", "CompleteVictory", and "ComeRetribution") they were able to break the codes with ease.
+This remains true today: if you re-use passwords, or use passwords others might guess, good encryption doesn't help.
 
 
 ## Submission
