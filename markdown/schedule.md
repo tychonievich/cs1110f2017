@@ -103,12 +103,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 </tr><tr>
 <td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>applications of lists and strings<br/>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)<br/><span class="special">Withdraw deadline</span></td>
 <td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>debugging techniques<br/>[buggy code](files/001/spoon.py)<br/></td>
-<td class="day Thursday  lab" id="2017-10-19"><span class="date">19 Oct</span><br/></td>
+<td class="day Thursday  lab" id="2017-10-19"><span class="date">19 Oct</span>[debugging](lab09-debug.html)<br/></td>
 <td class="day Friday " id="2017-10-20"><span class="date">20 Oct</span>flexible indices -- `dict`{.python}<br/>§[13](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.13)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-23"><span class="date">23 Oct</span>reading data -- `open`{.python} and `urllib`{.python}<br/>§[16.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.16.2), §[27.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.27.3)<br/></td>
 <td class="day Wednesday " id="2017-10-25"><span class="date">25 Oct</span>understanding data<br/>Wikpedia on [delimiter-separated values](https://en.wikipedia.org/wiki/Delimiter-separated_values)<br/>[vastats.csv](files/vastats.csv)<br/></td>
-<td class="day Thursday  lab" id="2017-10-26"><span class="date">26 Oct</span><br/></td>
+<td class="day Thursday  lab" id="2017-10-26"><span class="date">26 Oct</span>[point-of-interest location](lab10-wendys.html)<br/></td>
 <td class="day Friday " id="2017-10-27"><span class="date">27 Oct</span>more on the data theme<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/></td>
@@ -182,12 +182,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-13" class=""><th>13 Oct <br/></th><td>methods and mutability -- why `list`{.python} is special</td><td>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),</td><td>
 <tr id="2017-10-16" class=""><th>16 Oct <br/><span class="special">Withdraw deadline</span></th><td>applications of lists and strings</td><td>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)</td><td>
 <tr id="2017-10-18" class=""><th>18 Oct <br/></th><td>debugging techniques</td><td></td><td>[buggy code](files/001/spoon.py)
-<tr id="2017-10-19" class=" lab"><th>19 Oct <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-10-19" class=" lab"><th>19 Oct <br/></th><td>[debugging](lab09-debug.html)</td><td></td><td></td></tr>
 
 <tr id="2017-10-20" class=""><th>20 Oct <br/></th><td>flexible indices -- `dict`{.python}</td><td>§[13](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.13)</td><td>
 <tr id="2017-10-23" class=""><th>23 Oct <br/></th><td>reading data -- `open`{.python} and `urllib`{.python}</td><td>§[16.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.16.2), §[27.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.27.3)</td><td>
 <tr id="2017-10-25" class=""><th>25 Oct <br/></th><td>understanding data</td><td>Wikpedia on [delimiter-separated values](https://en.wikipedia.org/wiki/Delimiter-separated_values)</td><td>[vastats.csv](files/vastats.csv)
-<tr id="2017-10-26" class=" lab"><th>26 Oct <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-10-26" class=" lab"><th>26 Oct <br/></th><td>[point-of-interest location](lab10-wendys.html)</td><td></td><td></td></tr>
 
 <tr id="2017-10-27" class=""><th>27 Oct <br/></th><td>more on the data theme</td><td></td><td>
 <tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>review</td><td></td><td>

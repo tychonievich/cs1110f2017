@@ -29,11 +29,17 @@ You should install PyGame on your laptop.
 PyGame is a library designed for opening windows, drawing shapes and images, playing sound, etc.
 How you get it depends on your operating system.
 
+### See if PyCharm will do it for you
+
+Try the following; it does not always work, but when it does work it is the simplest solution.
+
+1.  In PyCharm
+
 ### Windows
 
 1.  Determine what version of Python you are running.
     In PyCharm, [open the Python Console](revised2.2.html) and look for the line that begins `Python 3.`*something* (it's generally two lines from the bottom of the console.
-    For example, you might have `Python 3.6.1`.
+    For example, you might have `Python 3.6.3`.
 
 2.  Download one of the following based on the first two digits of your Python version:
     

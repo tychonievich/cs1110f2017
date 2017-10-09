@@ -101,3 +101,5 @@ Labs are listed in order. See the [schedule](schedule.html) for the specific dat
 -   [strings](lab06-strpuz.html)
 -   [hangman](lab07-hangman.html)
 -   [old cryptography](lab08-crypto.html)
+-   [debugging](lab09-debug.html)
+-   [point-of-interest location](lab10-wendys.html)
