@@ -201,7 +201,7 @@ It would probably go without saying if we didn't say it, but no assistance may b
 - Homework assignments will not be handed out in class. Everything will be available online.
 - You should [cite](#acknowledge-your-sources) any ideas you discuss with other students or outside resources, as well as any code assistance you receive from any source.
 - See the HW page and the automated grading system page for more information.
-- Late policy: Programming assignments can be submitted up to 2 days late, with a 10% penalty for each day late. Assignments are not accepted after 2 days past the deadline.
+- Late policy: Programming assignments can be submitted up to 2 days (48 hours) late, with a 10% penalty for each day late. Assignments are not accepted after 2 days past the deadline.
 
 ## Generality of Solutions
 
