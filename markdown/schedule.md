@@ -113,7 +113,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 </tr><tr>
 <td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/></td>
 <td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>exam 2</td>
-<td class="day Thursday  lab" id="2017-11-02"><span class="date">2 Nov</span><br/></td>
+<td class="day Thursday  lab" id="2017-11-02"><span class="date">2 Nov</span>[gamebox installation](lab11-gamebox.html)<br/></td>
 <td class="day Friday " id="2017-11-03"><span class="date">3 Nov</span>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)<br/>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-11-06"><span class="date">6 Nov</span>game design with `gamebox`{.python}<br/>[gamebox documentation](code/gamebox/gamebox.pdf)<br/></td>
@@ -192,7 +192,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-27" class=""><th>27 Oct <br/></th><td>more on the data theme</td><td></td><td>
 <tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>review</td><td></td><td>
 <tr id="2017-11-01" class="exam"><th>1 Nov </th><td>exam 2</td><td></td><td>
-<tr id="2017-11-02" class=" lab"><th>2 Nov <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-11-02" class=" lab"><th>2 Nov <br/></th><td>[gamebox installation](lab11-gamebox.html)</td><td></td><td></td></tr>
 
 <tr id="2017-11-03" class=""><th>3 Nov <br/></th><td>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)</td><td>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)</td><td>
 <tr id="2017-11-06" class=""><th>6 Nov <br/></th><td>game design with `gamebox`{.python}</td><td>[gamebox documentation](code/gamebox/gamebox.pdf)</td><td>
