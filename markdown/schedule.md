@@ -96,13 +96,13 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday  lab" id="2017-10-05"><span class="date">5 Oct</span>[hangman](lab07-hangman.html)<br/></td>
 <td class="day Friday " id="2017-10-06"><span class="date">6 Oct</span>repeating with `while`{.python}<br/>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)<br/> [10am hangman.py](files/1110/2017-10-06-1000-hangman.py) [10am hangman2.py](files/1110/2017-10-06-1000-hangman2.py) [10am input_validation.py](files/1110/2017-10-06-1000-input_validation.py) [10am making_a_while.py](files/1110/2017-10-06-1000-making_a_while.py) [10am slides.pdf](files/1110/2017-10-06-1000-slides.pdf) [10am while_examples.py](files/1110/2017-10-06-1000-while_examples.py) [2pm about_while.py](files/1110/2017-10-06-1400-about_while.py) [2pm func_test_funcs.py](files/1110/2017-10-06-1400-func_test_funcs.py) [2pm hangman.py](files/1110/2017-10-06-1400-hangman.py) [2pm hangman2.py](files/1110/2017-10-06-1400-hangman2.py) [2pm how_to_write_loops.py](files/1110/2017-10-06-1400-how_to_write_loops.py) [2pm slides.pdf](files/1110/2017-10-06-1400-slides.pdf) [2pm validate_input.py](files/1110/2017-10-06-1400-validate_input.py) [10am video](screencasts/2017-10-06-1000.webm) [10am video](screencasts/2017-10-06-1000.webm) [2pm video](screencasts/2017-10-06-1400.webm)<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>composite datatypes -- strings, ranges, lists, tuples<br/>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)<br/></td>
-<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>iteration -- the `for`{.python} loop<br/>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)<br/><span class="special">Drop deadline</span></td>
-<td class="day Thursday  lab" id="2017-10-12"><span class="date">12 Oct</span><br/></td>
+<td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>composite datatypes -- strings, ranges, lists, tuples<br/>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)<br/><span class="special">Drop deadline</span></td>
+<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>iteration -- the `for`{.python} loop<br/>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)<br/></td>
+<td class="day Thursday  lab" id="2017-10-12"><span class="date">12 Oct</span>[old cryptography](lab08-crypto.html)<br/></td>
 <td class="day Friday " id="2017-10-13"><span class="date">13 Oct</span>methods and mutability -- why `list`{.python} is special<br/>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>applications of lists and strings<br/>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)<br/></td>
-<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>debugging techniques<br/>[buggy code](files/001/spoon.py)<br/><span class="special">Withdraw deadline</span></td>
+<td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>applications of lists and strings<br/>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)<br/><span class="special">Withdraw deadline</span></td>
+<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>debugging techniques<br/>[buggy code](files/001/spoon.py)<br/></td>
 <td class="day Thursday  lab" id="2017-10-19"><span class="date">19 Oct</span><br/></td>
 <td class="day Friday " id="2017-10-20"><span class="date">20 Oct</span>flexible indices -- `dict`{.python}<br/>§[13](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.13)<br/></td>
 </tr><tr>
@@ -175,13 +175,13 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-05" class=" lab"><th>5 Oct <br/></th><td>[hangman](lab07-hangman.html)</td><td></td><td></td></tr>
 
 <tr id="2017-10-06" class=""><th>6 Oct <br/></th><td>repeating with `while`{.python}</td><td>§[7.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.1)</td><td> [10am hangman.py](files/1110/2017-10-06-1000-hangman.py) [10am hangman2.py](files/1110/2017-10-06-1000-hangman2.py) [10am input_validation.py](files/1110/2017-10-06-1000-input_validation.py) [10am making_a_while.py](files/1110/2017-10-06-1000-making_a_while.py) [10am slides.pdf](files/1110/2017-10-06-1000-slides.pdf) [10am while_examples.py](files/1110/2017-10-06-1000-while_examples.py) [2pm about_while.py](files/1110/2017-10-06-1400-about_while.py) [2pm func_test_funcs.py](files/1110/2017-10-06-1400-func_test_funcs.py) [2pm hangman.py](files/1110/2017-10-06-1400-hangman.py) [2pm hangman2.py](files/1110/2017-10-06-1400-hangman2.py) [2pm how_to_write_loops.py](files/1110/2017-10-06-1400-how_to_write_loops.py) [2pm slides.pdf](files/1110/2017-10-06-1400-slides.pdf) [2pm validate_input.py](files/1110/2017-10-06-1400-validate_input.py) [10am video](screencasts/2017-10-06-1000.webm) [10am video](screencasts/2017-10-06-1000.webm) [2pm video](screencasts/2017-10-06-1400.webm)
-<tr id="2017-10-09" class=""><th>9 Oct <br/></th><td>composite datatypes -- strings, ranges, lists, tuples</td><td>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)</td><td>
-<tr id="2017-10-11" class=""><th>11 Oct <br/><span class="special">Drop deadline</span></th><td>iteration -- the `for`{.python} loop</td><td>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)</td><td>
-<tr id="2017-10-12" class=" lab"><th>12 Oct <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-10-09" class=""><th>9 Oct <br/><span class="special">Drop deadline</span></th><td>composite datatypes -- strings, ranges, lists, tuples</td><td>§[10.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.4), §[11](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.11), §[12.1](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.1), §[12.3](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.3)</td><td>
+<tr id="2017-10-11" class=""><th>11 Oct <br/></th><td>iteration -- the `for`{.python} loop</td><td>§[7.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.7.2)</td><td>
+<tr id="2017-10-12" class=" lab"><th>12 Oct <br/></th><td>[old cryptography](lab08-crypto.html)</td><td></td><td></td></tr>
 
 <tr id="2017-10-13" class=""><th>13 Oct <br/></th><td>methods and mutability -- why `list`{.python} is special</td><td>§[12.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.2), §[12.5](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.5),</td><td>
-<tr id="2017-10-16" class=""><th>16 Oct <br/></th><td>applications of lists and strings</td><td>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)</td><td>
-<tr id="2017-10-18" class=""><th>18 Oct <br/><span class="special">Withdraw deadline</span></th><td>debugging techniques</td><td></td><td>[buggy code](files/001/spoon.py)
+<tr id="2017-10-16" class=""><th>16 Oct <br/><span class="special">Withdraw deadline</span></th><td>applications of lists and strings</td><td>§[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)</td><td>
+<tr id="2017-10-18" class=""><th>18 Oct <br/></th><td>debugging techniques</td><td></td><td>[buggy code](files/001/spoon.py)
 <tr id="2017-10-19" class=" lab"><th>19 Oct <br/></th><td></td><td></td><td></td></tr>
 
 <tr id="2017-10-20" class=""><th>20 Oct <br/></th><td>flexible indices -- `dict`{.python}</td><td>§[13](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.13)</td><td>
@@ -239,11 +239,11 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Monday noclass" id="2017-10-02"><span class="date">2 Oct</span><span class="reason">Reading Days</span></td>
 <td class="day Wednesday " id="2017-10-04"><span class="date">4 Oct</span>Testing<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>Repetition<br/></td>
-<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>String operations<br/><span class="special">Drop deadline</span></td>
+<td class="day Monday " id="2017-10-09"><span class="date">9 Oct</span>Repetition<br/><span class="special">Drop deadline</span></td>
+<td class="day Wednesday " id="2017-10-11"><span class="date">11 Oct</span>String operations<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>String methods/Lists<br/></td>
-<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>Lists<br/><span class="special">Withdraw deadline</span></td>
+<td class="day Monday " id="2017-10-16"><span class="date">16 Oct</span>String methods/Lists<br/><span class="special">Withdraw deadline</span></td>
+<td class="day Wednesday " id="2017-10-18"><span class="date">18 Oct</span>Lists<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-10-23"><span class="date">23 Oct</span>Dicts<br/></td>
 <td class="day Wednesday " id="2017-10-25"><span class="date">25 Oct</span>Files<br/></td>
@@ -281,10 +281,10 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-09-27" class="exam"><th>27 Sep </th><td>Exam 1
 <tr id="2017-10-02" class="noclass"><th>2 Oct </th><td><span class="reason">Reading Days</span>
 <tr id="2017-10-04" class=""><th>4 Oct <br/></th><td>Testing
-<tr id="2017-10-09" class=""><th>9 Oct <br/></th><td>Repetition
-<tr id="2017-10-11" class=""><th>11 Oct <br/><span class="special">Drop deadline</span></th><td>String operations
-<tr id="2017-10-16" class=""><th>16 Oct <br/></th><td>String methods/Lists
-<tr id="2017-10-18" class=""><th>18 Oct <br/><span class="special">Withdraw deadline</span></th><td>Lists
+<tr id="2017-10-09" class=""><th>9 Oct <br/><span class="special">Drop deadline</span></th><td>Repetition
+<tr id="2017-10-11" class=""><th>11 Oct <br/></th><td>String operations
+<tr id="2017-10-16" class=""><th>16 Oct <br/><span class="special">Withdraw deadline</span></th><td>String methods/Lists
+<tr id="2017-10-18" class=""><th>18 Oct <br/></th><td>Lists
 <tr id="2017-10-23" class=""><th>23 Oct <br/></th><td>Dicts
 <tr id="2017-10-25" class=""><th>25 Oct <br/></th><td>Files
 <tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>Urllib/review
