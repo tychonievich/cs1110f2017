@@ -33,7 +33,13 @@ How you get it depends on your operating system.
 
 Try the following; it does not always work, but when it does work it is the simplest solution.
 
-1.  In PyCharm
+1.  In PyCharm, click on File (Windows) or Pycharm (OS X) in the title bar;
+    in the menu pick "Settings" about halfway down to get a pop-up window titled "Settings"
+2.  On the left, half-way down should be an item __Project: *name*__: click it
+3.  On the right, click "Project Interpreter"
+4.  Click the little "+" on the right edge of the Settings window, just below the gear
+5.  In the search menu at the top of the new pop-up window titled "Available Packages" type "Pygame"
+6.  Click the "Install Package" button
 
 ### Windows
 
