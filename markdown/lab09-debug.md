@@ -2,19 +2,14 @@
 title: "Lab 9: Debugging"
 ...
 
-# Attendance
+# Mechanics
 
-We will be taking roll in lab each week! Please come to your assigned lab to be counted present!
+There will be 
 
-Each lab TAs are empowered to select their own method of taking roll.
-Please follow your lab TA's instructions.  
-They may dock points if you  are excessively late or leave unusually early.
-
-# Pairing or More
-
-For this and all subsequent labs, you will work in pairs.
-
-For this lab, you are also welcome to work alone or in groups of up to four people.
+1.  A logic-group activity
+2.  Pairing to work on the lab tasks.
+    For this lab, you'll likely want to join with a second pair; four minds are better than two for some tasks!
+3.  TAs pulling aside students to explain their code.
 
 # Setup
 
