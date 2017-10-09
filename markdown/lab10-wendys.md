@@ -2,21 +2,15 @@
 title: "Lab 10: Finding Wendy's"
 ...
 
-# Attendance
 
-We will be taking roll in lab each week! Please come to your assigned lab to be counted present!
+# Mechanics
 
-Each lab TAs are empowered to select their own method of taking roll.
-Please follow your lab TA's instructions.  
-They may dock points if you  are excessively late or leave unusually early.
+There will be 
 
-# Pairing
-
-For this and all subsequent labs, you will work in pairs.
-
-# Recitation
-
-The TAs will do a quick review of CSV and `urllib` before the in-lab activity.
+1.  A logic-group activity
+1.  A brief review of CSV and `urllib`
+2.  Pairing to work on the lab tasks.
+3.  TAs pulling aside students to explain their code.
 
 # Activities
 

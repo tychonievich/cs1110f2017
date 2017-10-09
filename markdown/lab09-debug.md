@@ -40,7 +40,7 @@ As a reminder, debugging typically works as follows:
         
         1.  print before anything goes wrong and after you know something is wrong
         2.  print something about halfway between the other two prints
-        3.  if the new print suggests things are working, you only need look after it; or if broken, you only need to look before it; either way, you've cut the region where the problem may have occurred in half)  
+        3.  if the new print suggests things are working, you only need look after it; or if broken, you only need to look before it; either way, you've cut the region where the problem may have occurred in half
         4.  repeat steps 2 and 3, narrowing the region where the problem must have occurred in half again and again until you locate the problem
     
 3.  Once you find the source of the problem, fix it.
@@ -76,6 +76,8 @@ The code uses some parts of Python we have not taught you,
 such as the `sort(key=bycount)`{.python} call on line 76 and the `word.strip(',;:-"[](){}<>/“”‘’_*')`{.python} on line 35.
 We did not put bugs in these lines.
 We also do not lie in comments or docstrings.
+
+We do use a new datatype (the `dict`) but its use is explained in the opening docstring of the file, and none of its nuance needs to be understood for this lab.
 
 ## Test Cases
 
