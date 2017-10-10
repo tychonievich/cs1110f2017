@@ -17,8 +17,8 @@ There will be
 ## Overview
 
 The goal of this lab is to practice debugging techniques.
-It is also a chance to have you work with a larger code-base than the frequency of our assignments has let us have you create yourself thus far.
-And it contains a use for the `dict`{.python} data-type we introduced this week.
+To that end we have a program which we have intentionally seeded with various kinds of common bugs.
+You'll sleuth them out and fix them.
 
 ## Debugging tips
 
@@ -47,12 +47,13 @@ As a reminder, debugging typically works as follows:
 
 ## The code to debug
 
-The program you are to debug is designed to
+In this lab we provide a broken implementation of one variant of Nim, a game defined as
 
-1.  Read a few public-domain books
-2.  Identify which words appears "with" other words
-3.  Ask the user for words of interest
-4.  Tell the user which word frequently appears with their word of interest.
+> Assume you have a large pile of marbles. Two players alternate taking marbles from the pile. In each move, a player is allowed to take between 1 and half of the total marbles. So, for instance, if there are 64 marbles in the pile, any number between and including 1 and 32 is a legal move. Whichever player takes the last marble loses.
+
+The optimal strategy is to always take enough marbles so that the remaining pile is one less than a power of two.
+That optimal strategy is what the code you are given is trying to do.
+
 
 There are several nuances to how this is accomplished.
 
