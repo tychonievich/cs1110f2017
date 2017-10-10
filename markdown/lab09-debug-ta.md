@@ -17,58 +17,50 @@ Remind them that they should *either* fix all bugs *or* work until the end of la
 The bugs I introduced are as follows,
 listed in order of where they appear in the code.
 
-## `replace` doesn't modify, it returns
+## infinite loop
 
-The `etext =`{.python} is missing in the following lines of `phrases(etext)`{.python}.
-This results in some words appearing with sentence-trailing punctuation.
+The `pow2` loop does not make progress.
 
 incorrect                            fix
 ------------------------------------ ------------------------------------
-`etext.replace('\n', '.')`{.python}  `etext = etext.replace('\n', '.')`{.python}
-`etext.replace('!', '.')`{.python}   `etext = etext.replace('!', '.')`{.python}
-`etext.replace('?', '.')`{.python}   `etext = etext.replace('?', '.')`{.python}
+`ans * 2`{.python}                   `ans *= 2`{.python} or `ans = ans * 2`{.python}
 
 
-## Don't skip `"I"`
+## Missing cast
 
-The `len(word) == 1`{.python} is missing in the following line of `words(phrase)`{.python}.
-This results in `i`{.python} not being found.
+The input for the number of marbles leaves the value as a string.
 
-incorrect                            fix
------------------------------------- -----------------------------------------------------
-`if word != word.upper():`{.python}  `if len(word) == 1 or word != word.upper():`{.python}
-
-
-## Don't re-set dicts
-
-Global dictionary initialization is inside `populate_list(etext)`{.python}.
-This results in the contents of `snark.txt` not being in the dicts because it was over-written by `alice.txt`
-
-incorrect                    fix
----------------------------- ---------------------------------------
-`master_list = {}`{.python}  *move outside the function*
-`frequencies = {}`{.python}  *move outside the function*
+incorrect                                                           fix
+-----------------------------------------------------------------   -----------------------------------------------------
+`marbles = input("The number of marbles in the pile: ")`{.python}   `marbles = int(input("The number of marbles in the pile: "))`{.python}
 
 
-## Check for missing words
+## Incomplete input verification
 
-An `if`{.python} statement has been removed from the beginning of `most_commonly_with(target)`{.python}.
-This results in an error message when typing a word that is not in the corpus.
+The check on the player plays don't prevent negative numbers
 
+incorrect                           fix
+----------------------------------  --------------------------------------------
+`while take > can_take`{.python}    `while take > can_take or take < 0`{.python}
+
+
+## Player can't lose
+
+If the player has to take the last marble, the computer will instead refuse to accept any play
+because `can_take` will be 0.
 
 incorrect   fix
 ----------- ----------------------------------------
-*missing*   `if target not in master_list:`{.python}
-*missing*   `    return None`{.python}
+*missing*   `if can_take == 0:`{.python}
+*missing*   `    can_take = 1`{.python}
 
 
-## Add parentheses
+## Computer can cheat
 
-parentheses are missing from the following line of `most_commonly_with`{.python}'s `bycount`{.python} function.
-This results in the wrong frequencies being found.
+The computer is allowed to take more marbles than it's supposed to.
 
-incorrect                                                         fix
-----------------------------------------------------------------  -----------------------------------------------------
-`return counts[e]/frequencies[e] + frequencies[target]`{.python}  `return counts[e]/(frequencies[e] + frequencies[target])`{.python}
+incorrect               fix
+----------------------- --------------------------------------------
+`if take < 1:`{.python} `if take < 1 or take > marbles//2:`{.python}
 
 
