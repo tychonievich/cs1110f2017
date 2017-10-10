@@ -37,11 +37,11 @@ incorrect                                                           fix
 
 ## Incomplete input verification
 
-The check on the player plays don't prevent negative numbers
+The check on the player plays don't prevent non-positive numbers, and since the initial number is 0 this means the player never plays.
 
 incorrect                           fix
-----------------------------------  --------------------------------------------
-`while take > can_take`{.python}    `while take > can_take or take < 0`{.python}
+----------------------------------  ---------------------------------------------
+`while take > can_take`{.python}    `while take > can_take or take <= 0`{.python}
 
 
 ## Player can't lose
