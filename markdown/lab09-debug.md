@@ -47,7 +47,8 @@ As a reminder, debugging typically works as follows:
 
 ## The code to debug
 
-Start with <span style="font-size:200%">[debug_task.py](debug_task.py)</span>.
+Start with <span style="font-size:150%">[debug_task.py](debug_task.py)</span>.
+Your job is to fix it, not re-write it; the best solutions will change, insert, or delete fewer than a dozen lines of code.
 
 In this lab we provide a broken implementation of one variant of Nim, a game defined as
 
