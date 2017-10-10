@@ -55,6 +55,15 @@ incorrect   fix
 *missing*   `    can_take = 1`{.python}
 
 
+## Off-by-one error
+
+The computer's logic trys to get a power-of-two marbles.  It is supposed to try for one less than that.
+
+incorrect                           fix
+----------------------------------- -------------------------------------
+`target = pow2(marbles)`{.python}   `target = pow2(marbles) - 1`{.python}
+
+
 ## Computer can cheat
 
 The computer is allowed to take more marbles than it's supposed to.
