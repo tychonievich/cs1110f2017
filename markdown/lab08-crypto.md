@@ -158,8 +158,8 @@ Vigenère is a lot harder (people were claiming it was unbreakable as late as th
 Current encryption relies on several things we haven't discussed here:
 
 -   Encrypting large blocks of text at once, instead of letter-by-letter.
--   Using methods of encryption based on abstract algebra and number theory which computer scientists are reasonably confident cannot be easily revered.
--   Implementations that ensure every encryption of a block takes exactly the same time, so that you can't infer things about the message from the timing.
+-   Using methods of encryption based on abstract algebra and number theory which computer scientists are reasonably confident cannot be easily reversed.
+-   Implementations that ensure each encryption of a block takes *exactly* the same amount of time, so that you can't infer things about the message from the timing.
 -   The use of techniques beyond encryption, such as hashing (a topic you'll learn in our third programming course, CS 2150), to establish other kinds of trust.
 
 However, one lesson learned from the Union's breaking of the Confederacy's use of Vignère ciphers in the US Civil War still holds today:
