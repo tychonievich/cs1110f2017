@@ -137,6 +137,18 @@ Generally, the key is quite a bit shorter than the text being encrypted.
 Thus, when we reach the end of the key we start over with the first letter again.
 Wrapping indices in this way is easily accomplished using the `%` operator: `key[i % len(key)]`{.python}.
 
+
+For example, `vignere("secret", "hi")`{.python} is going to be
+
+-   s + h = s + 7 = z
+-   e + i = e + 8 = m
+-   c + h = c + 7 = j
+-   r + i = r + 8 = z
+-   e + h = e + 7 = l
+-   t + i = t + 8 = b
+
+... which is `"zmjzlb"`{.python}
+
 The decryption function `unvignere(text, key)` is almost exactly like the encryption function `vignere(text, key)` except that it subtracts the key from text instead of adding it to the text.  Unlike `unshift`, it cannot be a two-liner because `-key` does not work for string `key`s.
 
 # Application
