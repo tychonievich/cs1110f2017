@@ -39,7 +39,8 @@ Try the following; it does not always work, but when it does work it is the simp
 3.  On the right, click "Project Interpreter"
 4.  Click the little "+" on the right edge of the Settings window, just below the gear
 5.  In the search menu at the top of the new pop-up window titled "Available Packages" type "Pygame"
-6.  Click the "Install Package" button
+6.  Assuming Pygame is found by the search, click the "Install Package" button
+7.  If this finishes without an error, you have installed pygame.  Otherwise, see the OS-specific options below.
 
 ### Windows
 
