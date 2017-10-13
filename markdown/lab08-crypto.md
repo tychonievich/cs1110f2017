@@ -141,7 +141,6 @@ Wrapping indices in this way is easily accomplished using the `%` operator: `key
 For example, `vignere("secret", "hi")`{.python} is going to be
 
 -----------------
-- - - - - - - - -
 s + h = s + 7 = z
 e + i = e + 8 = m
 c + h = c + 7 = j
