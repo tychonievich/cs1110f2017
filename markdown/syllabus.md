@@ -8,16 +8,6 @@ Course website: [http://cs1110.cs.virginia.edu](http://cs1110.cs.virginia.edu)
 
 Lectures and Labs: see [main page](http://cs1110.cs.virginia.edu)
 
-## Office Hours
-
-All office hour times are posted on the course calendar at the bottom of the Schedule page on the course website.
-TA office hours are held in the Thornton Stacks lab
-(the large room in the middle of the top floor of the A-wing of Thornton Hall).
-Professor office hours are held in their respective offices.
-
-If you are attending TA office hours, please sign in on the Office Hour queue web site at [https://stardock.cs.virginia.edu/cs1110/oh](https://stardock.cs.virginia.edu/cs1110/oh) to request help. 
-Faculty member office hours do not use the Office Hour queue.
-
 # Contact
 
 Running a course as large as Introduction to Programming requires some coordination.
