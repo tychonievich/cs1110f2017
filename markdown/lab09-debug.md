@@ -55,6 +55,48 @@ The optimal strategy is to always take enough marbles so that the remaining pile
 That optimal strategy is what the code you are given is trying to do.
 On any turn in which it cannot play that strategy (because doing so requires taking an illegal number of marbles), it will take one marble instead.
 
+For example, the computer is supposed to play as follows:
+
+1.      The Game of Nim
+
+        The number of marbles in the pile: 7
+        Who will start? (p or c): c
+    
+    The computer sees a pile with 7 marbles.
+    It wants to take enough marbles so that the remainder is one less than a power of 2.
+    7 is already one less than a power of 2 ($2^{3}-1 = 7$), but you can't take 0 marbles.
+    The next smaller target size is 3 ($2^{2}-1 = 3$); to get there requires taking 4 marbles, which is more than half of the pile and thus not allowed.
+    Since no one-less-than-power-of-two can be reached, the computer takes 1 marble.
+
+        The computer takes 1 marbles.
+        The pile has 6 marbles in it.
+
+    Let's assume the player also takes 1 marble.
+
+        How many marbles to you want to take (1-3): 1
+2.      The pile has 5 marbles in it.
+    
+    The computer sees a pile with 5 marbles.
+    It wants to take enough marbles so that the remainder is one less than a power of 2.
+    The next smaller power of 2 is 4 ($2^{2}$) so it wants the pile to be 3 after it takes marbles.
+    That means taking 2 marbles ($5-2=3$), which is a legal move.
+
+        The computer takes 2 marbles.
+        The pile has 3 marbles in it.
+        How many marbles to you want to take (1-1): 1
+3.      The pile has 2 marbles in it.
+
+    The computer sees a pile with 2 marbles.
+    It wants to take enough marbles so that the remainder is one less than a power of 2.
+    The next smaller power of 2 is 1 ($2^{0}$) so it wants the pile to be 1 after it takes marbles.
+    That means taking 1 marbles ($2-1=1$), which is a legal move.
+
+        The computer takes 1 marbles.
+        The pile has 1 marbles in it.
+        How many marbles to you want to take (1-1): 1
+        The computer wins!
+    
+Unfortunately, that's not what it does right now.
 Your job is to fix [the broken code](files/debug_task.py), not re-write it; the best solutions will change, insert, or delete fewer than a dozen lines of code.
 
 When you are finished debugging, you should be able to play the following game:
