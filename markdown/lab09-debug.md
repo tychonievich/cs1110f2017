@@ -47,6 +47,8 @@ As a reminder, debugging typically works as follows:
 
 ## The code to debug
 
+### Nim
+
 In this lab we provide [a broken implementation](files/debug_task.py) of one variant of Nim, a game defined as
 
 > Assume you have a large pile of marbles. Two players alternate taking marbles from the pile. In each move, a player is allowed to take between 1 and half of the total marbles. So, for instance, if there are 64 marbles in the pile, any number between and including 1 and 32 is a legal move. Whichever player takes the last marble loses.
@@ -54,6 +56,8 @@ In this lab we provide [a broken implementation](files/debug_task.py) of one var
 The optimal strategy is to always take enough marbles so that the remaining pile is one less than a power of two.
 That optimal strategy is what the code you are given is trying to do.
 On any turn in which it cannot play that strategy (because doing so requires taking an illegal number of marbles), it will take one marble instead.
+
+### Example of the strategy
 
 For example, the computer is supposed to play as follows:
 
@@ -95,9 +99,11 @@ For example, the computer is supposed to play as follows:
         The pile has 1 marbles in it.
         How many marbles to you want to take (1-1): 1
         The computer wins!
-    
-Unfortunately, that's not what it does right now.
-Your job is to fix [the broken code](files/debug_task.py), not re-write it; the best solutions will change, insert, or delete fewer than a dozen lines of code.
+
+### Your Goal
+
+Unfortunately, the [code we give you](files/debug_task.py) does not currently work properly.
+Your job is to fix it (not re-write it); the best solutions will change, insert, or delete fewer than a dozen lines of code.
 
 When you are finished debugging, you should be able to play the following game:
 
