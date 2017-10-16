@@ -73,7 +73,8 @@ some examples are given in the section [Possoible Helper Functions] below.
 One of the first documented ciphers was the Caesar Cipher, which adds 3 to each letter ("a" becomes "d", "b" becomes "e", etc.)
 We'll generalize that to add an arbitrary integer *key*, not just 3.
 
-The encryption function, `shift(text, key)`, should add `key` to every letter in `text`, using `letter_to_index` and `index_to_letter` to do so.
+The encryption function, `shift(text, key)`, should add `key` to every letter in `text`, where a = 0, b = 1, etc.
+Wrap around if you reach the end: z + 1 = a.
 Don't change non-letters.
 Perserve case (the string methods `isupper()` and `islower()` can help; if the pre-shift letter `isupper` then then post-shift letter should be `upper` as well).
 
@@ -84,18 +85,40 @@ def unshift(text, key):
     return shift(text, -key)
 ````
 
-Example: `shift("Caesar cipher", 3)`{.python} returns `"Fdhvdu flskhu"`{.python}
+Example: `shift("Caesar cipher", 3)`{.python} returns `"Fdhvdu flskhu"`{.python}; `shift("Secret", 9)`{.python} returns `"Bnlanc"`{.python}
+
+
+---------
+         
+- - - - -
+S + 9 = B
+e + 9 = n
+c + 9 = l
+r + 9 = a
+e + 9 = n
+t + 9 = c
+---------
 
 
 ## Vigenère
 
 Giovan Battista Bellaso modified the shift cipher by shifting different letters different amounts,
 a method later misattributed to Blaise de Vigenère.
-This cipher much like the shift cipher, but the key is a string instead of a single number
-and the shift for each letter is the `letter_to_index` of the corresponding letter in the key.
+This cipher much like the shift cipher, but instead of adding a single number to all letters,
+a different number is added to each.
+Those numbers to add are selected by a the letters of a key word;
+if the key is `almost` then 
 
-Generally, the key is quite a bit shorter than the text being encrypted.
-Thus, when we reach the end of the key we start over with the first letter again.
+-   the first letter is shifted 0 (a = 0)
+-   the second letter is shifted 11 (l = 11)
+-   the third letter is shifted 12 (m = 12)
+-   the fourth letter is shifted 14 (o = 14)
+-   the fifth letter is shifted 18 (s = 18)
+-   the sixth letter is shifted 19 (t = 19)
+-   the seventh letter is shifted 0 (wrap around and use a = 0 again)
+-   the eighth letter is shifted 11 (wrap around and use l = 11 again)
+-   ...
+
 Wrapping indices in this way is easily accomplished using the `%` operator: `key[i % len(key)]`{.python}.
 
 
@@ -117,9 +140,15 @@ The decryption function `unvignere(text, key)` is almost exactly like the encryp
 
 ## (de)Interleave
 
-The encryption function, `interleave`, should split the string in half and return a string alternating letters from the first and second half. For example, `interleave('ABCDEFG')`{.python} should return `'AEBFCGD'`{.python}
+The encryption function, `interleave`, should split the string in half and return a string alternating letters from the first and second half. For example, `interleave('so much fun')`{.python} should
 
-The decryption function, `deinterleave`, should return a string made up of every other letter starting with the first letter, then every other letter starting with the second letter. For example, `deinterleave('AeBfCgD')`{.python} should return `'ABCDefg'`{.python}
+-   split the text into halves: `'so muc'`{.python} and `'h fun'`. If they can't be the same length, make the first one longer than the second.
+-   alternate letters from one, then the other, starting with the first: `'sho  fmuunc'`{.python}
+
+The decryption function, `deinterleave`, should return a string made up of every other letter starting with the first letter, then every other letter starting with the second letter. For example, `deinterleave('mcorreet isvee')`{.python} should extract the first and alternating letters (**m**c**o**r**r**e**e**t** **i**s**v**e**e = `more se`)
+and then the second and alternating letters (m**c**o**r**r**e**e**t** **i**s**v**e**e** = `cretive`)
+to return `'more secretive'`{.python}
+
 
 
 # Application
