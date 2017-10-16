@@ -146,7 +146,7 @@ The encryption function, `interleave`, should split the string in half and retur
 -   alternate letters from one, then the other, starting with the first: `'sho  fmuunc'`{.python}
 
 The decryption function, `deinterleave`, should return a string made up of every other letter starting with the first letter, then every other letter starting with the second letter. For example, `deinterleave('mcorreet isvee')`{.python} should extract the first and alternating letters (**m**c**o**r**r**e**e**t** **i**s**v**e**e = `more se`)
-and then the second and alternating letters (m**c**o**r**r**e**e**t** **i**s**v**e**e** = `cretive`)
+and then the second and alternating letters (<span class="header-section-number">m</span>**c**o**r**r**e**e**t** **i**s**v**e**e** = `cretive`)
 to return `'more secretive'`{.python}
 
 
