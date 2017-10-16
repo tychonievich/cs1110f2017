@@ -140,7 +140,7 @@ The decryption function `unvignere(text, key)` is almost exactly like the encryp
 
 ## (de)Interleave
 
-<style>del{text-decoration:none; opacity:0.5;}</style>
+<style>del{text-decoration:none; opacity:0.25;}</style>
 
 The encryption function, `interleave`, should split the string in half and return a string alternating letters from the first and second half. For example, `interleave('so much fun')`{.python} should
 
