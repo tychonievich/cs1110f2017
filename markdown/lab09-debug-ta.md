@@ -2,6 +2,12 @@
 title: "Lab 9: Debugging - TA Guide"
 ...
 
+# Logic Groups and Spot checks
+
+The logic problem for today is [a fill-in-the-missing-info problem](https://docs.google.com/presentation/d/1acfT5e0uJEixfd6ycnsLNRbzlFL1vrEhqalx1VpGlE4/edit?usp=sharing).
+
+Spot checks are on this week (again)
+
 # Running the Lab
 
 Encourage them to work in teams.  More than 2 is OK for this lab.
