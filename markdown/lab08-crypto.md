@@ -64,48 +64,9 @@ You'll write a series of function pairs.
 Each will accept a string (either the plain text to encrypt, or the cipher text to decrypt) and possibly a key,
 and each will return a string.
 
-You'll almost certainly want to write a few helper functions:
+You'll almost certainly want to write a few helper functions;
+some examples are given in the section [Possoible Helper Functions] below.
 
-````python
-def index_to_letter(index):
-    """Converts an integer into its corresponding letter, wrapping as needed
-    
-    ...
-    index_to_letter(-2) gives 'y'
-    index_to_letter(-1) gives 'z'
-    index_to_letter(0) gives 'a'
-    index_to_letter(1) gives 'b'
-    ...
-    index_to_letter(25) gives 'z'
-    index_to_letter(26) gives 'a'
-    ...
-    
-    :returns: a one-character string
-    """
-    implement me!
-
-def letter_to_index(letter):
-    """Converts a letter into its corresponding index, between 0 and 25
-    
-    index_to_letter('a') gives 0
-    index_to_letter('b') gives 1
-    ...
-    index_to_letter('z') gives 25
-    
-    :returns: an integer between 0 and 25, inclusive
-    """
-    implement me!
-
-def is_letter(letter):
-    """tells if the given string is a letter (as opposed to a space, period, etc)"""
-    implement me!
-````
-
-## (de)Interleave
-
-The encryption function, `interleave`, should split the string in half and return a string alternating letters from the first and second half. For example, `interleave('ABCDEFG')`{.python} should return `'AEBFCGD'`{.python}
-
-The decryption function, `deinterleave`, should return a string made up of every other letter starting with the first letter, then every other letter starting with the second letter. For example, `deinterleave('AeBfCgD')`{.python} should return `'ABCDefg'`{.python}
 
 ## Shift
 
@@ -153,6 +114,14 @@ t + i = t + 8 = b
 
 The decryption function `unvignere(text, key)` is almost exactly like the encryption function `vignere(text, key)` except that it subtracts the key from text instead of adding it to the text.  Unlike `unshift`, it cannot be a two-liner because `-key` does not work for string `key`s.
 
+
+## (de)Interleave
+
+The encryption function, `interleave`, should split the string in half and return a string alternating letters from the first and second half. For example, `interleave('ABCDEFG')`{.python} should return `'AEBFCGD'`{.python}
+
+The decryption function, `deinterleave`, should return a string made up of every other letter starting with the first letter, then every other letter starting with the second letter. For example, `deinterleave('AeBfCgD')`{.python} should return `'ABCDefg'`{.python}
+
+
 # Application
 
 Once you have a working encryption method or two, try communicating with someone else in class using an encrypted message.
@@ -179,6 +148,45 @@ Current encryption relies on several things we haven't discussed here:
 However, one lesson learned from the Union's breaking of the Confederacy's use of Vignère ciphers in the US Civil War still holds today:
 the Union didn't know how to break the cipher quickly in general, but once it discovered that the Confederacy used three keys for almost all of its communications ("ManchesterBluff", "CompleteVictory", and "ComeRetribution") they were able to break the codes with ease.
 This remains true today: if you re-use passwords, or use passwords others might guess, good encryption doesn't help.
+
+# Possible Helper Functions
+
+You might find that implementing the following will make some of your tasks easier.
+
+````python
+def index_to_letter(index):
+    """Converts an integer into its corresponding letter, wrapping as needed
+    
+    ...
+    index_to_letter(-2) gives 'y'
+    index_to_letter(-1) gives 'z'
+    index_to_letter(0) gives 'a'
+    index_to_letter(1) gives 'b'
+    ...
+    index_to_letter(25) gives 'z'
+    index_to_letter(26) gives 'a'
+    ...
+    
+    :returns: a one-character string
+    """
+    implement me!
+
+def letter_to_index(letter):
+    """Converts a letter into its corresponding index, between 0 and 25
+    
+    index_to_letter('a') gives 0
+    index_to_letter('b') gives 1
+    ...
+    index_to_letter('z') gives 25
+    
+    :returns: an integer between 0 and 25, inclusive
+    """
+    implement me!
+
+def is_letter(letter):
+    """tells if the given string is a letter (as opposed to a space, period, etc)"""
+    implement me!
+````
 
 
 ## Submission
