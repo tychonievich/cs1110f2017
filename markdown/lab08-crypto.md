@@ -144,7 +144,7 @@ The decryption function `unvignere(text, key)` is almost exactly like the encryp
 
 The encryption function, `interleave`, should split the string in half and return a string alternating letters from the first and second half. For example, `interleave('so much fun')`{.python} should
 
--   split the text into halves: `'so muc'`{.python} and `'h fun'`. If they can't be the same length, make the first one longer than the second.
+-   split the text into halves: `'so muc'` and `'h fun'`. If they can't be the same length, make the first one longer than the second.
 -   alternate letters from one, then the other, starting with the first: `'sho  fmuunc'`{.python}
 
 The decryption function, `deinterleave`, should return a string made up of every other letter starting with the first letter, then every other letter starting with the second letter. For example, `deinterleave('mcorreet isvee')`{.python} should extract the first and alternating letters (m<del>c</del>o<del>r</del>r<del>e</del>e<del>t</del> <del>i</del>s<del>v</del>e<del>e</del> = `more se`)
