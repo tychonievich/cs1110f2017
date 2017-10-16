@@ -82,7 +82,7 @@ For example, the computer is supposed to play as follows:
     
     The computer sees a pile with 5 marbles.
     It wants to take enough marbles so that the remainder is one less than a power of 2.
-    The next smaller power of 2 is 4 ($2^{2}$) so it wants the pile to be 3 after it takes marbles.
+    The next smaller power of 2 is 4 ($2^{2}$) so it wants the pile to be 3 ($2^{2}-1 = 3$) after it takes marbles.
     That means taking 2 marbles ($5-2=3$), which is a legal move.
 
         The computer takes 2 marbles.
