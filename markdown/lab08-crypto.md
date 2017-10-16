@@ -151,6 +151,7 @@ The decryption function, `deinterleave`, should return a string made up of every
 and then the second and alternating letters (<del>m</del>c<del>o</del>r<del>r</del>e<del>e</del>t<del> </del>i<del>s</del>v<del>e</del>e = `cretive`)
 to return `'more secretive'`{.python}
 
+`deinterleave` can be a one-liner with the [extended slice syntax](lab07-hangman.html#display-the-word), but you'll probably need to write a loop for `interleave`.
 
 
 # Application
