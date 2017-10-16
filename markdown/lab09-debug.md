@@ -92,7 +92,7 @@ For example, the computer is supposed to play as follows:
 
     The computer sees a pile with 2 marbles.
     It wants to take enough marbles so that the remainder is one less than a power of 2.
-    The next smaller power of 2 is 1 ($2^{0}$) so it wants the pile to be 1 after it takes marbles.
+    That is a power of two already ($2^{1}$) so it wants the pile to be 1 ($2^1-1=1$) after it takes marbles.
     That means taking 1 marbles ($2-1=1$), which is a legal move.
 
         The computer takes 1 marbles.
