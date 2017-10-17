@@ -73,3 +73,7 @@ assignments:
   -
     due: 2017-10-30
     links: [pa17-louslist]
+  -
+    due: 2017-11-06
+    links: [pa18-spellcheck]
+

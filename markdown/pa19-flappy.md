@@ -1,5 +1,5 @@
 ---
-title: flappybird.py
+title: "PA 19: flappybird.py"
 ...
 
 # Task
@@ -37,6 +37,9 @@ look like an endless stream of pillars when playing the game
 
 The infinite jumper example games (all three sections had one) might be a good starting point.
 
-You don't need to implement anything we don't ask for (e.g., animation, images, sound, background images, etc), though you may as long as you still implement what we ask for.
+You don't need to implement anything we don't ask for (e.g., animation, images, sound, background images, etc), though you may as long as you still implement what we do ask for.
 
 Many questions of the form "how do I do *X*" are answered in [The PyGame Docs](http://cs1110.cs.virginia.edu/code/gamebox/gamebox.pdf)
+
+If you do a web search for "Python flappybird" you'll find a lot of code that will get 0 points if submitted.
+Use gamebox, in a way similar to our examples from lecture and lab.
