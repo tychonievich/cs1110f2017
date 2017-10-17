@@ -1,5 +1,5 @@
 ---
-title: spellcheck.py
+title: "PA 18: spellcheck.py"
 ...
 
 # Task

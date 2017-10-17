@@ -76,6 +76,12 @@ Wed 18 Oct
 Mon 23 Oct 
 :    [PA 15: credit_card.py](pa15-credit.html) 
 
+Wed 25 Oct 
+:    [PA 16: matchmaker.py](pa16-matchmaker.html) 
+
+Mon 30 Oct 
+:    [PA 17: lous_list.py](pa17-louslist.html) 
+
 
 <script>
 var dts = document.getElementsByTagName('dt');
