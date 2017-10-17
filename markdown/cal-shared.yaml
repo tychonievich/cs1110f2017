@@ -67,3 +67,9 @@ assignments:
   -
     due: 2017-10-23
     links: [pa15-credit]
+  -
+    due: 2017-10-25
+    links: [pa16-matchmaker]
+  -
+    due: 2017-10-30
+    links: [pa17-louslist]
