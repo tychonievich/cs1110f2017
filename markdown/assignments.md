@@ -82,6 +82,9 @@ Wed 25 Oct
 Mon 30 Oct 
 :    [PA 17: lous_list.py](pa17-louslist.html) 
 
+Mon 06 Nov 
+:    [PA 18: spellcheck.py](pa18-spellcheck.html) 
+
 
 <script>
 var dts = document.getElementsByTagName('dt');

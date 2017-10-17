@@ -76,4 +76,6 @@ assignments:
   -
     due: 2017-11-06
     links: [pa18-spellcheck]
-
+  -
+    due: 2017-11-15
+    links: [pa19-flappy]
