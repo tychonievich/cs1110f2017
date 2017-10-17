@@ -118,12 +118,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 </tr><tr>
 <td class="day Monday " id="2017-11-06"><span class="date">6 Nov</span>game design with `gamebox`{.python}<br/>[gamebox documentation](code/gamebox/gamebox.pdf)<br/></td>
 <td class="day Wednesday " id="2017-11-08"><span class="date">8 Nov</span>game design with `gamebox`{.python}<br/></td>
-<td class="day Thursday  lab" id="2017-11-09"><span class="date">9 Nov</span><br/></td>
+<td class="day Thursday  lab" id="2017-11-09"><span class="date">9 Nov</span>[pong](lab12-pong.html)<br/></td>
 <td class="day Friday " id="2017-11-10"><span class="date">10 Nov</span>game design with `gamebox`{.python}<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-11-13"><span class="date">13 Nov</span>regular expressions<br/>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//https://pythex.org/)<br/></td>
 <td class="day Wednesday " id="2017-11-15"><span class="date">15 Nov</span>re repetition and groups<br/>§[25.2.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.3), §[25.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.4)<br/></td>
-<td class="day Thursday  lab" id="2017-11-16"><span class="date">16 Nov</span><br/></td>
+<td class="day Thursday  lab" id="2017-11-16"><span class="date">16 Nov</span>[email hunt](lab13-email.html)<br/></td>
 <td class="day Friday " id="2017-11-17"><span class="date">17 Nov</span>re building<br/>our [building guide and example](re-tips.html)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-11-20"><span class="date">20 Nov</span>re replacing<br/>§[25.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.25.4)<br/></td>
@@ -197,12 +197,12 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-03" class=""><th>3 Nov <br/></th><td>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)</td><td>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)</td><td>
 <tr id="2017-11-06" class=""><th>6 Nov <br/></th><td>game design with `gamebox`{.python}</td><td>[gamebox documentation](code/gamebox/gamebox.pdf)</td><td>
 <tr id="2017-11-08" class=""><th>8 Nov <br/></th><td>game design with `gamebox`{.python}</td><td></td><td>
-<tr id="2017-11-09" class=" lab"><th>9 Nov <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-11-09" class=" lab"><th>9 Nov <br/></th><td>[pong](lab12-pong.html)</td><td></td><td></td></tr>
 
 <tr id="2017-11-10" class=""><th>10 Nov <br/></th><td>game design with `gamebox`{.python}</td><td></td><td>
 <tr id="2017-11-13" class=""><th>13 Nov <br/></th><td>regular expressions</td><td>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//https://pythex.org/)</td><td>
 <tr id="2017-11-15" class=""><th>15 Nov <br/></th><td>re repetition and groups</td><td>§[25.2.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.3), §[25.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.4)</td><td>
-<tr id="2017-11-16" class=" lab"><th>16 Nov <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-11-16" class=" lab"><th>16 Nov <br/></th><td>[email hunt](lab13-email.html)</td><td></td><td></td></tr>
 
 <tr id="2017-11-17" class=""><th>17 Nov <br/></th><td>re building</td><td>our [building guide and example](re-tips.html)</td><td>
 <tr id="2017-11-20" class=""><th>20 Nov <br/></th><td>re replacing</td><td>§[25.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.25.4)</td><td>

@@ -7,11 +7,6 @@ title: Semester review
 Let the students rate you.
 I'll share their comments about you with you (and only you).
 
-# Sandel's visit
-
-Murel Sandel is expected to visit each lab to introduce a study she is doing.
-Let her say her piece, then move on with whatever was going on before she arrived.
-
 # Quiz Game
 
 1.  Go to the scorer page for your lab section:
