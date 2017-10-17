@@ -85,6 +85,9 @@ Mon 30 Oct
 Mon 06 Nov 
 :    [PA 18: spellcheck.py](pa18-spellcheck.html) 
 
+Wed 15 Nov 
+:    [PA 19: flappybird.py](pa19-flappy.html) 
+
 
 <script>
 var dts = document.getElementsByTagName('dt');
