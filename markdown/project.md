@@ -15,7 +15,8 @@ Unlike other assignments,
 # Partnering
 
 The process for partnering has not yet been determined.
-It will likely be assigned by TAs.
+For logistical reasons, partners will probably be assigned by TAs with little input from students.
+
 
 <!--
 
@@ -112,7 +113,7 @@ See [Wikipedia's list of golden-age arcade games](https://en.wikipedia.org/wiki/
 
 # FAQ
 
-Many questions of the form "how do I do *X*" are answered in [The PyGame Docs](http://cs1110.cs.virginia.edu/code/gamebox/gamebox.pdf).
+Many questions of the form "how do I do *X*" are answered in [The Gamebox Docs](code/gamebox/gamebox.pdf) or [The Gamebox API](gamebox.html).
 Others are added here as they come to our attention.
 
 Why do my fast-moving objects pass through walls?

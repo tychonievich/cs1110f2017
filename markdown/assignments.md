@@ -133,3 +133,4 @@ Labs are listed in order. See the [schedule](schedule.html) for the specific dat
 -   [gamebox installation](lab11-gamebox.html)
 -   [pong](lab12-pong.html)
 -   [email hunt](lab13-email.html)
+-   review activity

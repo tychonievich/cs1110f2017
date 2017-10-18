@@ -133,7 +133,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 </tr><tr>
 <td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>varies by section<br/></td>
 <td class="day Wednesday " id="2017-11-29"><span class="date">29 Nov</span>varies by section<br/></td>
-<td class="day Thursday  lab" id="2017-11-30"><span class="date">30 Nov</span><br/></td>
+<td class="day Thursday  lab" id="2017-11-30"><span class="date">30 Nov</span>review activity<br/></td>
 <td class="day Friday " id="2017-12-01"><span class="date">1 Dec</span>varies by section<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-12-04"><span class="date">4 Dec</span>review<br/>[review topics](know.html)<br/>the final exam is cumulative<br/></td>
@@ -212,7 +212,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-24" class="noclass"><th>24 Nov </th><td><span class="reason">Thanksgiving break</span></td><td></td><td>
 <tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>varies by section</td><td></td><td>
 <tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>varies by section</td><td></td><td>
-<tr id="2017-11-30" class=" lab"><th>30 Nov <br/></th><td></td><td></td><td></td></tr>
+<tr id="2017-11-30" class=" lab"><th>30 Nov <br/></th><td>review activity</td><td></td><td></td></tr>
 
 <tr id="2017-12-01" class=""><th>1 Dec <br/></th><td>varies by section</td><td></td><td>
 <tr id="2017-12-04" class=""><th>4 Dec <br/></th><td>review</td><td>[review topics](know.html)</td><td>the final exam is cumulative</tbody></table>
