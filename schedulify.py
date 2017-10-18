@@ -266,7 +266,7 @@ with open('../assignments.csv', 'w') as f:
                 w.writerow([
                     'flappybird images (optional)',
                     '*.*',
-                    '2017-04-19 11:00',
+                    '2017-11-13 11:00',
                     '','','0','',''
                 ])
                 w.writerow([

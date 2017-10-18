@@ -67,8 +67,8 @@ for asgn in data['assignments']:
                         if line.startswith('title: '): break
                 print(due,'\n:    ['+line.split('"')[1].strip()+']('+link.strip()+'.html)', extra)
                 #print('    1.  ['+line[7:].strip()+']('+link.strip()+'.html)')
-            except:
-                print(due,'\n:    assignment not yet released')
+            except BaseException as e:
+                print(due,'\n:    assignment not yet released', e)
                 #print('    1.  assignment not yet released')
         
 print('''

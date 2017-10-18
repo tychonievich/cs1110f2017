@@ -1,5 +1,5 @@
 ---
-title: game.py
+title: "Final Project: game.py"
 ...
 
 # Overview
@@ -13,6 +13,11 @@ Unlike other assignments,
 -   We'll check your progress (based on current archimedes submissions) *every Thursday*; lack of progress will result reduced final grades.
 
 # Partnering
+
+The process for partnering has not yet been determined.
+It will likely be assigned by TAs.
+
+<!--
 
 ## Recording a partner.
 
@@ -34,6 +39,8 @@ You can see if your partner submission worked by visiting [the partner summary p
 If you want to work alone or need a group of three, your lab TA (or Professor Dill for 1111) can help you understand how to submit that.  Groups of three will only be approved in the event of an odd number of unmatched people.
 
 Preferably, you'll pick a partner within your same lab section, but that is not strictly required.
+
+-->
 
 ## Working together
 
@@ -124,13 +131,14 @@ How do I make a grid-movement-based game?
 # Submission
 
 You'll need to submit your code and any support files to Archimedes.
-In addition to the final submission date of midnight, 2 May 2017
-we will also check your submissions **each Thursday** between now and then (i.e., 20 April and 27 April).
+In addition to the final submission date of midnight, the last day of classes (not the last day of finals).
+We will also check your progress with two intermediate checkpoints, each due midnight the day before a lab.
 **Making steady progress every week** is a requirement for full credit on this assignment.
 
 We accept all kinds of files in the submission, but note:
 
--   You **must** submit `partner.txt` as part of the first submission
+<!-- -   You **must** submit `partner.txt` as part of the first submission -->
+
 -   The game must be run by using `game.py`; it may use other `.py` files too if you want
 -   If you make your own graphics, level files, etc., upload those; but media you download should be accessed by URL not file so we can save space on the submission server
 -   Don't upload copyrighted material which you do have rights to give us
