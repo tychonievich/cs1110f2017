@@ -34,7 +34,7 @@ Given two lists of interests, return a "compatibility score" for the two.
 This is computed as the number of shared interests divided by the total number of interests:
 $shared \div (shared + notshared)$
 Do not modify the provided lists.
-You may assume that both `i1` and `i2` are lists or tuples and that neither lists contains a duplicate element.
+You may assume that both `i1` and `i2` are lists or tuples and that neither contains a duplicate element.
 
 For example, `compatibility(['games', 'museums', 'food'], ['art', 'food', 'hiking', 'games'])`{.python} should return `0.4`{.python} because there are five interests listed in total, of which only 2 are shared.
 
