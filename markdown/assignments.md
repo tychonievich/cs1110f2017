@@ -89,19 +89,19 @@ Mon 13 Nov
 :    [PA 19: flappybird.py](pa19-flappy.html) 
 
 Wed 15 Nov 
-:    assignment not yet released
+:    [Final Project: game.py](project.html)  (checkpoint 1; due at 11:59 PM)
 
 Tue 21 Nov 
 :    [PA 20: regexs.py](pa20-regex.html) 
 
 Wed 29 Nov 
-:    assignment not yet released
+:    [Final Project: game.py](project.html)  (checkpoint 2; due at 11:59 PM)
 
 Fri 01 Dec 
 :    [PA 21: salary.py](pa21-salary.html) 
 
 Tue 05 Dec 
-:    assignment not yet released
+:    [Final Project: game.py](project.html)  (full project; due at 11:59 PM)
 
 
 <script>

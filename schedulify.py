@@ -256,7 +256,7 @@ with open('../assignments.csv', 'w') as f:
                 slug = task[0:4].upper()
             else:
                 slug = task
-            if task == 'project':
+            if task == 'project' and 'checkpoint' not in extra:
                 #w.writerow([
                     #'game partner selection',
                     #'partner.txt',
