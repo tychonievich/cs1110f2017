@@ -257,14 +257,14 @@ with open('../assignments.csv', 'w') as f:
             else:
                 slug = task
             if task == 'project':
+                #w.writerow([
+                    #'game partner selection',
+                    #'partner.txt',
+                    #'2017-04-13 23:59',
+                    #'0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0','','0','',''
+                #])
                 w.writerow([
-                    'game partner selection',
-                    'partner.txt',
-                    '2017-04-13 23:59',
-                    '0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0','','0','',''
-                ])
-                w.writerow([
-                    'flappybrid images (optional)',
+                    'flappybird images (optional)',
                     '*.*',
                     '2017-04-19 11:00',
                     '','','0','',''
@@ -272,19 +272,19 @@ with open('../assignments.csv', 'w') as f:
                 w.writerow([
                     'game checkpoint 1',
                     'game.py|*.*',
-                    '2017-04-20 23:59',
+                    '2017-11-15 23:59',
                     '0','','0','',''
                 ])
                 w.writerow([
                     'game checkpoint 2',
                     'game.py|*.*',
-                    '2017-04-27 23:59',
+                    '2017-11-29 23:59',
                     '0','','0','',''
                 ])
                 w.writerow([
                     'game project',
                     'game.py|*.*',
-                    '2017-05-02 23:59',
+                    '2017-12-05 23:59',
                     '0','','0','',''
                 ])
                 continue
