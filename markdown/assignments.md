@@ -82,11 +82,17 @@ Wed 25 Oct
 Mon 30 Oct 
 :    [PA 17: lous_list.py](pa17-louslist.html) 
 
-Mon 06 Nov 
+Wed 08 Nov 
 :    [PA 18: spellcheck.py](pa18-spellcheck.html) 
 
-Wed 15 Nov 
+Mon 13 Nov 
 :    [PA 19: flappybird.py](pa19-flappy.html) 
+
+Tue 21 Nov 
+:    [PA 20: regexs.py](pa20-regex.html) 
+
+Fri 01 Dec 
+:    [PA 21: salary.py](pa21-salary.html) 
 
 
 <script>
