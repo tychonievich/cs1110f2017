@@ -118,55 +118,25 @@ for name in (
 
 # Thought Question
 
-    -   Compensation breakdown as a `dict`{.python} with `str`{.python} keys and `float`{.python} values;
-        e.g. 
-        
-        ````python
-        {'Base salary': 188617.0, 'Additional compensation': 4100.0, 'Non-state salary': 346083.0, 'Deferred compensation', 180000.0}
-        ````
-        
-        based on
-    
-            var pay = [ {'name': 'Base salary', 'amount': 188617 }, {'name': 'Additional compensation', 'amount': 4100 }, {'name': 'Non-state salary', 'amount': 346083 }, {'name': 'Deferred compensation', 'amount': 180000 } ];
-        
-        Note that the set of keys in the breakdown `dict` will depend on the employee; for example, `151028368`'s line looks like just
-        
-            var pay = [ {'name': 'Base salary', 'amount': 41000 } ];
-        
-        and would create the `dict`
-        
-        ````python
-        {'Base salary': 41000.0}
-        ````
-    
--   Return the results in a `dict`{.python}, like so:
+The site also gives a salary breakdown for each employee.
+For some this is just their base salary:
 
-    ````python
-    {'title': 'President - University of Virginia', 'pay': 733800.0, 'rank': 1, 'breakdown': {'Base salary': 188617.0, 'Additional compensation': 4100.0, 'Non-state salary': 346083.0, 'Deferred compensation': 180000.0}}
-    ````
-    
-    If the name does not map into a URL we have, instead return an empty `dict`{.python}, `{}`{.python}
+    var pay = [ {'name': 'Base salary', 'amount': 41000 } ];
 
-# Example runs
+but for others it is more complicated:
 
-In addition to `"Teresa Sullivan"`, noted above,
-you should try out 
+    var pay = [ {'name': 'Base salary', 'amount': 188617 }, {'name': 'Additional compensation', 'amount': 4100 }, {'name': 'Non-state salary', 'amount': 346083 }, {'name': 'Deferred compensation', 'amount': 180000 } ];
 
--   an unranked anonymous employee like `"151028368"`,
--   a hyphenated surname like `"Polanowska-Grabow, Renata"`,
--   a multiple-spaces name like `"Ali Reza Forghani Esfahani"`,
--   a job title with a special character like `"pamela-neff"`, and
--   a person not listed like `"thomas-jefferson"`.
+Note that the above is not Python code; it is part of the webpage (a portion written in a language called JavaScript).
 
-In each case, your results should match what you find on the Richmond Times-Dispatch website and our mirror copy of it (except the missing person who should return `{}`).
+Try making a second function `breakdown` that returns a `dict` based on this salary breakdown, returning something like
 
+````python
+{'Base salary': 188617.0, 'Additional compensation': 4100.0, 'Non-state salary': 346083.0, 'Deferred compensation': 180000.0}
+````
+As a hint, try looking for all generic `'name': '...', 'ammount': ...` strings and adding each one to an initially-empty `dict`.
 
 # Troubleshooting
-
-You will probably find it easier to create an empty `dict` first and add new key/value pairs to it as you find them.
-This will help particularly with the optional keys like `rank` and set of the keys in the `breakdown` `dict`.
-
----
 
 There are a lot of things going on in this function.
 Good coding practice would be to make a few extra functions to help out;
@@ -178,26 +148,12 @@ Incidentally, the `name_to_url` proceess does not need regular expressions; it i
 2.  make it lower-case
 3.  change spaces to hyphens
 
----
-
 The easiest way to tell if the URL does not exist is to open it in a `try:`{.python} and handle failure in an `except:`{.python}
 
----
-
 Since the values are identifiable by their surrounding context, try making regular expressions that match that context and keep the answer in a group, such as `<td>([0-9]+) of` for finding rank (which does not quite work as written...).
-
----
 
 When `search` fails to find something, it returns `None`{.python}.
 
 For most of the elements of the answer, `search` is the regular expression method you're most likely to want.
 However, the compensation breakdown will probably benefit from a `finditer`, with a regular expression that matches the key in one group and the value in another group.
 
----
-
-Case matters. If the website describes a person's `Base salary` report their `Base salary` not their `Base Salary`.
-
----
-
-For the compensation breakdown, try looking for all generic `'name': '...', 'ammount': ...` strings and adding each one to an initially-empty `dict`.
-Using groups and the `match.group(number)` method will make this much easier than not using those tools.
