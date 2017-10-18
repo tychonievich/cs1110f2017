@@ -70,6 +70,7 @@ for asgn in data['assignments']:
             except:
                 print(due,'\n:    assignment not yet released')
                 #print('    1.  assignment not yet released')
+        
 print('''
 
 <script>
