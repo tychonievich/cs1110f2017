@@ -22,53 +22,102 @@ The source is what `urllib.request` will retrieve, what your regular expressions
 
 # Task
 
-Write a file called `salary.py` that contains a single function, `get_info`, accepting a single string parameter, a person's name.  The function should
+The following writeup describes elements of the task you are to do, mostly with examples taken from the ["view source" of Teresa Sullivan's page](view-source:http://cs1110.cs.virginia.edu/files/uva2015/teresa-sullivan).
+Your job is to generalize the pattern and put it in a regular expression.
+Some information has multiple locations; you only need to find one of the options.
 
--   Find the URL for the name.
-    Normalize the name first: `"Teresa Sullivan"` and `"Sullivan, Teresa"` and `teresa-sullivan` should all turn into the URL `http://cs1110.cs.virginia.edu/files/uva2015/teresa-sullivan`.
+## Name normalization
 
--   Read the contents of the URL into a string.
+The URLs use full names, family name last, lower-case, with hyphens between name parts.
 
--   Use regular expressions to find the following:
+If given                    Create
+--------------------------- ------------------------------
+`Teresa Sullivan`           `teresa-sullivan`
+`Sullivan, Teresa`          `teresa-sullivan`
+`teresa-sullivan`           `teresa-sullivan`
+`151028368`                 `151028368`
+`Polanowska-Grabow, Renata` `renata-polanowska-grabow`
+
+## Find job title
+
+Job title, e.g. the `President - University of Virginia`, which can be found in multiple locations in the website:
+
+    <meta property="og:description" content="Job title: President - University of Virginia<br /> 2015 total gross pay: $733,800" />
+
+and
+
+    <span class="small text-muted" id="personjob">President - University of Virginia</span>
+
+(the `<title>` line also has a job title, but with the wrong case; use one of the two above)
+
+You'll need a regular expression that (a) finds one of those lines and (b) has a group (parentheses) around the portion that is the job title (`President - University of Virginia`).
+
+After you get the group, if the job title contains `&amp;`, replace it with just `&`; likewise replace `&lt;` with `<` and `&gt;` with `>`.
+
+
+## Find total compensation
+
+Total compensation appears in multiple locations:
+
+    <meta property="og:description" content="Job title: President - University of Virginia<br /> 2015 total gross pay: $733,800" />
+
+and
     
-    -   Job title, e.g. the `President - University of Virginia`, which can be found in multiple locations in the website:
+    <h2 class="pay" id="paytotal">$733,800</h2>
+
+and
     
-            <meta property="og:description" content="Job title: President - University of Virginia<br /> 2015 total gross pay: $733,800" />
-        
-        and
+    <div style="margin:0; float:left; background:#337ab7; height:100%; width:<%= getPct(paytype.amount, 733800.00) %>%;"></div>
+
+Make a regular expression that finds one of these lines and has a group for the salary, and convert it to a `float` (`733800.0`{.python} in this case).
+
+
+## Find rank, if given
+
+Some (but not all) pages have a pay rank compared to other UVA employees; for example, the `1` in
+
+    <tr><td>University of Virginia rank</td><td>1 of 7,474</td></tr>
+
+If it is present, you'll want to turn it into an `int`{.python}.
+If not, use the dummy-rank of `0`.
     
-            <span class="small text-muted" id="personjob">President - University of Virginia</span>
-        
-        It doesn't matter where you get it from in your code.
 
-        If the job title contains `&amp;`, replace it with just `&`; likewise replace `&lt;` with `<` and `&gt;` with `>`.
+## Combine into a function
 
-        Note: a third location has the wrong case:
+Write a function named `report` in a file `salary.py` that takes a name and returns three values:
 
-            <title>Teresa Sullivan salary - President - University Of Virginia - 2015_University of Virginia -  - Richmond.com - Richmond Times-Dispatch</title>
-        
-        Don't use that one; we'll be looking for the version from the `meta` or `span` lines, not the `title` line.
-    
-    -   Total compensation, converted to a `float`.  Again, this is multiple places:
-    
-            <meta property="og:description" content="Job title: President - University of Virginia<br /> 2015 total gross pay: $733,800" />
+-   The job title of that person.
+-   That person's total salary.
+-   That person's salary rank within UVA, or 0 if not provided.
 
-        and
-            
-            <h2 class="pay" id="paytotal">$733,800</h2>
+If the person is not in the salary site, return `None, 0, 0`{.python}
 
-        and
-            
-            <div style="margin:0; float:left; background:#337ab7; height:100%; width:<%= getPct(paytype.amount, 733800.00) %>%;"></div>
-        
-    -   Compensation ranking compared to other UVA employees, e.g. the `1` in 
 
-            <tr><td>University of Virginia rank</td><td>1 of 7,474</td></tr>
+# Example Runs
 
-        Turn this into an `int`{.python} (after removing a comma, if any).
-        Not all people will have a rank listed.
-        If there is no rank, do not include `'rank'` in the returned `dict`{.python}.
-    
+If you run `salary.py` it should not do anything.
+It defines functions, it does not run them.
+
+If in a separate file you write
+
+````
+import salary
+
+for name in (
+        'Teresa Sullivan', 
+        'Sullivan, Teresa', 
+        '151028368', 
+        'Ali Reza Forghani Esfahani', 
+        'pamela-neff',
+        'Thomas Jefferson'
+        ):
+    job, money, rank = salary.report(name)
+    print(name, 'is a', job, 'and makes', money, '(rank', str(rank)+')')
+````
+
+
+# Thought Question
+
     -   Compensation breakdown as a `dict`{.python} with `str`{.python} keys and `float`{.python} values;
         e.g. 
         
