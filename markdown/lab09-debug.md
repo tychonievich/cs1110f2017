@@ -78,6 +78,7 @@ For example, the computer is supposed to play as follows:
     Let's assume the player also takes 1 marble.
 
         How many marbles to you want to take (1-3): 1
+
 2.      The pile has 5 marbles in it.
     
     The computer sees a pile with 5 marbles.
@@ -88,6 +89,7 @@ For example, the computer is supposed to play as follows:
         The computer takes 2 marbles.
         The pile has 3 marbles in it.
         How many marbles to you want to take (1-1): 1
+
 3.      The pile has 2 marbles in it.
 
     The computer sees a pile with 2 marbles.
