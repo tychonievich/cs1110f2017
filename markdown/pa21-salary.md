@@ -115,6 +115,16 @@ for name in (
     print(name, 'is a', job, 'and makes', money, '(rank', str(rank)+')')
 ````
 
+You should see
+
+````
+Teresa Sullivan is a President - University of Virginia and makes 733800.0 (rank 1)
+Sullivan, Teresa is a President - University of Virginia and makes 733800.0 (rank 1)
+151028368 is a Multimedia Creative Technician and makes 41000.0 (rank 0)
+Ali Reza Forghani Esfahani is a Lab Specialist 3-LAB49 and makes 60770.0 (rank 3807)
+pamela-neff is a Laboratory & Research Spec II and makes 58496.0 (rank 3978)
+Thomas Jefferson is a None and makes 0 (rank 0)
+````
 
 # Thought Question
 
