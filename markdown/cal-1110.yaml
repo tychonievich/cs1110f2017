@@ -89,7 +89,7 @@ key:
       reading: §[10.6](http://www.spronck.net/pythonbook/pythonbook.pdf#section.10.6), §[12.4](http://www.spronck.net/pythonbook/pythonbook.pdf#section.12.4)
     - 
       topic: debugging techniques
-      notes: "buggy code will be posted soon"
+      notes: "[hangman_bug.py](files/hangman_bug.py)"
     - 
       topic: flexible indices -- `dict`{.python}
       reading: §[13](http://www.spronck.net/pythonbook/pythonbook.pdf#chapter.13)
