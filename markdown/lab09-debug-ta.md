@@ -13,6 +13,7 @@ Spot checks are on this week (again)
 Encourage them to work in teams.  More than 2 is OK for this lab.
 
 Review the debugging guide on the student site.
+Also review the game strategy example on that site.
 
 Tell them they actually need to read the entire student page.  There is information there they will not be able to do the lab without.
 
