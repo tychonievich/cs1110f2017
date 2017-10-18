@@ -15,7 +15,7 @@ These will be done as follows:
 Given two lists of interests, return a list of the shared interests between the two.
 Do not modify the provided lists.
 The order of elements in the returned list does not matter.
-You may assume that both `i1` and `i2` are lists or tuples and that neither lists contains a duplicate element.
+You may assume that both `i1` and `i2` are lists or tuples and that neither contains a duplicate element.
 
 For example, `agreement(['games', 'museums', 'food'], ['art', 'food', 'hiking', 'games'])`{.python} should return either `['games', 'food']`{.python} or `['food', 'games']`{.python}
 
@@ -24,7 +24,7 @@ For example, `agreement(['games', 'museums', 'food'], ['art', 'food', 'hiking', 
 Given two lists of interests, return a list of interests in only one list.
 Do not modify the provided lists.
 The order of elements in the returned list does not matter.
-You may assume that both `i1` and `i2` are lists or tuples and that neither lists contains a duplicate element.
+You may assume that both `i1` and `i2` are lists or tuples and that neither contains a duplicate element.
 
 For example, `disagreement(['games', 'museums', 'food'], ['art', 'food', 'hiking', 'games'])`{.python} should return some permutation of `['museums', 'art', 'hiking']`{.python}
 
