@@ -32,7 +32,7 @@ For example, `disagreement(['games', 'museums', 'food'], ['art', 'food', 'hiking
 
 Given two lists of interests, return a "compatibility score" for the two.
 This is computed as the number of shared interests divided by the total number of interests:
-$shared \div (shared + notshared)$
+$shared \over (shared + notshared)$
 Do not modify the provided lists.
 You may assume that both `i1` and `i2` are lists or tuples and that neither lists contains a duplicate element.
 
