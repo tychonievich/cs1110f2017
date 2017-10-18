@@ -76,8 +76,14 @@ assignments:
     due: 2017-10-30
     links: [pa17-louslist]
   -
-    due: 2017-11-06
+    due: 2017-11-08
     links: [pa18-spellcheck]
   -
-    due: 2017-11-15
+    due: 2017-11-13
     links: [pa19-flappy]
+  -
+    due: 2017-11-21
+    links: [pa20-regex]
+  -
+    due: 2017-12-01
+    links: [pa21-salary]
