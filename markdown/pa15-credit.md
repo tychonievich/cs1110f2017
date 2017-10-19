@@ -7,6 +7,7 @@ title: "PA 15: credit_card.py"
 Write a file named `credit_card.py` containing a single function, `check`.
 Check accepts a single input -- a positive integer.
 It returns `True`{.python} if the integer represents a valid credit card number.
+As with all functions that return a `bool` value, if it does not return `True` it should return `False`.
 
 Credit card numbers have what is called a check digit.
 This is a simple way of detecting common mis-typings of card numbers.
