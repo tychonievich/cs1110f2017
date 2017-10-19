@@ -79,3 +79,5 @@ If your code is not working for a few numbers, try adding `print`{.python} state
 The easiest way to get the digits out of an `int`{.python} is to convert it to a `str`{.python}, but using `%`{.python} is also possible and not much harder.
 
 The last digit is `% 10` (for an `int`{.python}) or `[-1]` (for a `str`{.python}).
+
+Make sure you return `True` and `False`, not other true-ish or false-ish values like `1` or `None`.
