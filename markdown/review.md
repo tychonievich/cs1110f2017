@@ -18,7 +18,12 @@ Various operators (like `**`{.python} and `[i1:i2]`{.python}) are not included o
 -   `type(value)`{.python}
 -   [other exam 1 topics](lab05-paper.html#things-we-expect-you-to-know)
 
-See also the exams given [Spring 2017](s2017e1.pdf) and [Fall 2017](f2017e1.pdf)
+See also the previous exams:
+
+Semester    | Exam                       | Key/Rubric
+------------|----------------------------|-----------------------------------
+Spring 2017 | [s2017e1.pdf](s2017e1.pdf) | [s2017e1key.txt](s2017e1key.txt)
+Fall 2017   | [f2017e1.pdf](f2017e1.pdf) | [f2017e1key.html](f2017e1key.html)
 
 # Exam 2
 
