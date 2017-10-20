@@ -22,8 +22,8 @@ See also the previous exams:
 
 Semester    | Exam                       | Key/Rubric
 ------------|----------------------------|-----------------------------------
-Spring 2017 | [s2017e1.pdf](s2017e1.pdf) | [s2017e1key.txt](s2017e1key.txt)
-Fall 2017   | [f2017e1.pdf](f2017e1.pdf) | [f2017e1key.html](f2017e1key.html)
+Spring 2017 | [s2017e1.pdf](files/s2017e1.pdf) | [s2017e1key.txt](files/s2017e1key.txt)
+Fall 2017   | [f2017e1.pdf](files/f2017e1.pdf) | [f2017e1key.html](files/f2017e1key.html)
 
 # Exam 2
 
@@ -78,6 +78,11 @@ We expect you to know the following built-in and library functions:
     -   `urllib.request.urlopen(url)`{.python}
     -   `stream.read().decode('utf-8')`{.python}
 
+Semester    | Exam                       | Key/Rubric
+------------|----------------------------|-----------------------------------
+Spring 2017 | [s2017e2.pdf](files/s2017e2.pdf) | [s2017e2key.txt](files/s2017e2key.txt)
+
+
 # Exam 3
 
 -   `try:`{.python}/`except:`{.python}
@@ -110,6 +115,14 @@ We expect you to know the following built-in and library functions:
 -   everything listed for exams 1 and 2
 
 Some exams from previous semesters:
+
+Semester    | Exam                       | Key/Rubric
+------------|----------------------------|-----------------------------------
+Spring 2016 non-coding Qs | (not available) | [CS111X-S16-Final-KEY.pdf](files/CS111X-S16-Final-KEY.pdf)
+Spring 2016 Coding Q | (not available) | [CS111X-S16-Final-Coding.pdf](files/CS111X-S16-Final-Coding.pdf)
+Fall 2016   | [CS111X-F16-Final.pdf](files/CS111X-F16-Final.pdf) | [CS111X-F16-Final-KEY.pdf](files/CS111X-F16-Final-KEY.pdf)
+Spring 2017 | [s2017e2.pdf](files/s2017e2.pdf) | [s2017e2key.txt](files/s2017e2key.txt)
+
 
 Fall 2016
 :   [blank exam](files/CS111X-F16-Final.pdf) and [key](files/CS111X-F16-Final-KEY.pdf)
