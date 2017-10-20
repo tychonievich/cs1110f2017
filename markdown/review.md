@@ -78,6 +78,8 @@ We expect you to know the following built-in and library functions:
     -   `urllib.request.urlopen(url)`{.python}
     -   `stream.read().decode('utf-8')`{.python}
 
+See also the previous exams:
+
 Semester    | Exam                       | Key/Rubric
 ------------|----------------------------|-----------------------------------
 Spring 2017 | [s2017e2.pdf](files/s2017e2.pdf) | [s2017e2key.txt](files/s2017e2key.txt)
@@ -114,21 +116,13 @@ Spring 2017 | [s2017e2.pdf](files/s2017e2.pdf) | [s2017e2key.txt](files/s2017e2k
 -   debugging strategies
 -   everything listed for exams 1 and 2
 
-Some exams from previous semesters:
+See also the previous exams:
 
 Semester    | Exam                       | Key/Rubric
 ------------|----------------------------|-----------------------------------
 Spring 2016 non-coding Qs | (not available) | [CS111X-S16-Final-KEY.pdf](files/CS111X-S16-Final-KEY.pdf)
-Spring 2016 Coding Q | (not available) | [CS111X-S16-Final-Coding.pdf](files/CS111X-S16-Final-Coding.pdf)
+Spring 2016 Coding Q | [CS111X-S16-Final-Coding.pdf](files/CS111X-S16-Final-Coding.pdf) | (not available)
 Fall 2016   | [CS111X-F16-Final.pdf](files/CS111X-F16-Final.pdf) | [CS111X-F16-Final-KEY.pdf](files/CS111X-F16-Final-KEY.pdf)
 Spring 2017 | [s2017e2.pdf](files/s2017e2.pdf) | [s2017e2key.txt](files/s2017e2key.txt)
 
-
-Fall 2016
-:   [blank exam](files/CS111X-F16-Final.pdf) and [key](files/CS111X-F16-Final-KEY.pdf)
-
-Spring 2016
-:   [coding questions](files/CS111X-S16-Final-Coding.pdf) and [rest of exam](files/CS111X-S16-Final-KEY.pdf)
-
-We have covered a different set of topics (particularly since exam 2) than were covered in past semesters, so old exams are not necessarily the best indicator of future exams.
-We suggest that a more effective preparatory activity would be to re-do your old programming assignments on paper without consulting your notes, and then look at the practice excercises in the textbook.
+There was a slight change in topics in Spring 2017, so older exams are not necessarily the best indicator of future exams.
