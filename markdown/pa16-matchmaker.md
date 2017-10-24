@@ -44,7 +44,7 @@ If `compatibility` is working correctly, the following function:
 
 ````python
 def bestmatch(me, others):
-    """Returns a most-compatible person.
+    """Returns a most-compatible person, breaking ties with the first person tied.
     
     Parameters:
         me:     a list of things I like
