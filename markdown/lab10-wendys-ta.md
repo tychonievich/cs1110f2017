@@ -4,10 +4,7 @@ title: "Lab 10: Finding Wendy's - TA Guide"
 
 # Logic Groups and Spot checks
 
-The logic problem for today is not yet determined.  We might do 
-[a hard one](https://docs.google.com/presentation/d/1XJFqyRYVFeu7G___GWbBsgjcSEcveT90qCOvlykju5A/edit?usp=sharing),
-another [self-referential quiz](https://docs.google.com/presentation/d/1JdjaP9RmBeJtnTvhO_pEZpoqJmtS9rHjp8XVNEggfXA/edit?usp=sharing),
-or something else...
+The logic puzzle today is about [a flower contest](https://docs.google.com/presentation/d/1tsavmq361saC8wrIlP3wFAFOm9gsI_cgGRV2srMgY5k/edit?usp=sharing)
 
 Spot checks are on this week (again)
 
