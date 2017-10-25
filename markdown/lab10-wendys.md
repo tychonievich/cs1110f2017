@@ -33,6 +33,17 @@ To test this, you'll need
     if you prefer).
     
     Traditionally, the Wendy's dataset was the only one we provided so we expect your file to be named `wendys.py` even if it looks at one of the other datasets.
+    
+    Each file contains rows with 
+    
+    -   latitude
+    -   longitude
+    -   store-name
+    -   state
+    -   street
+    -   city
+    -   state-and-postal-code
+    -   telephone number
 
 2.  A test location or two.
     Rice hall is (38.0317274, -78.5110432);
