@@ -91,6 +91,7 @@ Details of the optional parameters are given below:
     For example, saying `level=2000` should limit the list to only courses whose first digit is 2.
 
     Note that `level` will either be `None`{.python} or a four-digit integer (not a 1-digit integer or string).
+    If `None`{.python}, do not limit the level the classes.
 
 `not_before`
 :   Tells the function to exclude all classes that start before (but not at) that time.
@@ -98,6 +99,7 @@ Details of the optional parameters are given below:
     then the function should exclude 9:00 and 9:30 classes, but still include 10:00 classes.
     
     Note that `not_before` will either be `None`{.python} or an integer (not a string).
+    If `None`{.python}, do not limit the start time of the classes.
 
 `not_after`
 :   Tells the function to exclude all classes that *start* after (but not at) that time.
@@ -105,6 +107,7 @@ Details of the optional parameters are given below:
     then the function should exclude classes that start at 3:00, but not 2:00.
 
     Note that `not_after` will either be `None`{.python} or an integer (not a string).
+    If `None`{.python}, do not limit the start time of the classes.
 
 
 # Example Runs
