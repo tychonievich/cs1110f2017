@@ -58,7 +58,7 @@ We expect you to know the following built-in and library functions:
     -   `lst.append(value)`{.python}
     -   `lst.insert(index, value)`{.python}
     -   `lst.remove(value)`{.python}
-    -   `del lst[index]`{.python}
+    -   `lst.pop(index)`{.python}
     -   `lst.sort()`{.python}
     -   `lst.reverse()`{.python}
     -   `lst.index(element)`{.python}
@@ -70,6 +70,7 @@ We expect you to know the following built-in and library functions:
     -   `mapping.keys()`{.python}
     -   `mapping.values()`{.python}
     -   `mapping.items()`{.python}
+    -   `mapping.pop(key)`{.python}
 -   `open(filename)`
     -   `connection.read()`{.python}
     -   `connection.readline()`{.python}
