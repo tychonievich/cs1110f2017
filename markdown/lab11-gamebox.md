@@ -37,7 +37,7 @@ Try the following; it does not always work, but when it does work it is the simp
     in the menu pick "Settings" about halfway down to get a pop-up window titled "Settings"
 2.  On the left, half-way down should be an item __Project: *name*__: click it
 3.  On the right, click "Project Interpreter"
-4.  Click the little "+" on the right edge of the Settings window, just below the gear
+4.  Click the little "+" (either on the right edge of the Settings window (just below the gear) or below the window on the left)
 5.  In the search menu at the top of the new pop-up window titled "Available Packages" type "Pygame"
 6.  Assuming Pygame is found by the search, click the "Install Package" button
 7.  If this finishes without an error, you have installed pygame.  Otherwise, see the OS-specific options below.
@@ -64,20 +64,20 @@ Try the following; it does not always work, but when it does work it is the simp
     -   [Open the Python Console](revised2.2.html) and copy everything on the very first line up to the first space.
         Typically this is something like `C:\Users\mst3k\AppData\Local\Programs\Python\Python36\python.exe`,
         though the exact content may vary by how you installed Python.
+        
+    -   Do one of the following.  If the first works, it is easier, but it doesn't always work and you may have to try the second.
     
-    -   [Open the Terminal](revised2.2.html) and enter three lines, one at a time in order,
+        -   [Open the Terminal](revised2.2.html) and enter one line beginning with a paste of what you copied: in the previous step:
+    
+            a.  *paste* `-m pip install pygame`
+    
+        -   If the above failed, [Open the Terminal](revised2.2.html) and enter three lines, one at a time in order,
         each beginning with a paste of what you copied:
-        
-        a.  *paste* `get-pip.py`
-        a.  *paste* `-m pip install wheel`
-        a.  *paste* `-m pip pygame-windows-3.6.whl` (replace `3.6` with the number you downloaded in step 2).
-        
-    -   If the above failed, the following might work (again in the terminal):
-
-        a.  *paste* `-m pip install pygame`
-        
-        This simpler method is slated to become the default in the future, but not all systems support it yet.
-        
+            
+            a.  *paste* `get-pip.py`
+            a.  *paste* `-m pip install wheel`
+            a.  *paste* `-m pip pygame-windows-3.6.whl` (replace `3.6` with the number you downloaded in step 2).
+            
 If you have trouble, ask a TA.  If they have trouble too, come see a professor during office hours.
 
 ### OS X

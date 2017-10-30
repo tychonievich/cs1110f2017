@@ -8,9 +8,6 @@ This lab is optional.  They do not need to sign in.
 
 # Windows specific troubleshooting
 
-In step 5, if they have a problem with the substeps `a.`--`c.`, try the second step `a.` first.
-In theory this will work for most students, but it is a new feature and we haven't tried it with very many students yet.
-
 If they get an error message on substep `c.`, they might have any of the following problems:
 
 -   They might not have downloaded the `.whl` file to the correct directory.  It should be in the same directory as their `.py` files.
