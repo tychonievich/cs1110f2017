@@ -111,7 +111,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday  lab" id="2017-10-26"><span class="date">26 Oct</span>[point-of-interest location](lab10-wendys.html)<br/></td>
 <td class="day Friday " id="2017-10-27"><span class="date">27 Oct</span>more on the data theme<br/> [10am slides.pdf](files/1110/2017-10-27-1000-slides.pdf) [10am vastats2.py](files/1110/2017-10-27-1000-vastats2.py) [10am vastats3.py](files/1110/2017-10-27-1000-vastats3.py) [2pm slides.pdf](files/1110/2017-10-27-1400-slides.pdf) [2pm vastats.py](files/1110/2017-10-27-1400-vastats.py) [2pm vastats2.py](files/1110/2017-10-27-1400-vastats2.py) [10am video](screencasts/2017-10-27-1000.webm) [2pm video](screencasts/2017-10-27-1400.webm)<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/>[review topics](review.html)<br/> [10am e2review.py](files/1110/2017-10-30-1000-e2review.py) [10am slides.pdf](files/1110/2017-10-30-1000-slides.pdf)<br/></td>
+<td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/>[review topics](review.html)<br/> [10am e2review.py](files/1110/2017-10-30-1000-e2review.py) [10am slides.pdf](files/1110/2017-10-30-1000-slides.pdf) [10am video](screencasts/2017-10-30-1000.webm)<br/></td>
 <td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>exam 2</td>
 <td class="day Thursday  lab" id="2017-11-02"><span class="date">2 Nov</span>[gamebox installation](lab11-gamebox.html)<br/></td>
 <td class="day Friday " id="2017-11-03"><span class="date">3 Nov</span>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)<br/>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)<br/></td>
@@ -190,7 +190,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-10-26" class=" lab"><th>26 Oct <br/></th><td>[point-of-interest location](lab10-wendys.html)</td><td></td><td></td></tr>
 
 <tr id="2017-10-27" class=""><th>27 Oct <br/></th><td>more on the data theme</td><td></td><td> [10am slides.pdf](files/1110/2017-10-27-1000-slides.pdf) [10am vastats2.py](files/1110/2017-10-27-1000-vastats2.py) [10am vastats3.py](files/1110/2017-10-27-1000-vastats3.py) [2pm slides.pdf](files/1110/2017-10-27-1400-slides.pdf) [2pm vastats.py](files/1110/2017-10-27-1400-vastats.py) [2pm vastats2.py](files/1110/2017-10-27-1400-vastats2.py) [10am video](screencasts/2017-10-27-1000.webm) [2pm video](screencasts/2017-10-27-1400.webm)
-<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>review</td><td>[review topics](review.html)</td><td> [10am e2review.py](files/1110/2017-10-30-1000-e2review.py) [10am slides.pdf](files/1110/2017-10-30-1000-slides.pdf)
+<tr id="2017-10-30" class=""><th>30 Oct <br/></th><td>review</td><td>[review topics](review.html)</td><td> [10am e2review.py](files/1110/2017-10-30-1000-e2review.py) [10am slides.pdf](files/1110/2017-10-30-1000-slides.pdf) [10am video](screencasts/2017-10-30-1000.webm)
 <tr id="2017-11-01" class="exam"><th>1 Nov </th><td>exam 2</td><td></td><td>
 <tr id="2017-11-02" class=" lab"><th>2 Nov <br/></th><td>[gamebox installation](lab11-gamebox.html)</td><td></td><td></td></tr>
 
