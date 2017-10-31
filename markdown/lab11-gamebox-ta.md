@@ -14,10 +14,10 @@ If they get an error message on substep `c.`, they might have any of the followi
 -   They have the wrong version of Python selected as their project interpreter.  To check for this, and change it if it is the problem, 
     -   File → Settings (opens a new window)
     -   On the left menu, under **Project: *project-name***, select Project Interpreter
-    -   In the drop-down, it should say "3.6.1".  If not,
-        -   Select 3.6.1 if present
+    -   In the drop-down, it should say "3.6.something".  If not,
+        -   Select 3.6.something if present
         -   If not present, go to <http://python.org>, re-download and re-install Python.
-            Download the 64-bit version.
+            Download **the 64-bit version**.
 -   They might have a 32-bit version of Windows.
     The chance of this is very low, but if they do you can get the appropriate `.whl` file from <http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame>
 
