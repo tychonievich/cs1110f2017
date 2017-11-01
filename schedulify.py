@@ -227,7 +227,15 @@ print('<script>rehide()</script>')
 print('''
 <hr/>
 
-Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a>, all sections of 1110 and 1111 will have their final exam at 7--10 pm on Thursday, 7 Dec 2017.  Rooms will be announced later.
+Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a>, all sections of 1110 and 1111 will have their final exam at 7--10 pm on Thursday, 7 Dec 2017. Locations are given below:
+
+| Section | Instructor | Exam Location |
+|---------|------------|---------------|
+| 1110-001|Tychonievich| Chemistry 402 |
+| 1110-002| Dill       | Maury 209     |
+| 1110-003|Tychonievich| Chemistry 402 |
+| 1111-001| Dill       | Maury 209     |
+
 
 Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 2 pm, location sent via email.
 No permission to take the exam on a different day or from off of UVA grounds will be granted without Deans' office request.
