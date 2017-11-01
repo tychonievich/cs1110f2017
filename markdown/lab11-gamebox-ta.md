@@ -17,7 +17,7 @@ If they get an error message on substep `c.`, they might have any of the followi
     -   In the drop-down, it should say "3.6.something".  If not,
         -   Select 3.6.something if present
         -   If not present, go to <http://python.org>, re-download and re-install Python.
-            Download **the 64-bit version**.
+            Download **the 64-bit version** unless you *know* 32-bit is necessary for their computer.
 -   They might have a 32-bit version of Windows.
     The chance of this is very low, but if they do you can get the appropriate `.whl` file from <http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame>
 

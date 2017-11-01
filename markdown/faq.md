@@ -24,9 +24,10 @@ CS 1112
 CS 1113
 :   A generic number for more audience-specific introductions to programming,
     generally by emphasizing the topics that specific disciplines find useful.
-    Section 1113-001 is designed for engineers, pulling examples and assignments from common engineering domains
+    Fall 2017 section 1113-001 is designed for engineers, pulling examples and assignments from common engineering domains
     and teaching some tools and techniques engineers are likely to find useful.
-
+    Spring 2018 section 1113-001 is designed for arts and science majors, presenting a less engineery approach to the topic.
+    
 Placement Test
 :   If you have programmed before, you can likely place out of *Introduction to Programming* entirely.
     Placement tests are offered in the CS department offices (Rice 527); no appointment is necessary.
@@ -37,29 +38,12 @@ CS 1511 is based off the successful CS Principles project and presents broader o
 CS 111*x* will teach you programming skills and related topics;
 CS 1511 will teach you computational thinking and digital citizenship.
 
-<!-- 
 
 # The course is listed as restricted
 
-CS courses are open to students in all majors, but for the initial periods of registration (indicated below) many are restricted to students in majors that require the course.
+CS courses are open to students in all majors, but for the initial periods of registration many are restricted to students in majors that require the course.
 
-As listed in [the list of CS course restriction dates](https://docs.google.com/document/d/1yO90x1yMk0goI5-3qz9BRUHqkVrzezF2bFc1tLMlsO8), 1110/1111 have the following dates:
-
-Start of Registration
-:   Open to SEAS students, CLAS rising 2nd year students, and Math or Cog Sci majors
-
-17-Apr-2017
-:   Open to all
-
-May-2017
-:   Restricted to rising SEAS 1st year students
-
-4-Aug-2017
-:   Restricted to rising A&S 1st year students
-
-11-Aug-2017
-:   Open to all
-
+See <http://tinyurl.com/spring-2018-cs-scheduling> for when enrollment limitations will change.
 The CS Department has no control over the exact time of day that the restriction changes.
 
 If you are not eligible to sign up for a full course, you cannot get on the waiting list. But, put yourself on the waiting list as soon as you can, because at the start of the term, waiting lists often shrink and many students do eventually get in.
@@ -73,13 +57,16 @@ We will not make any exceptions based on intended major declarations.
 
 # Will the course fill up before I have a chance to enroll?
 
-I cannot predict level of demand, but a good guess is "similar to last Fall", which can be viewed by visiting Lou's list for the appropriate semester and clicking on the enrollment number link (i.e., <http://rabi.phys.virginia.edu/mySIS/CS2/enrollment.php?Semester=1168&ClassNumber=17556>), then clicking "all".
+We hope not.
+We have added capacity at a dramatically increased pace in recent semesters; 
+there are 914 seats in 111x in Spring 2018, compared to 806 in Spring 2017.
+Peak waiting list capacity in Spring 2017 was about 140 students,
+so we will probably still have a few people waitlisted this year,
+but hopefully all will get seats as students change courses before the Add Deadline.
 
-We are working to increase supply (our lecture rooms can hold more than last year), though there are challenges to make this happen (finding enough available lab spaces, etc).
-
-Note that while waiting lists do fill up, they also tend to empty before the add deadline.  Patience is sometimes rewarded with enrollment.
-
--->
+Demands is also increasing, though, so no guarantees.
+Only about half of the university takes CS 111x right now,
+so demand will likely eventually double, though it is unlikely to do so in a single year.
 
 # How do I get off the waitlist?
 
