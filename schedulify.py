@@ -237,7 +237,7 @@ Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a
 | 1111-001| Dill       | Maury 209     |
 
 
-Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 2 pm, location sent via email.
+Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 7 pm, location sent via email.
 No permission to take the exam on a different day or from off of UVA grounds will be granted without Deans' office request.
 A form for reporting conflicts and requesting accommodations will be provided after exam 2.
 
