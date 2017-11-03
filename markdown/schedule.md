@@ -114,14 +114,14 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Monday " id="2017-10-30"><span class="date">30 Oct</span>review<br/>[review topics](review.html)<br/> [10am e2review.py](files/1110/2017-10-30-1000-e2review.py) [10am slides.pdf](files/1110/2017-10-30-1000-slides.pdf) [2pm e2review.py](files/1110/2017-10-30-1400-e2review.py) [2pm slides.pdf](files/1110/2017-10-30-1400-slides.pdf) [10am video](screencasts/2017-10-30-1000.webm) [2pm video](screencasts/2017-10-30-1400.webm)<br/></td>
 <td class="day Wednesday exam" id="2017-11-01"><span class="date">1 Nov</span>exam 2</td>
 <td class="day Thursday  lab" id="2017-11-02"><span class="date">2 Nov</span>[gamebox installation](lab11-gamebox.html)<br/></td>
-<td class="day Friday " id="2017-11-03"><span class="date">3 Nov</span>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)<br/>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)<br/></td>
+<td class="day Friday " id="2017-11-03"><span class="date">3 Nov</span>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)<br/>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)<br/> [10am bad_url.py](files/1110/2017-11-03-1000-bad_url.py) [10am odd_exceptions.py](files/1110/2017-11-03-1000-odd_exceptions.py) [10am slides.pdf](files/1110/2017-11-03-1000-slides.pdf) [10am try_to_divide.py](files/1110/2017-11-03-1000-try_to_divide.py) [10am video](screencasts/2017-11-03-1000.webm)<br/></td>
 </tr><tr>
 <td class="day Monday " id="2017-11-06"><span class="date">6 Nov</span>game design with `gamebox`{.python}<br/>[gamebox documentation](code/gamebox/gamebox.pdf)<br/></td>
 <td class="day Wednesday " id="2017-11-08"><span class="date">8 Nov</span>game design with `gamebox`{.python}<br/></td>
 <td class="day Thursday  lab" id="2017-11-09"><span class="date">9 Nov</span>[pong](lab12-pong.html)<br/></td>
 <td class="day Friday " id="2017-11-10"><span class="date">10 Nov</span>game design with `gamebox`{.python}<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-11-13"><span class="date">13 Nov</span>regular expressions<br/>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//https://pythex.org/)<br/></td>
+<td class="day Monday " id="2017-11-13"><span class="date">13 Nov</span>regular expressions<br/>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//pythex.org/)<br/></td>
 <td class="day Wednesday " id="2017-11-15"><span class="date">15 Nov</span>re repetition and groups<br/>§[25.2.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.3), §[25.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.4)<br/></td>
 <td class="day Thursday  lab" id="2017-11-16"><span class="date">16 Nov</span>[email hunt](lab13-email.html)<br/></td>
 <td class="day Friday " id="2017-11-17"><span class="date">17 Nov</span>re building<br/>our [building guide and example](re-tips.html)<br/></td>
@@ -194,13 +194,13 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-01" class="exam"><th>1 Nov </th><td>exam 2</td><td></td><td>
 <tr id="2017-11-02" class=" lab"><th>2 Nov <br/></th><td>[gamebox installation](lab11-gamebox.html)</td><td></td><td></td></tr>
 
-<tr id="2017-11-03" class=""><th>3 Nov <br/></th><td>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)</td><td>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)</td><td>
+<tr id="2017-11-03" class=""><th>3 Nov <br/></th><td>polite code -- using `try`{.python} and `except`{.python} (not on exam 2)</td><td>§[17.2](http://www.spronck.net/pythonbook/pythonbook.pdf#section.17.2)</td><td> [10am bad_url.py](files/1110/2017-11-03-1000-bad_url.py) [10am odd_exceptions.py](files/1110/2017-11-03-1000-odd_exceptions.py) [10am slides.pdf](files/1110/2017-11-03-1000-slides.pdf) [10am try_to_divide.py](files/1110/2017-11-03-1000-try_to_divide.py) [10am video](screencasts/2017-11-03-1000.webm)
 <tr id="2017-11-06" class=""><th>6 Nov <br/></th><td>game design with `gamebox`{.python}</td><td>[gamebox documentation](code/gamebox/gamebox.pdf)</td><td>
 <tr id="2017-11-08" class=""><th>8 Nov <br/></th><td>game design with `gamebox`{.python}</td><td></td><td>
 <tr id="2017-11-09" class=" lab"><th>9 Nov <br/></th><td>[pong](lab12-pong.html)</td><td></td><td></td></tr>
 
 <tr id="2017-11-10" class=""><th>10 Nov <br/></th><td>game design with `gamebox`{.python}</td><td></td><td>
-<tr id="2017-11-13" class=""><th>13 Nov <br/></th><td>regular expressions</td><td>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//https://pythex.org/)</td><td>
+<tr id="2017-11-13" class=""><th>13 Nov <br/></th><td>regular expressions</td><td>§[25.1.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.1), §[25.1.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.3), §[25.1.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.1.4), §[25.2.1](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.1), [pythex.org](//pythex.org/)</td><td>
 <tr id="2017-11-15" class=""><th>15 Nov <br/></th><td>re repetition and groups</td><td>§[25.2.3](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.3), §[25.2.4](http://www.spronck.net/pythonbook/pythonbook.pdf#subsection.25.2.4)</td><td>
 <tr id="2017-11-16" class=" lab"><th>16 Nov <br/></th><td>[email hunt](lab13-email.html)</td><td></td><td></td></tr>
 
@@ -312,7 +312,7 @@ Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a
 | 1111-001| Dill       | Maury 209     |
 
 
-Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 2 pm, location sent via email.
+Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 7 pm, location sent via email.
 No permission to take the exam on a different day or from off of UVA grounds will be granted without Deans' office request.
 A form for reporting conflicts and requesting accommodations will be provided after exam 2.
 
