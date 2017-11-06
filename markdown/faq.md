@@ -59,20 +59,25 @@ We will not make any exceptions based on intended major declarations.
 
 We hope not.
 We have added capacity at a dramatically increased pace in recent semesters; 
-there are 914 seats in 111x in Spring 2018, compared to 806 in Spring 2017.
-Peak waiting list capacity in Spring 2017 was about 140 students,
+there are 914 seats across 111x offerings in Spring 2018, compared to 806 in Spring 2017.
+Peak waiting list capacity in Spring 2017 was about 140 students and final enrollment was 753,
 so we will probably still have a few people waitlisted this year,
 but hopefully all will get seats as students change courses before the Add Deadline.
 
 Demands is also increasing, though, so no guarantees.
-Only about half of the university takes CS 111x right now,
-so demand will likely eventually double, though it is unlikely to do so in a single year.
+Only about half of the students at UVA take CS 111x right now,
+so demand may yet double, though it is unlikely to do so in a single year.
 
 # How do I get off the waitlist?
 
 In order to come off the wait list, there has to be an open seat in BOTH the lecture and lab you are signed up for. If one or the other is not true, then SIS moves on to the next student who has the right combination.
 
-Our main cap is the lab. The lab sessions CANNOT go over 46 due to fire code limits. A few seats in each lab are held back for a week or so to accommodate very special cases.
+Our main cap is lab capacity.
+Each room has a fire-code-enforced upper limit on enrollment.
+The vast majority of our lab sections are listed at that upper limit in SIS, giving us no ability to seat special cases.
+In general,
+
+<!--
 
 Some examples of special cases include:
 
@@ -84,7 +89,6 @@ If you feel you warrant special consideration and are currently on the waitlist,
 
 All SEAS Students will be given a seat, once each, provided they fill out the above form.  If you lose it by dropping and re-adding the course, we cannot re-accommodate you.
 
-<!--
 Earlier there was a link here to a form to submit a waiting list appeal. We have already handled all those appeals and have relinquished control over our extra seats. We no longer have resources to honor additional appeals.
 
 *CLAS (and other schools) Students:*
@@ -96,7 +100,7 @@ Earlier there was a link here to a form to submit a waiting list appeal. We have
 
 *Consider the other CS1 courses:*
 
-We are offering three other CS1 courses this semester: CS 1112 with Jim Cohoon (for students with no programming experience) and CS 1113 with Qureshi Asma (for future engineers). These are both good options to consider and all count the same for prerequisites and major requirements!  CS 1511 this semester is also an introduction to computer science, though with a broader scope (and thus less programming depth) than our other CS1 offerings.
+We are offering three other CS1 courses this semester: CS 1112 with Jim Cohoon (for students with no programming experience) and CS 1113 with Kevin Sullivan (for non-engineers). These are both good options to consider and all count the same for prerequisites and major requirements!  CS 1511 this semester is also an introduction to computer science, though with a broader scope (and thus less programming depth) than our other CS1 offerings.
 
 We wish we could take everyone that wanted CS 1110 or CS 1111, but it’s simply not feasible with the room sizes and resources we have. Please do try again next semester if you can’t get in this time.
 

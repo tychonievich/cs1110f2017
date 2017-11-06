@@ -257,6 +257,7 @@ with open('../assignments.csv', 'w') as f:
     for asgn in sorted(data['assignments'] + labdates, key=lambda x:x['due']):
         date = asgn['due']
         for task in asgn['links']:
+            extra = ''
             if ' (' in task:
                 task, extra = task.split(' (',1)
                 extra = ' ('+extra
@@ -264,7 +265,9 @@ with open('../assignments.csv', 'w') as f:
                 slug = task[0:4].upper()
             else:
                 slug = task
-            if task == 'project' and 'checkpoint' not in extra:
+            if 'checkpoint' in extra:
+                continue
+            if (task == 'project' or 'project' in slug) and 'checkpoint' not in extra:
                 #w.writerow([
                     #'game partner selection',
                     #'partner.txt',

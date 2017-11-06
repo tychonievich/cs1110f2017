@@ -8,6 +8,7 @@ Your task is to use PyGame and gamebox to create in interesting game with a part
 Unlike other assignments,
 
 -   You should work with one (1) partner for the entirety of this assignment
+    -   These will be handled in lab on 9 November (or in an adjacent class for 1111)
 -   This assignment is worth more points (see [the syllabus](syllabus.html) for details)
 -   You are free to define the details of this assignment yourselves
 -   We'll check your progress (based on current archimedes submissions) *every Thursday*; lack of progress will result reduced final grades.
