@@ -2,30 +2,36 @@
 title: "Lab 12: Pong"
 ...
 
+# Mechanics
 
-# Attendance
+There will be 
 
-We will be taking roll in lab each week! Please come to your assigned lab to be counted present!
+1.  A brief logic-group activity
+1.  Pairing up for the coming game project (and for this lab)
+1.  Working on filling in missing code of a Pong game.
+1.  TAs pulling aside students to explain their code.
 
-Each lab TAs are empowered to select their own method of taking roll.
-Please follow your lab TA's instructions.  
-They may dock points if you  are excessively late or leave unusually early.
+# Activities
 
-# Pairing
+## Pairing
 
-For this and all subsequent labs, you will work in pairs.
+It is time to get ready for your [game project](project.html).
+Things to note.
 
-You should have a partner for the game project already selected.  If not, pair with one in lab today.
-The game project will be due the last day of class.
-You'll need to work with your partner to get it designed and implemented by then.
+-   This is a paired assignment.  Pick someone you can work with and who has a schedule similar to yours.  The TAs may help match you up.
 
-You can confirm your project partnering status at [the partner status page](https://archimedes.cs.virginia.edu/cs1110/partners.php).
+    -   Each partner should report their pair at [the partner status page](https://archimedes.cs.virginia.edu/cs1110/partners.php).
+    -   If for some reason you need to work alone or in a group of three, see a TA or professor.
 
+-   You'll have to decide on your own game.  It will be a 2D game using gamebox, as we have a few other requirements in the project description, but you can make many different games within these rules.
+-   You will be submitting weekly checkpoints.  We won't tell you exactly what you need in each, but we do expect to see steady progress.
+-   There will still be other individual assignments during the project time.  Plan your time accordingly!
 
 # Activity
 
 Today we are doing an example game in gamebox; specifically the classic game *Pong*.
 If you are unfamiliar with Pong, head over to [http://www.ponggame.org/](http://www.ponggame.org/) to see what it's all about.
+You can also try out [a one-player web version](pong.html)
 
 We'll play by a basic version of the rules:
 
