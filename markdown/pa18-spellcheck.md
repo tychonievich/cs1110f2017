@@ -49,8 +49,9 @@ Did you remember to `decode` and `strip` the lines of text you read from the web
 Match our formatting exactly, including 
 
 -   having a line printed up front and then no prompt in the `input`s for each line the user types
--   putting two spaces before the all-caps `MISSPELLED:`
+-   putting two spaces before the all-caps `MISSPELLED:`, one space after it
 -   reporting misspellings in the order they appear within the line
+-   reporting misspellings without bracketing punctuation (report `Boojum` not `Boojum!`, etc.)
 
 Capitalization sometimes matters.
 For example, `Abe` is spelled correctly (because it is a common nick-name)
@@ -67,5 +68,15 @@ ecmascript  | ECMAScript     | misspelled
 Ecmascript  | ECMAScript     | misspelled
 ECMAscript  | ECMAScript     | misspelled
 ECMAScript  | ECMAScript     | correctly spelled
+
+Can't figure out what case you are missing? Try the following:
+
+-   Apostrophe inside a word that needs one, like `wits's`
+-   Apostrophe inside a word that can't have one, like `wi'ts`
+-   Correctly spelled word inside apostrophes, like `'wits'`
+-   Incorrectly spelled word inside apostrophes, like `'witss'`
+-   All of the above with other punctuation (not just apostrophes)
+-   The above with incorrect capitalization instead of incorrect spelling
+-   Incorrectly spelled words at the beginning, middle, and end of the first, middle, and last line of input
 
 Confused how to read the page only once?  Try reading the page into a list of words before you do any spellchecking.
