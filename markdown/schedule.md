@@ -314,9 +314,8 @@ Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a
 
 Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 7 pm, location sent via email.
 No permission to take the exam on a different day or from off of UVA grounds will be granted without Deans' office request.
-A form for reporting conflicts and requesting accommodations will be provided after exam 2.
 
-<!-- You may report conflicts and request accomodations at <https://goo.gl/forms/hC5oRY2zJoVfQz023>. -->
+You may report conflicts and request accommodations via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfDcGGIYdkK0a9ZXnMagAF1L39zL8dYyRNVCvXmYEBS7dfrGA/viewform?usp=sf_link).
 
 <!-- TA-led review sessions will be held in Chem 402 on Sunday, 7 May at 7pm and on Wednesday, 10 May at 1pm. -->
 
