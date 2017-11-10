@@ -129,6 +129,13 @@ Why do my fast-moving objects pass through walls?
 How do I make a grid-movement-based game?
 :   Pick a grid size $g$ and then only change $x$ and $y$ in increments of $g$.
 
+I'm getting an error opening images
+:   If the last line of the error contains the number 403, this means the website won't let Python access the image.
+    
+    If the last line of the error contains the text SSL and you are on OS X, this means you need to tell Python how to access encrypted webpages.
+    Go to "Applications/Python\ 3.6/Install\ Certificates.command" on your hard-drive and double-click on it: a window should pop up and install the necessary certificates.
+    
+    If you have another error, check Piazza and if it is not described there, add a question so we can update this FAQ.
 
 # Submission
 
@@ -141,9 +148,9 @@ We accept all kinds of files in the submission, but note:
 
 <!-- -   You **must** submit `partner.txt` as part of the first submission -->
 
--   The game must be run by using `game.py`; it may use other `.py` files too if you want
+-   The game must be run by using a file named `game.py`; it may use other `.py` files too if you want
 -   If you make your own graphics, level files, etc., upload those; but media you download should be accessed by URL not file so we can save space on the submission server
--   Don't upload copyrighted material which you do have rights to give us
+-   Don't upload copyrighted material unless you have rights to give it to us
 
 At least one partner will need to submit your files each time you submit.
 If more than one submit the same file name, the last submission of the group will be used.
