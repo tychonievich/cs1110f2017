@@ -41,6 +41,10 @@ Try the following; it does not always work, but when it does work it is the simp
 5.  In the search menu at the top of the new pop-up window titled "Available Packages" type "Pygame"
 6.  Assuming Pygame is found by the search, click the "Install Package" button
 7.  If this finishes without an error, you have installed pygame.  Otherwise, see the OS-specific options below.
+8.  If you are on OS X, you have one more step:
+    -   In the Finder, open  Applications → Python 3.6
+    -   Double-click on the icon for "Install Certificates.command"
+
 
 ### Windows
 
@@ -94,6 +98,7 @@ If you have trouble, ask a TA.  If they have trouble too, come see a professor d
     6.  `brew install sdl sdl_image sdl_ttf smpeg portmidi libogg libvorbis`{.bash}
     7.  `brew install sdl_mixer --with-libvorbis`{.bash}
     8.  `pip3 install hg+http://bitbucket.org/pygame/pygame`{.bash}
+    9   In the Finder, open  Applications → Python 3.6 and double-click on the icon for "Install Certificates.command"
 
 If you have trouble, ask a TA.  If they have trouble too, come see a professor during office hours.
 
