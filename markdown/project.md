@@ -87,7 +87,7 @@ Collectables
 :   Add collectables (i.e. coins) to the level that can be picked up by the character with a counter that appears on the screen.
 
 Scrolling level
-:   Make it so you can keep going off the screen! (You may need to add a background image to make this more obvious.)
+:   Make the level much larger than the screen (You may need to add a background image to make this more obvious.)
 
 Timer
 :   Have a countdown (or count up) timer for your game.
@@ -105,7 +105,7 @@ Two players simultaneously
 
 It is *not* sufficient to base your game on our examples.
 The example code is designed to teach concepts and give code snippets you can use,
-but since we did an infinite jumper, you should not do one.
+but your game should be significantly more than any of our examples.
 
 # Game Ideas
 
