@@ -3,6 +3,15 @@ title: "Lab 13: Email Finder"
 ...
 
 
+
+# Mechanics
+
+There will be 
+
+1.  A brief logic-group activity
+1.  A coding exercise to find as many emails as you can from a website
+1.  TAs pulling aside students to explain their code
+
 # Attendance
 
 We will be taking roll in lab each week! Please come to your assigned lab to be counted present!
@@ -42,6 +51,8 @@ for line in stream:
     # add code here
 ````
 
+Your code should also work for other pages; for example, <http://cs1110.cs.virginia.edu/emails.php> is set up with different addresses and context, but with the same kind of emails, and is set up so only Python may read it.
+
 ## Your code
 
 Add code that finds email addresses, and prints them out.
@@ -67,6 +78,28 @@ underscore@virginia.edu
 reverse@virginia.edu
 JohnDoe@virginia.edu
 markdown@virginia.edu
+````
+
+
+Example output for <http://cs1110.cs.virginia.edu/emails.php> might be
+
+````
+one@two.com
+three-four@five.edu
+six-seven@cs.virginia.edu
+Mrs.N0way@l4rd-frAMers.info
+d@e.tv
+with-at-sign@vt.edu
+other-email@virginia.com
+first.name@seas.virginia.edu
+my-little@PoNy.ORG
+king@queen.gov
+prince@princess.uk
+a.b@c.d.e.com
+alligator@gmail.com
+backwards@virginia.com
+JaneR@virignia.edu
+moo@cow.com
 ````
 
 See how many you can get (without having non-addresses).
