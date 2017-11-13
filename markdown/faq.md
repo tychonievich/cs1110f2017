@@ -115,6 +115,10 @@ Second, SIS will only tell you your *lecture* position, but your *lab* position 
 In the past, we have had fairly steady drops from the first day of class up to the add deadline, generally with between 5 and 15% turnover.
 But the variance is high and we cannot predict which labs people will drop out of.
 
+# Will you sign a course action form?
+
+Only for course overload, and only if there are open seats in both the lecture and lab section in question.  All other course action form varieties violate room capacity and fire-code limits and will not be approved.
+
 # Can I switch which lab I'm waiting for?
 
 Yes, by dropping the class and re-adding the appropriate waiting list.
