@@ -24,7 +24,7 @@ CS 1112
 CS 1113
 :   A generic number for more audience-specific introductions to programming,
     generally by emphasizing the topics that specific disciplines find useful.
-    Fall 2017 section 1113-001 is designed for engineers, pulling examples and assignments from common engineering domains
+    Fall 2017 section 1113-001 and Spring 2018 1113-002 is designed for engineers, pulling examples and assignments from common engineering domains
     and teaching some tools and techniques engineers are likely to find useful.
     Spring 2018 section 1113-001 is designed for arts and science majors, presenting a less engineery approach to the topic.
     
