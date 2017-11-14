@@ -144,12 +144,24 @@ In addition to the final submission date of midnight, the last day of classes (n
 We will also check your progress with two intermediate checkpoints, each due midnight the day before a lab.
 **Making steady progress every week** is a requirement for full credit on this assignment.
 
+## Checkpoint 1
+
+Should be a python file, named `game.py`, containing comments describing your game idea and how you will fill the optional requirements.  We also encourage starting the game code in that file as well.
+
+## Checkpoint 2
+
+Should be a the basics of a working game, in `game.py`, possibly with a few "it crashes if you do *X*"-type bugs or missing features.
+
+## Final Submission
+
+Should be the entire game.
+
+## Uploading files beyond `game.py`
+
 We accept all kinds of files in the submission, but note:
 
-<!-- -   You **must** submit `partner.txt` as part of the first submission -->
-
--   The game must be run by using a file named `game.py`; it may use other `.py` files too if you want
--   If you make your own graphics, level files, etc., upload those; but media you download should be accessed by URL not file so we can save space on the submission server
+-   The game must be run by using a file named `game.py`; it may use other `.py` files too if you want (upload them too)
+-   If you make your own graphics, level files, etc., upload those; but if you access them in your game by URL yo don't need to upload them
 -   Don't upload copyrighted material unless you have rights to give it to us
 
 At least one partner will need to submit your files each time you submit.
