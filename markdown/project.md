@@ -18,6 +18,8 @@ Unlike other assignments,
 The process for partnering has not yet been determined.
 For logistical reasons, partners will probably be assigned by TAs with little input from students.
 
+You can view your partner at [the partner summary page](https://archimedes.cs.virginia.edu/cs1110/partners.php).
+
 
 <!--
 

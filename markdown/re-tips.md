@@ -56,7 +56,9 @@ This material is also available [in video form](screencasts/regex_number.webm):
     <source src="screencasts/regex_number.mp4" type="video/mp4">
 </video>
 
-The video uses the regular expression building help site, [pythex.org](https://pythex.org).
+The video uses a regular expression building help site, [regexr.com](https://regexr.com).
+That site uses Javascript's regular expressions, which have a few differences from Python's regular expresisons;
+we now suggest using [pythex.org](https://pythex.org) instead.
 
 ### Step-by-step
 
