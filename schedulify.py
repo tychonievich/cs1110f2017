@@ -277,7 +277,7 @@ with open('../assignments.csv', 'w') as f:
                     'flappybird images (optional)',
                     '*.*',
                     '2017-11-13 11:00',
-                    '','','0 0','',''
+                    '0 0 ','','0','',''
                 ])
                 w.writerow([
                     'game checkpoint 1',
