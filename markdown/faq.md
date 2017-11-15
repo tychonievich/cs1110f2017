@@ -54,6 +54,7 @@ If you are not eligible to sign up for a full course, you cannot get on the wait
 Until your major is coded in SIS by the registrar, limitations on enrollment will hold as listed.
 We will not make any exceptions based on intended major declarations.
 
+<!-- 
 
 # Will the course fill up before I have a chance to enroll?
 
@@ -68,16 +69,18 @@ Demands is also increasing, though, so no guarantees.
 Only about half of the students at UVA take CS 111x right now,
 so demand may yet double, though it is unlikely to do so in a single year.
 
+-->
+
 # How do I get off the waitlist?
 
-In order to come off the wait list, there has to be an open seat in BOTH the lecture and lab you are signed up for. If one or the other is not true, then SIS moves on to the next student who has the right combination.
+In order to come off the wait list, there has to be an open seat in **both** the lecture and lab you are signed up for. If one or the other is not true, then SIS moves on to the next student who has the right combination.  Basically, this means switching to a section (or pair of sections) offered at a less-popular time.
+
+<!--
 
 Our main cap is lab capacity.
 Each room has a fire-code-enforced upper limit on enrollment.
 The vast majority of our lab sections are listed at that upper limit in SIS, giving us no ability to seat special cases.
 In general,
-
-<!--
 
 Some examples of special cases include:
 
@@ -96,6 +99,7 @@ Earlier there was a link here to a form to submit a waiting list appeal. We have
 - If you are a first year, we're sorry, but you probably won't get the course this semester. You are welcome to stay on the wait list to see what happens.
 - If you are thinking about the BA major in CS, you need to take 1110 by your third semester. You still have plenty of time. If this is your third semester or later, fill out the form above.
 - If you are in a major that requires CS 1110 (Math, Cog Sci -- note *NOT* Commerce!) and are either a third or fourth year, use the form above.
+
 -->
 
 *Consider the other CS1 courses:*
@@ -124,6 +128,8 @@ Only for course overload, and only if there are open seats in both the lecture a
 Yes, by dropping the class and re-adding the appropriate waiting list.
 Note that this will put you on the *back* of the waiting list.
 There is no way to change which lab you are waiting for without moving to the back of that lab's list.
+
+If the new lab (and lecture) have not waiting list, this will cause you to end up enrolled, not wait-listed.
 
 # What can I do while on the waiting list?
 
