@@ -98,7 +98,7 @@ If you have trouble, ask a TA.  If they have trouble too, come see a professor d
     6.  `brew install sdl sdl_image sdl_ttf smpeg portmidi libogg libvorbis`{.bash}
     7.  `brew install sdl_mixer --with-libvorbis`{.bash}
     8.  `pip3 install hg+http://bitbucket.org/pygame/pygame`{.bash}
-    9   In the Finder, open  Applications → Python 3.6 and double-click on the icon for "Install Certificates.command"
+    9.  In the Finder, open  Applications → Python 3.6 and double-click on the icon for "Install Certificates.command"
 
 If you have trouble, ask a TA.  If they have trouble too, come see a professor during office hours.
 
