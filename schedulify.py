@@ -283,19 +283,19 @@ with open('../assignments.csv', 'w') as f:
                     'game checkpoint 1',
                     'game.py|*.*',
                     '2017-11-15 23:59',
-                    '0','','0','',''
+                    '','','0','',''
                 ])
                 w.writerow([
                     'game checkpoint 2',
                     'game.py|*.*',
                     '2017-11-29 23:59',
-                    '0','','0','',''
+                    '','','0','',''
                 ])
                 w.writerow([
                     'game project',
                     'game.py|*.*',
                     '2017-12-05 23:59',
-                    '0','','0','',''
+                    '','','0','',''
                 ])
                 continue
             try:
