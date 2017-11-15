@@ -302,7 +302,7 @@ with open('../assignments.csv', 'w') as f:
                 with open(task+'.md') as t:
                     fnames = set(_ for _ in filename.findall(t.read()) if _ not in ['gamebox.py', 'get-pip.py','.py'])
                 if not fnames: continue
-                testnames = sorted('test_'+x for x in fnames if '*' not in x)
+                testnames = sorted('test_'+x for x in fnames if '*' not in x and x != 'flappybird.py')
                 if task.startswith('lab'): testnames = '' 
                 w.writerow([
                     slug,
