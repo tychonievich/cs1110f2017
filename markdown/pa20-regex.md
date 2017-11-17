@@ -25,7 +25,7 @@ as follows:
     
     `" hi there"` should not match, nor should `"hi there "` or `"I said "hi" just now"`.
 
--   `twonum =`{.python} a regular expression that matches pairs of numbers, separated by a space, comma, or both.
+-   `twonum =`{.python} a regular expression that matches pairs of numbers, separated by a space, comma, or both (with the space after the comma if both: `, `but not ` ,`).
     Accept both numbers with and without decimal places, and allow an optional preceding `-` on each number.
     If there is a decimal place, there must be at least one digit on each side of it.
     
