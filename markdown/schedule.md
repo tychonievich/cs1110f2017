@@ -131,7 +131,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday noclass lab" id="2017-11-23"><span class="date">23 Nov</span><span class="reason">Thanksgiving break</span></td>
 <td class="day Friday noclass" id="2017-11-24"><span class="date">24 Nov</span><span class="reason">Thanksgiving break</span></td>
 </tr><tr>
-<td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>varies by section<br/></td>
+<td class="day Monday " id="2017-11-27"><span class="date">27 Nov</span>varies by section<br/> [10am append_mode.py](files/1110/2017-11-27-1000-append_mode.py) [10am expanding_file.txt](files/1110/2017-11-27-1000-expanding_file.txt) [10am high_score.py](files/1110/2017-11-27-1000-high_score.py) [10am high_score_append.py](files/1110/2017-11-27-1000-high_score_append.py) [10am high_score_append_by_name.py](files/1110/2017-11-27-1000-high_score_append_by_name.py) [10am more_stuff.txt](files/1110/2017-11-27-1000-more_stuff.txt) [10am put_stuff_here.txt](files/1110/2017-11-27-1000-put_stuff_here.txt) [10am slides.pdf](files/1110/2017-11-27-1000-slides.pdf) [10am writing_files.py](files/1110/2017-11-27-1000-writing_files.py) [10am video](screencasts/2017-11-27-1000.webm)<br/></td>
 <td class="day Wednesday " id="2017-11-29"><span class="date">29 Nov</span>varies by section<br/></td>
 <td class="day Thursday  lab" id="2017-11-30"><span class="date">30 Nov</span>review activity<br/></td>
 <td class="day Friday " id="2017-12-01"><span class="date">1 Dec</span>varies by section<br/></td>
@@ -210,7 +210,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-23" class="noclass lab"><th>23 Nov </th><td><span class="reason">Thanksgiving break</span></td><td></td><td></td></tr>
 
 <tr id="2017-11-24" class="noclass"><th>24 Nov </th><td><span class="reason">Thanksgiving break</span></td><td></td><td>
-<tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>varies by section</td><td></td><td>
+<tr id="2017-11-27" class=""><th>27 Nov <br/></th><td>varies by section</td><td></td><td> [10am append_mode.py](files/1110/2017-11-27-1000-append_mode.py) [10am expanding_file.txt](files/1110/2017-11-27-1000-expanding_file.txt) [10am high_score.py](files/1110/2017-11-27-1000-high_score.py) [10am high_score_append.py](files/1110/2017-11-27-1000-high_score_append.py) [10am high_score_append_by_name.py](files/1110/2017-11-27-1000-high_score_append_by_name.py) [10am more_stuff.txt](files/1110/2017-11-27-1000-more_stuff.txt) [10am put_stuff_here.txt](files/1110/2017-11-27-1000-put_stuff_here.txt) [10am slides.pdf](files/1110/2017-11-27-1000-slides.pdf) [10am writing_files.py](files/1110/2017-11-27-1000-writing_files.py) [10am video](screencasts/2017-11-27-1000.webm)
 <tr id="2017-11-29" class=""><th>29 Nov <br/></th><td>varies by section</td><td></td><td>
 <tr id="2017-11-30" class=" lab"><th>30 Nov <br/></th><td>review activity</td><td></td><td></td></tr>
 
