@@ -134,7 +134,7 @@ How do I make a grid-movement-based game?
 I'm getting an error opening images
 :   If the last line of the error contains the number 403, this means the website won't let Python access the image.
     
-    If the last line of the error contains the text SSL and you are on OS X, this means you need to tell Python how to access encrypted webpages.
+    If the last line of the error contains the text "SSL: CERTIFICATE_VERIFY_FAILED" and you are on OS X, this means you need to tell Python how to access encrypted webpages.
     Go to "Applications/Python\ 3.6/Install\ Certificates.command" on your hard-drive and double-click on it: a window should pop up and install the necessary certificates.
     
     If you have another error, check Piazza and if it is not described there, add a question so we can update this FAQ.
