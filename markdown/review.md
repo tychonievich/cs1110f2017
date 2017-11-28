@@ -89,6 +89,7 @@ Fall 2017   | [f2017e2.pdf](files/f2017e2.pdf) | [f2017e2key.html](files/f2017e2
 
 # Exam 3
 
+-   everything listed for exams 1 and 2 (exam 3 is cumulative, but does not include `turtle`)
 -   `try:`{.python}/`except:`{.python}
 -   `import pygame, gamebox`{.python}
     -   `box1.touches(box2)`{.python}
@@ -99,6 +100,8 @@ Fall 2017   | [f2017e2.pdf](files/f2017e2.pdf) | [f2017e2key.html](files/f2017e2
     -   `timer_loop(ticks_per_second, ticks)`{.python} and the basics of how to write a `ticks` function, including
         -   `ticks`'s argument is a collection of the keys beign pressed
         -   `ticks` is invoked by gamebox many times ever second
+    -   We won't require you to remember the name of any of the `pygame` or `gamebox` functions,
+        but you will need to know how to use them and what they do 
 -   `import re`{.python}
     -   `re.compile(r'...')`{.python}, including the use of `[]`, `()`, `+`, `*`, and `?`
     -   `compiled_re.sub(replacement, text)`{.python}, including the use of `\1` and the like
@@ -107,16 +110,10 @@ Fall 2017   | [f2017e2.pdf](files/f2017e2.pdf) | [f2017e2key.html](files/f2017e2
     -   `match.group()`{.python}
     -   `match.group(n)`{.python}
     -   `match.groups()`{.python}
--   `import os`{.python}
-    -   `os.remove(filename)`{.python}
-    -   `os.rename(old_name, new_name)`{.python}
--   `import os.path`{.python}
-    -   `os.path.exists(filename)`{.python}
 -   `open(filename, 'w')`{.python}
 -   `with open(...) as f:`{.python}
 -   `print(..., file=f)`{.python}
 -   debugging strategies
--   everything listed for exams 1 and 2
 
 See also the previous exams:
 
