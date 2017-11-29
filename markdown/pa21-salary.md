@@ -167,3 +167,9 @@ When `search` fails to find something, it returns `None`{.python}.
 For most of the elements of the answer, `search` is the regular expression method you're most likely to want.
 However, the compensation breakdown will probably benefit from a `finditer`, with a regular expression that matches the key in one group and the value in another group.
 
+Make sure you are returning the right datatypes:
+
+-   title is a `str`{.python}, or the value `None`{.python} (not `"None"`{.python}
+-   income is a `float`{.python}
+-   rank is an `int`{.python}
+
