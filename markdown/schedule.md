@@ -312,10 +312,16 @@ Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a
 | 1111-001| Dill       | Maury 209     |
 
 
+7pm exams in large rooms tend to have heating problems: the rooms tend to start too cold, then get too hot, then cool off again. Dress in layers.
+
+<!--
 Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 7 pm, location sent via email.
 No permission to take the exam on a different day or from off of UVA grounds will be granted without Deans' office request.
 
 You may report conflicts and request accommodations via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfDcGGIYdkK0a9ZXnMagAF1L39zL8dYyRNVCvXmYEBS7dfrGA/viewform?usp=sf_link).
+-->
 
-<!-- TA-led review sessions will be held in Chem 402 on Sunday, 7 May at 7pm and on Wednesday, 10 May at 1pm. -->
+The deadline for reporting conflicts with the final has passed. If you have not been informed of an alternative arrangement, it is probably too late to get one now as the makeup exam room we were given is not large enough to add more people.
+
+A TA-led review session will be held in Chem 402 on Wednesday, 6 May at 2pm.
 
