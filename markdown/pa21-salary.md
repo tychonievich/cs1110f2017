@@ -169,7 +169,7 @@ However, the compensation breakdown will probably benefit from a `finditer`, wit
 
 Make sure you are returning the right datatypes:
 
--   title is a `str`{.python}, or the value `None`{.python} (not `"None"`{.python}
+-   title is a `str`{.python}, or the value `None`{.python} (not `"None"`{.python})
 -   income is a `float`{.python}
 -   rank is an `int`{.python}
 
