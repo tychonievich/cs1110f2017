@@ -136,7 +136,9 @@ key:
     - varies by section
     - varies by section
 
-    - varies by section
+    - 
+      topic: varies by section
+      notes: "[10am AMA form](https://docs.google.com/forms/d/e/1FAIpQLSd94UIege8WoH6_xgNft_5g-4_0te2fGQMw1IfZ0AHd_wO_pQ/viewform?usp=sf_link) [2pm AMA form](https://docs.google.com/forms/d/e/1FAIpQLScZql3nWxnR3Yg2adPed0OTgdl4Jpmgh1jA5OFbO8rIGK1uJg/viewform?usp=sf_link)"
     - 
       topic: review
       reading: "[review topics](review.html)"
