@@ -10,7 +10,6 @@ In particular,
 
 -   There should be one kind if user input, a vertical flap action triggered by either a mouse click or the space bar (your choice) 
     - flap should be flap, not rocket; holding flap should not result in steady upward movement
-    - you do not need to use an animated sprite sheet for this assignment
 -   There should be momentum and gravity (acceleration, not constant-speed motion)
 -   There should be randomly generated scrolling obstacles (pillars) with openings at random heights
     - these should be matched top and bottom, like the original game
@@ -40,7 +39,7 @@ look like an endless stream of pillars when playing the game
 
 # Troubleshooting
 
-The infinite jumper example games (all three sections had one) might be a good starting point.
+The infinite scrolling example games (all sections had one) might be a good starting point.
 
 You don't need to implement anything we don't ask for (e.g., animation, images, sound, background images, etc), though you may as long as you still implement what we do ask for.
 
