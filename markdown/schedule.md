@@ -136,7 +136,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <td class="day Thursday  lab" id="2017-11-30"><span class="date">30 Nov</span>[review activity](lab14-review.html)<br/></td>
 <td class="day Friday " id="2017-12-01"><span class="date">1 Dec</span>varies by section<br/>[10am AMA form](https://docs.google.com/forms/d/e/1FAIpQLSd94UIege8WoH6_xgNft_5g-4_0te2fGQMw1IfZ0AHd_wO_pQ/viewform?usp=sf_link) [2pm AMA form](https://docs.google.com/forms/d/e/1FAIpQLScZql3nWxnR3Yg2adPed0OTgdl4Jpmgh1jA5OFbO8rIGK1uJg/viewform?usp=sf_link)<br/></td>
 </tr><tr>
-<td class="day Monday " id="2017-12-04"><span class="date">4 Dec</span>review<br/>[review topics](review.html)<br/>the final exam is cumulative<br/></td>
+<td class="day Monday " id="2017-12-04"><span class="date">4 Dec</span>review<br/>[review topics](review.html)<br/>the final exam is cumulative [10am e3review.py](files/1110/2017-12-04-1000-e3review.py) [10am slides.pdf](files/1110/2017-12-04-1000-slides.pdf) [10am video](screencasts/2017-12-04-1000.webm)<br/></td>
 </tr></tbody></table>
 <table id="age1110" class="agenda">
 <thead><tr><th>Date</th><th>Topic</th><th>Reading</th><th>Notes</th></tr></thead>
@@ -215,7 +215,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 <tr id="2017-11-30" class=" lab"><th>30 Nov <br/></th><td>[review activity](lab14-review.html)</td><td></td><td></td></tr>
 
 <tr id="2017-12-01" class=""><th>1 Dec <br/></th><td>varies by section</td><td></td><td>[10am AMA form](https://docs.google.com/forms/d/e/1FAIpQLSd94UIege8WoH6_xgNft_5g-4_0te2fGQMw1IfZ0AHd_wO_pQ/viewform?usp=sf_link) [2pm AMA form](https://docs.google.com/forms/d/e/1FAIpQLScZql3nWxnR3Yg2adPed0OTgdl4Jpmgh1jA5OFbO8rIGK1uJg/viewform?usp=sf_link)
-<tr id="2017-12-04" class=""><th>4 Dec <br/></th><td>review</td><td>[review topics](review.html)</td><td>the final exam is cumulative</tbody></table>
+<tr id="2017-12-04" class=""><th>4 Dec <br/></th><td>review</td><td>[review topics](review.html)</td><td>the final exam is cumulative [10am e3review.py](files/1110/2017-12-04-1000-e3review.py) [10am slides.pdf](files/1110/2017-12-04-1000-slides.pdf) [10am video](screencasts/2017-12-04-1000.webm)</tbody></table>
 <table id="cal1111" class="calendar">
 <thead><tr><th>Monday</th><th>Wednesday</th></tr></thead>
 <tbody><tr><td/>
