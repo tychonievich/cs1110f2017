@@ -302,7 +302,7 @@ Note: assignments and their due dates are listed on the [assignments page](assig
 
 <hr/>
 
-Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a>, all sections of 1110 and 1111 will have their final exam at 7--10 pm on Thursday, 7 Dec 2017. Locations are given below:
+Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a>, all sections of 1110 and 1111 will have their final exam at **7--10 pm on Thursday, 7 Dec 2017**. Locations are given below:
 
 | Section | Instructor | Exam Location |
 |---------|------------|---------------|
@@ -312,7 +312,7 @@ Per <a href="http://www.virginia.edu/registrar/exams.html#1178">the registrar</a
 | 1111-001| Dill       | Maury 209     |
 
 
-7pm exams in large rooms tend to have heating problems: the rooms tend to start too cold, then get too hot, then cool off again. Dress in layers.
+7pm exams in large rooms tend to have **heating** problems: the rooms tend to start too cold, then get too hot, then cool off again. Dress in layers.
 
 <!--
 Conflicts with that time will be resolved the preceding day (Wednesday 6 Dec) at 7 pm, location sent via email.
@@ -323,5 +323,5 @@ You may report conflicts and request accommodations via [this form](https://docs
 
 The deadline for reporting conflicts with the final has passed. If you have not been informed of an alternative arrangement, it is probably too late to get one now as the makeup exam room we were given is not large enough to add more people.
 
-A TA-led review session will be held in Chem 402 on Wednesday, 6 May at 2pm.
+A **TA-led review session** will be held in Chem 402 on Wednesday, 6 December at 2pm.
 
