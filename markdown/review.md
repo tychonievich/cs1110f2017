@@ -104,7 +104,7 @@ Fall 2017   | [f2017e2.pdf](files/f2017e2.pdf) | [f2017e2key.html](files/f2017e2
         but you will need to know how to use them and what they do 
 -   `import re`{.python}
     -   `re.compile(r'...')`{.python}, including the use of `[]`, `()`, `+`, `*`, and `?`
-    -   `compiled_re.sub(replacement, text)`{.python}, including the use of `\1` and the like
+    -   `compiled_re.sub(replacement, text)`{.python}, including the use of `\1`
     -   `compiled_re.search(text)`{.python}
     -   `compiled_re.finditer(text)`{.python}
     -   `match.group()`{.python}
@@ -124,4 +124,4 @@ Spring 2016 Coding Q | [CS111X-S16-Final-Coding.pdf](files/CS111X-S16-Final-Codi
 Fall 2016   | [CS111X-F16-Final.pdf](files/CS111X-F16-Final.pdf) | [CS111X-F16-Final-KEY.pdf](files/CS111X-F16-Final-KEY.pdf)
 Spring 2017 | [s2017e3.pdf](files/s2017e3.pdf) | [s2017e3key.txt](files/s2017e3key.txt)
 
-There was a slight change in topics in Spring 2017, so older exams are not necessarily the best indicator of future exams.
+There was a slight change in topics in Spring 2017, and final exams tend to change from one semester to another more than do other exams, so older exams are not necessarily the best indicator of future exams.

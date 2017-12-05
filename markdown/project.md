@@ -20,7 +20,7 @@ For logistical reasons, partners will probably be assigned by TAs with little in
 
 You can view your partner at [the partner summary page](https://archimedes.cs.virginia.edu/cs1110/partners.php).
 
-
+You can submit a partner evaluation using [this google form](https://docs.google.com/forms/d/e/1FAIpQLSclqTmYTrGNerC158UMlN5A2jgbA7xquFpAlnQ4p_F1MGlOAw/viewform?usp=sf_link).
 <!--
 
 ## Recording a partner.
