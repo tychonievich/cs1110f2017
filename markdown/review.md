@@ -98,8 +98,8 @@ Fall 2017   | [f2017e2.pdf](files/f2017e2.pdf) | [f2017e2key.html](files/f2017e2
     -   `camera.draw(box)`{.python}
     -   `camera.display()`{.python}
     -   `timer_loop(ticks_per_second, ticks)`{.python} and the basics of how to write a `ticks` function, including
-        -   `ticks`'s argument is a collection of the keys beign pressed
-        -   `ticks` is invoked by gamebox many times ever second
+        -   `ticks`'s argument is a collection of the keys being pressed
+        -   `ticks` is invoked by gamebox `ticks_per_second` times every second
     -   We won't require you to remember the name of any of the `pygame` or `gamebox` functions,
         but you will need to know how to use them and what they do 
 -   `import re`{.python}

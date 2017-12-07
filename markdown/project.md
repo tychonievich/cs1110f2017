@@ -87,6 +87,10 @@ Enemies
 
 Collectables
 :   Add collectables (i.e. coins) to the level that can be picked up by the character with a counter that appears on the screen.
+   
+    <!-- 
+    We typically get many "does *X* count as a collectable?" questions; standard collectibles exist in the environment, vanish when you touch them, and give you some benefit from collecting them. But see 
+    -->
 
 Scrolling level
 :   Make the level much larger than the screen (You may need to add a background image to make this more obvious.)
@@ -99,9 +103,17 @@ Health meter
 
 Music/Sound effects
 :   Have some good sound design.
+    <!-- 2018: remove music, restrict to sound effects-->
 
 Two players simultaneously
 :   Two players who are able to interact with one another within the game.
+
+<!--
+Something More
+:   Want to add another feature, not listed above, and have it count?
+    Describe it in your game checkpoints and see if your grader thinks it is worth points!
+    Note, it will typically need to be at least as programming-complicates as the examples above...
+-->
 
 ## Other Constraints
 
