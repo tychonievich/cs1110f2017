@@ -123,5 +123,6 @@ Spring 2016 non-coding Qs | (not available) | [CS111X-S16-Final-KEY.pdf](files/C
 Spring 2016 Coding Q | [CS111X-S16-Final-Coding.pdf](files/CS111X-S16-Final-Coding.pdf) | (not available)
 Fall 2016   | [CS111X-F16-Final.pdf](files/CS111X-F16-Final.pdf) | [CS111X-F16-Final-KEY.pdf](files/CS111X-F16-Final-KEY.pdf)
 Spring 2017 | [s2017e3.pdf](files/s2017e3.pdf) | [s2017e3key.txt](files/s2017e3key.txt)
+Fall 2017 | [f2017e3.pdf](files/f2017e3.pdf) | [f2017e3key.html](files/f2017e3key.html)
 
 There was a slight change in topics in Spring 2017, and final exams tend to change from one semester to another more than do other exams, so older exams are not necessarily the best indicator of future exams.
