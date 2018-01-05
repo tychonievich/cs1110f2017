@@ -2,6 +2,10 @@
 title: Introduction to Programming -- Fall 2017
 ...
 
+# Not current!
+
+This is not [the most current version of this class](../).
+
 # Overview
 
 Welcome! In this course, we have two main goals - to teach you the skill of programming and the art of computer science. Having the ability to write and understand simple programs has become increasingly more important. The concepts and principles you pick up in this class will give you the ability to take an algorithm or problem in your chosen field and write a program that will help you do your job quicker, easier, and more reliably.
